@@ -1,0 +1,36 @@
+# Declarative description of supported data sources.
+# Only `results.csv` is required; everything else is optional.
+
+sources:
+  kaggle_international_results:
+    type: kaggle
+    kaggle_dataset: "martj42/international-football-results-from-1872-to-2017"
+    required: true
+    target_dir: data/raw/kaggle_international_results
+    files:
+      results.csv: required
+      shootouts.csv: optional
+      goalscorers.csv: optional
+      former_names.csv: optional
+
+  fifa_rankings:
+    type: manual_or_api
+    required: false
+    target_file: data/raw/fifa_rankings.csv
+    columns: [rank_date, team, rank, points]
+
+  odds:
+    type: manual_or_api
+    required: false
+    target_file: data/raw/odds.csv
+    columns: [date, home_team, away_team, bookmaker, home_odds, draw_odds, away_odds, timestamp]
+
+  player_squad_features:
+    type: manual_or_api
+    required: false
+    target_file: data/raw/player_squad_features.csv
+
+  team_advanced_stats:
+    type: manual_or_api
+    required: false
+    target_file: data/raw/team_advanced_stats.csv

@@ -1,0 +1,60 @@
+project:
+  name: football-match-predictor
+  random_seed: 42
+
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+
+  kaggle_dir: data/raw/kaggle_international_results
+  results_file: data/raw/kaggle_international_results/results.csv
+  shootouts_file: data/raw/kaggle_international_results/shootouts.csv
+  goalscorers_file: data/raw/kaggle_international_results/goalscorers.csv
+  former_names_file: data/raw/kaggle_international_results/former_names.csv
+
+  fifa_rankings_file: data/raw/fifa_rankings.csv
+  odds_file: data/raw/odds.csv
+  player_squad_features_file: data/raw/player_squad_features.csv
+  advanced_stats_file: data/raw/team_advanced_stats.csv
+
+  processed_features_parquet: data/processed/match_features.parquet
+  processed_features_csv: data/processed/match_features.csv
+
+features:
+  rolling_windows: [5, 10, 20]
+  use_custom_elo: true
+  use_fifa_rankings: true
+  use_odds: false
+  use_scorer_features: true
+  use_player_features: false
+  use_advanced_stats: false
+
+prediction:
+  default_mode: early_prediction
+
+elo:
+  initial_rating: 1500
+  home_advantage: 60
+  neutral_home_advantage: 0
+  k_factor_friendly: 15
+  k_factor_qualifier: 30
+  k_factor_continental: 40
+  k_factor_world_cup: 50
+  margin_of_victory_multiplier: true
+
+validation:
+  train_end_date: "2021-12-31"
+  validation_start_date: "2022-01-01"
+  validation_end_date: "2023-12-31"
+  test_start_date: "2024-01-01"
+
+model:
+  target: result_1x2
+  calibrate_probabilities: true
+  save_dir: models/artifacts
+
+ensemble:
+  elo_weight: 0.25
+  poisson_weight: 0.25
+  tabular_weight: 0.35
+  market_weight: 0.15

@@ -1,0 +1,3361 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2015-01-05,Japan,Peru,1,1,FIFA World Cup,City,Japan,True
+2015-01-05,Ghana,Iran,1,1,FIFA World Cup,City,Ghana,True
+2015-01-05,Wales,Germany,0,3,FIFA World Cup,City,Wales,True
+2015-01-05,France,Brazil,2,1,FIFA World Cup,City,France,True
+2015-01-05,Spain,Mexico,3,2,FIFA World Cup,City,Spain,True
+2015-01-05,Tunisia,Qatar,3,0,FIFA World Cup,City,Tunisia,True
+2015-01-12,Tunisia,France,2,0,Friendly,City,Tunisia,False
+2015-01-12,Qatar,Ghana,2,1,Friendly,City,Qatar,False
+2015-01-12,Japan,Spain,1,2,Friendly,City,Japan,False
+2015-01-12,Iran,Brazil,0,3,Friendly,City,Iran,False
+2015-01-12,Germany,Wales,0,1,Friendly,City,Germany,False
+2015-01-12,Mexico,Peru,0,1,Friendly,City,Mexico,False
+2015-01-19,Japan,Peru,2,0,Friendly,City,Japan,False
+2015-01-19,Wales,Tunisia,1,1,Friendly,City,Wales,False
+2015-01-19,Ghana,Qatar,0,1,Friendly,City,Ghana,False
+2015-01-19,Germany,Spain,1,1,Friendly,City,Germany,False
+2015-01-19,Brazil,Iran,1,1,Friendly,City,Brazil,False
+2015-01-19,Mexico,France,2,1,Friendly,City,Mexico,False
+2015-01-26,Qatar,Ghana,1,0,Friendly,City,Qatar,False
+2015-01-26,Iran,Tunisia,5,2,Friendly,City,Iran,False
+2015-01-26,Japan,Germany,2,3,Friendly,City,Japan,False
+2015-01-26,Mexico,Brazil,1,3,Friendly,City,Mexico,False
+2015-01-26,Spain,Wales,3,1,Friendly,City,Spain,False
+2015-01-26,Peru,France,3,0,Friendly,City,Peru,False
+2015-02-02,Wales,Spain,1,0,FIFA World Cup qualification,City,Wales,False
+2015-02-02,Mexico,Peru,1,0,FIFA World Cup qualification,City,Mexico,False
+2015-02-02,Iran,Brazil,1,0,FIFA World Cup qualification,City,Iran,False
+2015-02-02,Qatar,Ghana,0,0,FIFA World Cup qualification,City,Qatar,False
+2015-02-02,France,Japan,0,0,FIFA World Cup qualification,City,France,False
+2015-02-02,Germany,Tunisia,0,0,FIFA World Cup qualification,City,Germany,False
+2015-02-09,Japan,Spain,0,0,Friendly,City,Japan,True
+2015-02-09,Germany,Qatar,1,1,Friendly,City,Germany,True
+2015-02-09,France,Iran,0,1,Friendly,City,France,True
+2015-02-09,Brazil,Mexico,0,5,Friendly,City,Brazil,True
+2015-02-09,Wales,Peru,0,0,Friendly,City,Wales,True
+2015-02-09,Tunisia,Ghana,2,1,Friendly,City,Tunisia,True
+2015-02-16,Iran,Ghana,2,1,Friendly,City,Iran,False
+2015-02-16,France,Mexico,1,1,Friendly,City,France,False
+2015-02-16,Qatar,Spain,4,0,Friendly,City,Qatar,False
+2015-02-16,Wales,Brazil,1,3,Friendly,City,Wales,False
+2015-02-16,Peru,Japan,2,3,Friendly,City,Peru,False
+2015-02-16,Germany,Tunisia,4,3,Friendly,City,Germany,False
+2015-02-23,Germany,Peru,1,3,Friendly,City,Germany,False
+2015-02-23,Wales,Spain,2,0,Friendly,City,Wales,False
+2015-02-23,France,Iran,1,0,Friendly,City,France,False
+2015-02-23,Qatar,Brazil,3,0,Friendly,City,Qatar,False
+2015-02-23,Tunisia,Mexico,1,1,Friendly,City,Tunisia,False
+2015-02-23,Japan,Ghana,1,1,Friendly,City,Japan,False
+2015-03-02,Germany,Qatar,2,3,FIFA World Cup,City,Germany,False
+2015-03-02,Peru,Spain,2,1,FIFA World Cup,City,Peru,False
+2015-03-02,Mexico,Iran,1,1,FIFA World Cup,City,Mexico,False
+2015-03-02,France,Brazil,2,2,FIFA World Cup,City,France,False
+2015-03-02,Tunisia,Ghana,3,0,FIFA World Cup,City,Tunisia,False
+2015-03-02,Wales,Japan,0,0,FIFA World Cup,City,Wales,False
+2015-03-09,Wales,Qatar,0,0,Friendly,City,Wales,False
+2015-03-09,Tunisia,Japan,5,2,Friendly,City,Tunisia,False
+2015-03-09,Brazil,Germany,2,2,Friendly,City,Brazil,False
+2015-03-09,Spain,Mexico,2,0,Friendly,City,Spain,False
+2015-03-09,Ghana,France,3,1,Friendly,City,Ghana,False
+2015-03-09,Peru,Iran,3,1,Friendly,City,Peru,False
+2015-03-16,Peru,Ghana,1,3,Friendly,City,Peru,True
+2015-03-16,Iran,Qatar,0,1,Friendly,City,Iran,True
+2015-03-16,Brazil,France,4,1,Friendly,City,Brazil,True
+2015-03-16,Japan,Wales,1,1,Friendly,City,Japan,True
+2015-03-16,Tunisia,Germany,1,0,Friendly,City,Tunisia,True
+2015-03-16,Spain,Mexico,4,0,Friendly,City,Spain,True
+2015-03-23,Mexico,France,1,0,Friendly,City,Mexico,False
+2015-03-23,Japan,Spain,0,1,Friendly,City,Japan,False
+2015-03-23,Peru,Germany,2,0,Friendly,City,Peru,False
+2015-03-23,Iran,Brazil,1,2,Friendly,City,Iran,False
+2015-03-23,Wales,Ghana,1,2,Friendly,City,Wales,False
+2015-03-23,Tunisia,Qatar,3,2,Friendly,City,Tunisia,False
+2015-03-30,Peru,Ghana,0,3,FIFA World Cup qualification,City,Peru,False
+2015-03-30,Japan,Brazil,0,2,FIFA World Cup qualification,City,Japan,False
+2015-03-30,Iran,Mexico,0,1,FIFA World Cup qualification,City,Iran,False
+2015-03-30,Spain,Tunisia,1,0,FIFA World Cup qualification,City,Spain,False
+2015-03-30,France,Qatar,0,1,FIFA World Cup qualification,City,France,False
+2015-03-30,Germany,Wales,3,0,FIFA World Cup qualification,City,Germany,False
+2015-04-06,France,Japan,1,1,Friendly,City,France,False
+2015-04-06,Spain,Germany,3,2,Friendly,City,Spain,False
+2015-04-06,Brazil,Qatar,2,2,Friendly,City,Brazil,False
+2015-04-06,Mexico,Ghana,0,3,Friendly,City,Mexico,False
+2015-04-06,Iran,Peru,0,2,Friendly,City,Iran,False
+2015-04-06,Tunisia,Wales,0,2,Friendly,City,Tunisia,False
+2015-04-13,Wales,Ghana,1,1,Friendly,City,Wales,False
+2015-04-13,Brazil,Mexico,5,1,Friendly,City,Brazil,False
+2015-04-13,Peru,Spain,0,0,Friendly,City,Peru,False
+2015-04-13,Qatar,Iran,2,1,Friendly,City,Qatar,False
+2015-04-13,Japan,Germany,2,3,Friendly,City,Japan,False
+2015-04-13,Tunisia,France,1,2,Friendly,City,Tunisia,False
+2015-04-20,Ghana,Germany,1,2,Friendly,City,Ghana,True
+2015-04-20,Tunisia,Peru,0,2,Friendly,City,Tunisia,True
+2015-04-20,France,Wales,2,4,Friendly,City,France,True
+2015-04-20,Mexico,Spain,0,3,Friendly,City,Mexico,True
+2015-04-20,Brazil,Iran,2,1,Friendly,City,Brazil,True
+2015-04-20,Qatar,Japan,0,3,Friendly,City,Qatar,True
+2015-04-27,Wales,Mexico,3,1,FIFA World Cup,City,Wales,False
+2015-04-27,Iran,France,1,1,FIFA World Cup,City,Iran,False
+2015-04-27,Spain,Ghana,1,1,FIFA World Cup,City,Spain,False
+2015-04-27,Japan,Tunisia,3,3,FIFA World Cup,City,Japan,False
+2015-04-27,Qatar,Brazil,1,2,FIFA World Cup,City,Qatar,False
+2015-04-27,Peru,Germany,2,4,FIFA World Cup,City,Peru,False
+2015-05-04,Japan,Qatar,3,0,Friendly,City,Japan,False
+2015-05-04,Peru,Wales,1,0,Friendly,City,Peru,False
+2015-05-04,Tunisia,France,2,3,Friendly,City,Tunisia,False
+2015-05-04,Spain,Ghana,3,2,Friendly,City,Spain,False
+2015-05-04,Brazil,Mexico,5,0,Friendly,City,Brazil,False
+2015-05-04,Germany,Iran,1,0,Friendly,City,Germany,False
+2015-05-11,Tunisia,Spain,1,3,Friendly,City,Tunisia,False
+2015-05-11,Wales,Qatar,1,1,Friendly,City,Wales,False
+2015-05-11,Brazil,Germany,3,2,Friendly,City,Brazil,False
+2015-05-11,France,Mexico,2,2,Friendly,City,France,False
+2015-05-11,Iran,Peru,0,0,Friendly,City,Iran,False
+2015-05-11,Japan,Ghana,0,2,Friendly,City,Japan,False
+2015-05-18,Tunisia,Ghana,2,2,Friendly,City,Tunisia,False
+2015-05-18,Iran,France,0,3,Friendly,City,Iran,False
+2015-05-18,Germany,Qatar,1,0,Friendly,City,Germany,False
+2015-05-18,Peru,Spain,1,2,Friendly,City,Peru,False
+2015-05-18,Brazil,Japan,1,3,Friendly,City,Brazil,False
+2015-05-18,Mexico,Wales,0,0,Friendly,City,Mexico,False
+2015-05-25,Tunisia,Germany,1,0,FIFA World Cup qualification,City,Tunisia,True
+2015-05-25,Wales,Ghana,0,0,FIFA World Cup qualification,City,Wales,True
+2015-05-25,Spain,France,1,0,FIFA World Cup qualification,City,Spain,True
+2015-05-25,Brazil,Mexico,1,0,FIFA World Cup qualification,City,Brazil,True
+2015-05-25,Iran,Qatar,0,1,FIFA World Cup qualification,City,Iran,True
+2015-05-25,Peru,Japan,0,0,FIFA World Cup qualification,City,Peru,True
+2015-06-01,Tunisia,Ghana,1,1,Friendly,City,Tunisia,False
+2015-06-01,France,Qatar,0,2,Friendly,City,France,False
+2015-06-01,Wales,Germany,1,1,Friendly,City,Wales,False
+2015-06-01,Spain,Mexico,1,0,Friendly,City,Spain,False
+2015-06-01,Brazil,Japan,2,2,Friendly,City,Brazil,False
+2015-06-01,Iran,Peru,0,1,Friendly,City,Iran,False
+2015-06-08,Spain,Japan,1,0,Friendly,City,Spain,False
+2015-06-08,Qatar,France,1,3,Friendly,City,Qatar,False
+2015-06-08,Brazil,Mexico,1,1,Friendly,City,Brazil,False
+2015-06-08,Ghana,Iran,1,2,Friendly,City,Ghana,False
+2015-06-08,Wales,Germany,1,1,Friendly,City,Wales,False
+2015-06-08,Tunisia,Peru,1,1,Friendly,City,Tunisia,False
+2015-06-15,Iran,Ghana,0,0,Friendly,City,Iran,False
+2015-06-15,Peru,Wales,0,0,Friendly,City,Peru,False
+2015-06-15,Mexico,Spain,0,4,Friendly,City,Mexico,False
+2015-06-15,Tunisia,Japan,3,3,Friendly,City,Tunisia,False
+2015-06-15,Germany,Brazil,1,0,Friendly,City,Germany,False
+2015-06-15,Qatar,France,0,0,Friendly,City,Qatar,False
+2015-06-22,Qatar,Peru,3,2,FIFA World Cup,City,Qatar,False
+2015-06-22,Iran,Mexico,0,0,FIFA World Cup,City,Iran,False
+2015-06-22,Germany,Wales,4,0,FIFA World Cup,City,Germany,False
+2015-06-22,Tunisia,Spain,1,0,FIFA World Cup,City,Tunisia,False
+2015-06-22,Japan,France,1,3,FIFA World Cup,City,Japan,False
+2015-06-22,Ghana,Brazil,0,2,FIFA World Cup,City,Ghana,False
+2015-06-29,Wales,Germany,0,2,Friendly,City,Wales,True
+2015-06-29,Mexico,Spain,1,0,Friendly,City,Mexico,True
+2015-06-29,Ghana,Japan,0,1,Friendly,City,Ghana,True
+2015-06-29,Iran,Tunisia,2,3,Friendly,City,Iran,True
+2015-06-29,Brazil,Qatar,1,2,Friendly,City,Brazil,True
+2015-06-29,Peru,France,3,0,Friendly,City,Peru,True
+2015-07-06,Spain,Germany,0,1,Friendly,City,Spain,False
+2015-07-06,Peru,France,2,2,Friendly,City,Peru,False
+2015-07-06,Tunisia,Brazil,2,2,Friendly,City,Tunisia,False
+2015-07-06,Mexico,Wales,2,3,Friendly,City,Mexico,False
+2015-07-06,Ghana,Iran,3,0,Friendly,City,Ghana,False
+2015-07-06,Qatar,Japan,1,1,Friendly,City,Qatar,False
+2015-07-13,Mexico,Brazil,2,0,Friendly,City,Mexico,False
+2015-07-13,Peru,Wales,1,2,Friendly,City,Peru,False
+2015-07-13,France,Germany,1,3,Friendly,City,France,False
+2015-07-13,Qatar,Tunisia,1,2,Friendly,City,Qatar,False
+2015-07-13,Ghana,Iran,4,0,Friendly,City,Ghana,False
+2015-07-13,Spain,Japan,1,1,Friendly,City,Spain,False
+2015-07-20,Brazil,Qatar,1,0,FIFA World Cup qualification,City,Brazil,False
+2015-07-20,Peru,Japan,1,3,FIFA World Cup qualification,City,Peru,False
+2015-07-20,Mexico,Wales,3,1,FIFA World Cup qualification,City,Mexico,False
+2015-07-20,Germany,Ghana,2,1,FIFA World Cup qualification,City,Germany,False
+2015-07-20,Tunisia,Spain,2,3,FIFA World Cup qualification,City,Tunisia,False
+2015-07-20,Iran,France,1,2,FIFA World Cup qualification,City,Iran,False
+2015-07-27,Japan,Spain,1,2,Friendly,City,Japan,False
+2015-07-27,Ghana,Brazil,1,2,Friendly,City,Ghana,False
+2015-07-27,Wales,Qatar,2,1,Friendly,City,Wales,False
+2015-07-27,Germany,Mexico,1,3,Friendly,City,Germany,False
+2015-07-27,Peru,Iran,0,0,Friendly,City,Peru,False
+2015-07-27,Tunisia,France,5,2,Friendly,City,Tunisia,False
+2015-08-03,Brazil,Peru,2,2,Friendly,City,Brazil,True
+2015-08-03,Spain,Ghana,1,0,Friendly,City,Spain,True
+2015-08-03,Germany,Iran,2,1,Friendly,City,Germany,True
+2015-08-03,France,Wales,3,1,Friendly,City,France,True
+2015-08-03,Mexico,Japan,0,0,Friendly,City,Mexico,True
+2015-08-03,Tunisia,Qatar,0,1,Friendly,City,Tunisia,True
+2015-08-10,Peru,France,2,5,Friendly,City,Peru,False
+2015-08-10,Iran,Germany,0,2,Friendly,City,Iran,False
+2015-08-10,Ghana,Qatar,2,0,Friendly,City,Ghana,False
+2015-08-10,Brazil,Spain,3,1,Friendly,City,Brazil,False
+2015-08-10,Tunisia,Wales,0,0,Friendly,City,Tunisia,False
+2015-08-10,Mexico,Japan,0,1,Friendly,City,Mexico,False
+2015-08-17,Qatar,Brazil,0,2,FIFA World Cup,City,Qatar,False
+2015-08-17,France,Germany,0,0,FIFA World Cup,City,France,False
+2015-08-17,Ghana,Tunisia,4,1,FIFA World Cup,City,Ghana,False
+2015-08-17,Wales,Mexico,2,2,FIFA World Cup,City,Wales,False
+2015-08-17,Iran,Japan,1,2,FIFA World Cup,City,Iran,False
+2015-08-17,Peru,Spain,5,3,FIFA World Cup,City,Peru,False
+2015-08-24,Iran,Germany,2,1,Friendly,City,Iran,False
+2015-08-24,Brazil,France,0,1,Friendly,City,Brazil,False
+2015-08-24,Japan,Tunisia,2,2,Friendly,City,Japan,False
+2015-08-24,Spain,Qatar,1,0,Friendly,City,Spain,False
+2015-08-24,Peru,Ghana,1,1,Friendly,City,Peru,False
+2015-08-24,Wales,Mexico,1,1,Friendly,City,Wales,False
+2015-08-31,Ghana,Spain,1,0,Friendly,City,Ghana,False
+2015-08-31,Iran,Qatar,1,2,Friendly,City,Iran,False
+2015-08-31,Wales,Brazil,1,0,Friendly,City,Wales,False
+2015-08-31,Japan,France,1,2,Friendly,City,Japan,False
+2015-08-31,Peru,Tunisia,1,1,Friendly,City,Peru,False
+2015-08-31,Germany,Mexico,2,1,Friendly,City,Germany,False
+2015-09-07,Germany,Japan,1,1,Friendly,City,Germany,True
+2015-09-07,Ghana,Peru,1,2,Friendly,City,Ghana,True
+2015-09-07,Qatar,Tunisia,0,1,Friendly,City,Qatar,True
+2015-09-07,Mexico,Brazil,3,2,Friendly,City,Mexico,True
+2015-09-07,Iran,Spain,0,0,Friendly,City,Iran,True
+2015-09-07,France,Wales,1,0,Friendly,City,France,True
+2015-09-14,Iran,Peru,0,4,FIFA World Cup qualification,City,Iran,False
+2015-09-14,Japan,France,4,2,FIFA World Cup qualification,City,Japan,False
+2015-09-14,Mexico,Qatar,0,1,FIFA World Cup qualification,City,Mexico,False
+2015-09-14,Wales,Tunisia,1,2,FIFA World Cup qualification,City,Wales,False
+2015-09-14,Germany,Brazil,0,1,FIFA World Cup qualification,City,Germany,False
+2015-09-14,Spain,Ghana,3,1,FIFA World Cup qualification,City,Spain,False
+2015-09-21,France,Japan,1,0,Friendly,City,France,False
+2015-09-21,Iran,Spain,0,1,Friendly,City,Iran,False
+2015-09-21,Germany,Brazil,1,0,Friendly,City,Germany,False
+2015-09-21,Mexico,Qatar,3,0,Friendly,City,Mexico,False
+2015-09-21,Wales,Tunisia,1,0,Friendly,City,Wales,False
+2015-09-21,Ghana,Peru,1,0,Friendly,City,Ghana,False
+2015-09-28,Brazil,Ghana,1,1,Friendly,City,Brazil,False
+2015-09-28,Iran,Tunisia,1,1,Friendly,City,Iran,False
+2015-09-28,Germany,Japan,2,4,Friendly,City,Germany,False
+2015-09-28,Peru,Wales,3,3,Friendly,City,Peru,False
+2015-09-28,Spain,Mexico,0,2,Friendly,City,Spain,False
+2015-09-28,France,Qatar,1,0,Friendly,City,France,False
+2015-10-05,Japan,Iran,2,1,Friendly,City,Japan,False
+2015-10-05,Ghana,Spain,0,1,Friendly,City,Ghana,False
+2015-10-05,Tunisia,France,2,0,Friendly,City,Tunisia,False
+2015-10-05,Mexico,Peru,1,0,Friendly,City,Mexico,False
+2015-10-05,Qatar,Wales,2,1,Friendly,City,Qatar,False
+2015-10-05,Brazil,Germany,0,0,Friendly,City,Brazil,False
+2015-10-12,Ghana,Germany,1,0,FIFA World Cup,City,Ghana,True
+2015-10-12,Tunisia,Peru,2,1,FIFA World Cup,City,Tunisia,True
+2015-10-12,Qatar,Japan,0,4,FIFA World Cup,City,Qatar,True
+2015-10-12,Wales,Iran,0,0,FIFA World Cup,City,Wales,True
+2015-10-12,France,Brazil,0,2,FIFA World Cup,City,France,True
+2015-10-12,Spain,Mexico,0,0,FIFA World Cup,City,Spain,True
+2015-10-19,Tunisia,Peru,2,2,Friendly,City,Tunisia,False
+2015-10-19,Ghana,Brazil,2,1,Friendly,City,Ghana,False
+2015-10-19,Japan,Iran,2,0,Friendly,City,Japan,False
+2015-10-19,France,Qatar,1,0,Friendly,City,France,False
+2015-10-19,Germany,Mexico,2,1,Friendly,City,Germany,False
+2015-10-19,Wales,Spain,0,3,Friendly,City,Wales,False
+2015-10-26,Ghana,Mexico,3,2,Friendly,City,Ghana,False
+2015-10-26,Peru,Brazil,0,3,Friendly,City,Peru,False
+2015-10-26,Wales,Qatar,1,0,Friendly,City,Wales,False
+2015-10-26,Germany,Japan,3,0,Friendly,City,Germany,False
+2015-10-26,Spain,Iran,1,2,Friendly,City,Spain,False
+2015-10-26,Tunisia,France,2,0,Friendly,City,Tunisia,False
+2015-11-02,Mexico,France,1,0,Friendly,City,Mexico,False
+2015-11-02,Qatar,Tunisia,1,1,Friendly,City,Qatar,False
+2015-11-02,Wales,Ghana,1,1,Friendly,City,Wales,False
+2015-11-02,Germany,Japan,3,0,Friendly,City,Germany,False
+2015-11-02,Peru,Brazil,2,1,Friendly,City,Peru,False
+2015-11-02,Spain,Iran,1,1,Friendly,City,Spain,False
+2015-11-09,Mexico,Germany,2,1,FIFA World Cup qualification,City,Mexico,False
+2015-11-09,Qatar,Ghana,3,3,FIFA World Cup qualification,City,Qatar,False
+2015-11-09,Japan,Iran,3,1,FIFA World Cup qualification,City,Japan,False
+2015-11-09,France,Wales,2,1,FIFA World Cup qualification,City,France,False
+2015-11-09,Spain,Brazil,3,1,FIFA World Cup qualification,City,Spain,False
+2015-11-09,Tunisia,Peru,3,1,FIFA World Cup qualification,City,Tunisia,False
+2015-11-16,Japan,Ghana,4,4,Friendly,City,Japan,True
+2015-11-16,Iran,Tunisia,1,3,Friendly,City,Iran,True
+2015-11-16,Mexico,France,1,3,Friendly,City,Mexico,True
+2015-11-16,Spain,Wales,1,0,Friendly,City,Spain,True
+2015-11-16,Qatar,Peru,4,1,Friendly,City,Qatar,True
+2015-11-16,Germany,Brazil,2,0,Friendly,City,Germany,True
+2015-11-23,Peru,Tunisia,2,1,Friendly,City,Peru,False
+2015-11-23,Germany,France,0,1,Friendly,City,Germany,False
+2015-11-23,Wales,Mexico,0,1,Friendly,City,Wales,False
+2015-11-23,Iran,Qatar,1,1,Friendly,City,Iran,False
+2015-11-23,Ghana,Spain,0,0,Friendly,City,Ghana,False
+2015-11-23,Japan,Brazil,1,1,Friendly,City,Japan,False
+2015-11-30,Brazil,Germany,0,1,Friendly,City,Brazil,False
+2015-11-30,Spain,Tunisia,4,2,Friendly,City,Spain,False
+2015-11-30,Qatar,Ghana,1,2,Friendly,City,Qatar,False
+2015-11-30,Wales,Iran,3,0,Friendly,City,Wales,False
+2015-11-30,Peru,Mexico,0,1,Friendly,City,Peru,False
+2015-11-30,France,Japan,1,0,Friendly,City,France,False
+2015-12-07,Ghana,Wales,1,0,FIFA World Cup,City,Ghana,False
+2015-12-07,Tunisia,Iran,3,2,FIFA World Cup,City,Tunisia,False
+2015-12-07,Peru,Japan,0,2,FIFA World Cup,City,Peru,False
+2015-12-07,France,Germany,1,2,FIFA World Cup,City,France,False
+2015-12-07,Brazil,Spain,4,1,FIFA World Cup,City,Brazil,False
+2015-12-07,Qatar,Mexico,2,0,FIFA World Cup,City,Qatar,False
+2015-12-14,Ghana,Wales,1,0,Friendly,City,Ghana,False
+2015-12-14,Germany,Spain,0,0,Friendly,City,Germany,False
+2015-12-14,Tunisia,Japan,4,2,Friendly,City,Tunisia,False
+2015-12-14,Mexico,Qatar,3,1,Friendly,City,Mexico,False
+2015-12-14,Peru,Iran,1,0,Friendly,City,Peru,False
+2015-12-14,Brazil,France,0,2,Friendly,City,Brazil,False
+2015-12-21,Brazil,Qatar,0,1,Friendly,City,Brazil,True
+2015-12-21,Germany,Japan,0,1,Friendly,City,Germany,True
+2015-12-21,France,Spain,2,1,Friendly,City,France,True
+2015-12-21,Mexico,Peru,0,0,Friendly,City,Mexico,True
+2015-12-21,Tunisia,Ghana,3,1,Friendly,City,Tunisia,True
+2015-12-21,Iran,Wales,1,1,Friendly,City,Iran,True
+2015-12-28,Iran,Tunisia,0,3,Friendly,City,Iran,False
+2015-12-28,Ghana,Qatar,0,1,Friendly,City,Ghana,False
+2015-12-28,Japan,Brazil,2,2,Friendly,City,Japan,False
+2015-12-28,Mexico,France,0,2,Friendly,City,Mexico,False
+2015-12-28,Germany,Peru,3,0,Friendly,City,Germany,False
+2015-12-28,Spain,Wales,1,0,Friendly,City,Spain,False
+2016-01-04,Brazil,Wales,3,2,FIFA World Cup qualification,City,Brazil,False
+2016-01-04,Germany,France,0,0,FIFA World Cup qualification,City,Germany,False
+2016-01-04,Peru,Spain,1,1,FIFA World Cup qualification,City,Peru,False
+2016-01-04,Japan,Iran,1,1,FIFA World Cup qualification,City,Japan,False
+2016-01-04,Ghana,Qatar,3,1,FIFA World Cup qualification,City,Ghana,False
+2016-01-04,Mexico,Tunisia,0,1,FIFA World Cup qualification,City,Mexico,False
+2016-01-11,Ghana,Peru,1,0,Friendly,City,Ghana,False
+2016-01-11,Spain,Brazil,4,1,Friendly,City,Spain,False
+2016-01-11,Germany,Japan,0,1,Friendly,City,Germany,False
+2016-01-11,Mexico,Wales,0,0,Friendly,City,Mexico,False
+2016-01-11,Tunisia,Iran,1,0,Friendly,City,Tunisia,False
+2016-01-11,France,Qatar,0,2,Friendly,City,France,False
+2016-01-18,Wales,Japan,0,1,Friendly,City,Wales,False
+2016-01-18,Brazil,Peru,3,0,Friendly,City,Brazil,False
+2016-01-18,Germany,Tunisia,1,0,Friendly,City,Germany,False
+2016-01-18,Qatar,Mexico,2,1,Friendly,City,Qatar,False
+2016-01-18,Spain,France,5,0,Friendly,City,Spain,False
+2016-01-18,Ghana,Iran,0,0,Friendly,City,Ghana,False
+2016-01-25,Ghana,Mexico,2,1,Friendly,City,Ghana,True
+2016-01-25,Qatar,Brazil,2,0,Friendly,City,Qatar,True
+2016-01-25,Tunisia,France,3,0,Friendly,City,Tunisia,True
+2016-01-25,Peru,Iran,1,3,Friendly,City,Peru,True
+2016-01-25,Spain,Germany,0,1,Friendly,City,Spain,True
+2016-01-25,Japan,Wales,2,0,Friendly,City,Japan,True
+2016-02-01,Wales,Mexico,1,1,FIFA World Cup,City,Wales,False
+2016-02-01,Spain,Ghana,1,0,FIFA World Cup,City,Spain,False
+2016-02-01,Brazil,Japan,0,1,FIFA World Cup,City,Brazil,False
+2016-02-01,France,Peru,2,3,FIFA World Cup,City,France,False
+2016-02-01,Qatar,Germany,0,1,FIFA World Cup,City,Qatar,False
+2016-02-01,Iran,Tunisia,1,0,FIFA World Cup,City,Iran,False
+2016-02-08,Peru,Brazil,1,2,Friendly,City,Peru,False
+2016-02-08,Spain,Tunisia,0,1,Friendly,City,Spain,False
+2016-02-08,Wales,France,1,1,Friendly,City,Wales,False
+2016-02-08,Iran,Ghana,1,1,Friendly,City,Iran,False
+2016-02-08,Japan,Mexico,3,1,Friendly,City,Japan,False
+2016-02-08,Germany,Qatar,1,0,Friendly,City,Germany,False
+2016-02-15,Iran,Germany,1,0,Friendly,City,Iran,False
+2016-02-15,Ghana,Japan,1,2,Friendly,City,Ghana,False
+2016-02-15,Spain,Qatar,1,0,Friendly,City,Spain,False
+2016-02-15,France,Peru,0,2,Friendly,City,France,False
+2016-02-15,Mexico,Brazil,1,3,Friendly,City,Mexico,False
+2016-02-15,Wales,Tunisia,2,0,Friendly,City,Wales,False
+2016-02-22,Ghana,Brazil,0,5,Friendly,City,Ghana,False
+2016-02-22,France,Iran,1,2,Friendly,City,France,False
+2016-02-22,Mexico,Japan,0,1,Friendly,City,Mexico,False
+2016-02-22,Germany,Spain,5,0,Friendly,City,Germany,False
+2016-02-22,Qatar,Tunisia,2,2,Friendly,City,Qatar,False
+2016-02-22,Wales,Peru,3,2,Friendly,City,Wales,False
+2016-02-29,France,Tunisia,4,4,FIFA World Cup qualification,City,France,True
+2016-02-29,Wales,Spain,1,1,FIFA World Cup qualification,City,Wales,True
+2016-02-29,Japan,Mexico,4,5,FIFA World Cup qualification,City,Japan,True
+2016-02-29,Germany,Qatar,0,0,FIFA World Cup qualification,City,Germany,True
+2016-02-29,Peru,Iran,1,2,FIFA World Cup qualification,City,Peru,True
+2016-02-29,Brazil,Ghana,2,1,FIFA World Cup qualification,City,Brazil,True
+2016-03-07,Ghana,Japan,2,5,Friendly,City,Ghana,False
+2016-03-07,France,Iran,3,1,Friendly,City,France,False
+2016-03-07,Qatar,Peru,0,0,Friendly,City,Qatar,False
+2016-03-07,Mexico,Spain,4,1,Friendly,City,Mexico,False
+2016-03-07,Wales,Brazil,0,1,Friendly,City,Wales,False
+2016-03-07,Germany,Tunisia,2,0,Friendly,City,Germany,False
+2016-03-14,Brazil,Japan,0,3,Friendly,City,Brazil,False
+2016-03-14,Ghana,Mexico,1,0,Friendly,City,Ghana,False
+2016-03-14,Iran,Spain,0,2,Friendly,City,Iran,False
+2016-03-14,Tunisia,Wales,1,0,Friendly,City,Tunisia,False
+2016-03-14,Peru,Germany,0,0,Friendly,City,Peru,False
+2016-03-14,France,Qatar,2,0,Friendly,City,France,False
+2016-03-21,Mexico,Wales,1,0,Friendly,City,Mexico,False
+2016-03-21,Spain,Peru,2,0,Friendly,City,Spain,False
+2016-03-21,Iran,Qatar,1,0,Friendly,City,Iran,False
+2016-03-21,Tunisia,Japan,3,0,Friendly,City,Tunisia,False
+2016-03-21,Ghana,France,1,0,Friendly,City,Ghana,False
+2016-03-21,Brazil,Germany,2,1,Friendly,City,Brazil,False
+2016-03-28,Ghana,Mexico,2,1,FIFA World Cup,City,Ghana,False
+2016-03-28,Japan,Brazil,6,2,FIFA World Cup,City,Japan,False
+2016-03-28,Iran,Spain,0,1,FIFA World Cup,City,Iran,False
+2016-03-28,France,Peru,1,0,FIFA World Cup,City,France,False
+2016-03-28,Tunisia,Wales,2,0,FIFA World Cup,City,Tunisia,False
+2016-03-28,Germany,Qatar,1,3,FIFA World Cup,City,Germany,False
+2016-04-04,Iran,Wales,2,0,Friendly,City,Iran,True
+2016-04-04,Qatar,Ghana,0,0,Friendly,City,Qatar,True
+2016-04-04,Spain,Japan,3,1,Friendly,City,Spain,True
+2016-04-04,France,Mexico,4,0,Friendly,City,France,True
+2016-04-04,Peru,Germany,4,0,Friendly,City,Peru,True
+2016-04-04,Tunisia,Brazil,2,1,Friendly,City,Tunisia,True
+2016-04-11,Wales,Germany,1,1,Friendly,City,Wales,False
+2016-04-11,Qatar,Mexico,1,1,Friendly,City,Qatar,False
+2016-04-11,Spain,Tunisia,0,3,Friendly,City,Spain,False
+2016-04-11,Brazil,Peru,1,0,Friendly,City,Brazil,False
+2016-04-11,France,Ghana,1,1,Friendly,City,France,False
+2016-04-11,Japan,Iran,3,3,Friendly,City,Japan,False
+2016-04-18,France,Germany,2,3,Friendly,City,France,False
+2016-04-18,Mexico,Spain,1,3,Friendly,City,Mexico,False
+2016-04-18,Ghana,Brazil,2,1,Friendly,City,Ghana,False
+2016-04-18,Japan,Peru,0,0,Friendly,City,Japan,False
+2016-04-18,Wales,Tunisia,0,1,Friendly,City,Wales,False
+2016-04-18,Iran,Qatar,0,1,Friendly,City,Iran,False
+2016-04-25,Spain,France,1,0,FIFA World Cup qualification,City,Spain,False
+2016-04-25,Wales,Germany,0,1,FIFA World Cup qualification,City,Wales,False
+2016-04-25,Mexico,Iran,1,1,FIFA World Cup qualification,City,Mexico,False
+2016-04-25,Tunisia,Peru,1,0,FIFA World Cup qualification,City,Tunisia,False
+2016-04-25,Qatar,Brazil,1,2,FIFA World Cup qualification,City,Qatar,False
+2016-04-25,Japan,Ghana,3,1,FIFA World Cup qualification,City,Japan,False
+2016-05-02,Peru,Iran,0,1,Friendly,City,Peru,False
+2016-05-02,Wales,Tunisia,0,2,Friendly,City,Wales,False
+2016-05-02,France,Ghana,1,0,Friendly,City,France,False
+2016-05-02,Germany,Japan,4,2,Friendly,City,Germany,False
+2016-05-02,Mexico,Spain,1,2,Friendly,City,Mexico,False
+2016-05-02,Brazil,Qatar,3,1,Friendly,City,Brazil,False
+2016-05-09,Peru,Ghana,1,1,Friendly,City,Peru,True
+2016-05-09,Wales,Iran,1,1,Friendly,City,Wales,True
+2016-05-09,Mexico,Tunisia,2,1,Friendly,City,Mexico,True
+2016-05-09,Spain,Qatar,0,0,Friendly,City,Spain,True
+2016-05-09,France,Germany,1,3,Friendly,City,France,True
+2016-05-09,Japan,Brazil,3,4,Friendly,City,Japan,True
+2016-05-16,Peru,Spain,1,3,Friendly,City,Peru,False
+2016-05-16,France,Qatar,0,1,Friendly,City,France,False
+2016-05-16,Brazil,Wales,1,0,Friendly,City,Brazil,False
+2016-05-16,Japan,Iran,0,1,Friendly,City,Japan,False
+2016-05-16,Tunisia,Germany,1,2,Friendly,City,Tunisia,False
+2016-05-16,Ghana,Mexico,4,1,Friendly,City,Ghana,False
+2016-05-23,Mexico,Qatar,1,2,FIFA World Cup,City,Mexico,False
+2016-05-23,Japan,Ghana,0,0,FIFA World Cup,City,Japan,False
+2016-05-23,Spain,France,1,3,FIFA World Cup,City,Spain,False
+2016-05-23,Tunisia,Wales,0,1,FIFA World Cup,City,Tunisia,False
+2016-05-23,Brazil,Germany,0,2,FIFA World Cup,City,Brazil,False
+2016-05-23,Peru,Iran,0,2,FIFA World Cup,City,Peru,False
+2016-05-30,Peru,Spain,3,2,Friendly,City,Peru,False
+2016-05-30,France,Qatar,1,0,Friendly,City,France,False
+2016-05-30,Tunisia,Ghana,4,2,Friendly,City,Tunisia,False
+2016-05-30,Brazil,Germany,0,2,Friendly,City,Brazil,False
+2016-05-30,Mexico,Iran,1,1,Friendly,City,Mexico,False
+2016-05-30,Japan,Wales,1,0,Friendly,City,Japan,False
+2016-06-06,Germany,Japan,3,0,Friendly,City,Germany,False
+2016-06-06,Mexico,Brazil,2,1,Friendly,City,Mexico,False
+2016-06-06,Spain,Peru,3,0,Friendly,City,Spain,False
+2016-06-06,Ghana,Iran,1,1,Friendly,City,Ghana,False
+2016-06-06,Qatar,France,0,0,Friendly,City,Qatar,False
+2016-06-06,Tunisia,Wales,2,0,Friendly,City,Tunisia,False
+2016-06-13,France,Qatar,0,3,Friendly,City,France,True
+2016-06-13,Ghana,Germany,3,2,Friendly,City,Ghana,True
+2016-06-13,Tunisia,Iran,2,1,Friendly,City,Tunisia,True
+2016-06-13,Spain,Japan,1,2,Friendly,City,Spain,True
+2016-06-13,Mexico,Brazil,0,1,Friendly,City,Mexico,True
+2016-06-13,Wales,Peru,2,0,Friendly,City,Wales,True
+2016-06-20,Spain,Wales,1,0,FIFA World Cup qualification,City,Spain,False
+2016-06-20,Tunisia,Qatar,1,1,FIFA World Cup qualification,City,Tunisia,False
+2016-06-20,Mexico,Japan,0,1,FIFA World Cup qualification,City,Mexico,False
+2016-06-20,France,Peru,2,2,FIFA World Cup qualification,City,France,False
+2016-06-20,Brazil,Germany,0,1,FIFA World Cup qualification,City,Brazil,False
+2016-06-20,Ghana,Iran,1,3,FIFA World Cup qualification,City,Ghana,False
+2016-06-27,Wales,Qatar,2,1,Friendly,City,Wales,False
+2016-06-27,France,Japan,1,4,Friendly,City,France,False
+2016-06-27,Mexico,Brazil,2,1,Friendly,City,Mexico,False
+2016-06-27,Germany,Tunisia,2,0,Friendly,City,Germany,False
+2016-06-27,Peru,Spain,1,3,Friendly,City,Peru,False
+2016-06-27,Ghana,Iran,0,0,Friendly,City,Ghana,False
+2016-07-04,Japan,Wales,1,1,Friendly,City,Japan,False
+2016-07-04,France,Germany,0,2,Friendly,City,France,False
+2016-07-04,Mexico,Tunisia,2,2,Friendly,City,Mexico,False
+2016-07-04,Spain,Qatar,1,2,Friendly,City,Spain,False
+2016-07-04,Brazil,Ghana,0,2,Friendly,City,Brazil,False
+2016-07-04,Iran,Peru,1,1,Friendly,City,Iran,False
+2016-07-11,France,Mexico,4,1,Friendly,City,France,False
+2016-07-11,Brazil,Peru,4,1,Friendly,City,Brazil,False
+2016-07-11,Iran,Qatar,0,0,Friendly,City,Iran,False
+2016-07-11,Ghana,Tunisia,2,2,Friendly,City,Ghana,False
+2016-07-11,Germany,Wales,1,0,Friendly,City,Germany,False
+2016-07-11,Spain,Japan,1,2,Friendly,City,Spain,False
+2016-07-18,Japan,Tunisia,1,0,FIFA World Cup,City,Japan,True
+2016-07-18,France,Germany,1,1,FIFA World Cup,City,France,True
+2016-07-18,Iran,Wales,0,1,FIFA World Cup,City,Iran,True
+2016-07-18,Spain,Brazil,2,0,FIFA World Cup,City,Spain,True
+2016-07-18,Mexico,Qatar,1,0,FIFA World Cup,City,Mexico,True
+2016-07-18,Ghana,Peru,2,3,FIFA World Cup,City,Ghana,True
+2016-07-25,Brazil,Mexico,3,0,Friendly,City,Brazil,False
+2016-07-25,Spain,France,2,3,Friendly,City,Spain,False
+2016-07-25,Germany,Ghana,1,1,Friendly,City,Germany,False
+2016-07-25,Japan,Qatar,2,0,Friendly,City,Japan,False
+2016-07-25,Wales,Tunisia,0,0,Friendly,City,Wales,False
+2016-07-25,Peru,Iran,1,0,Friendly,City,Peru,False
+2016-08-01,Germany,Spain,1,1,Friendly,City,Germany,False
+2016-08-01,France,Wales,1,1,Friendly,City,France,False
+2016-08-01,Brazil,Peru,1,2,Friendly,City,Brazil,False
+2016-08-01,Iran,Ghana,1,0,Friendly,City,Iran,False
+2016-08-01,Japan,Tunisia,2,5,Friendly,City,Japan,False
+2016-08-01,Qatar,Mexico,3,0,Friendly,City,Qatar,False
+2016-08-08,Germany,Wales,1,0,Friendly,City,Germany,False
+2016-08-08,Japan,France,2,2,Friendly,City,Japan,False
+2016-08-08,Qatar,Brazil,1,2,Friendly,City,Qatar,False
+2016-08-08,Spain,Tunisia,2,1,Friendly,City,Spain,False
+2016-08-08,Iran,Peru,0,2,Friendly,City,Iran,False
+2016-08-08,Ghana,Mexico,1,0,Friendly,City,Ghana,False
+2016-08-15,Spain,Peru,1,1,FIFA World Cup qualification,City,Spain,False
+2016-08-15,Germany,Mexico,2,1,FIFA World Cup qualification,City,Germany,False
+2016-08-15,Brazil,Wales,2,1,FIFA World Cup qualification,City,Brazil,False
+2016-08-15,Iran,Qatar,0,1,FIFA World Cup qualification,City,Iran,False
+2016-08-15,Ghana,Japan,3,0,FIFA World Cup qualification,City,Ghana,False
+2016-08-15,Tunisia,France,0,1,FIFA World Cup qualification,City,Tunisia,False
+2016-08-22,Tunisia,Ghana,1,0,Friendly,City,Tunisia,True
+2016-08-22,Spain,Qatar,1,0,Friendly,City,Spain,True
+2016-08-22,Brazil,Peru,2,1,Friendly,City,Brazil,True
+2016-08-22,Mexico,Germany,1,1,Friendly,City,Mexico,True
+2016-08-22,Wales,Iran,3,1,Friendly,City,Wales,True
+2016-08-22,Japan,France,1,1,Friendly,City,Japan,True
+2016-08-29,Iran,France,0,1,Friendly,City,Iran,False
+2016-08-29,Ghana,Germany,1,3,Friendly,City,Ghana,False
+2016-08-29,Brazil,Peru,1,0,Friendly,City,Brazil,False
+2016-08-29,Japan,Spain,3,0,Friendly,City,Japan,False
+2016-08-29,Mexico,Qatar,1,0,Friendly,City,Mexico,False
+2016-08-29,Tunisia,Wales,3,0,Friendly,City,Tunisia,False
+2016-09-05,Wales,Peru,2,0,Friendly,City,Wales,False
+2016-09-05,Brazil,Japan,1,2,Friendly,City,Brazil,False
+2016-09-05,Mexico,Iran,0,0,Friendly,City,Mexico,False
+2016-09-05,France,Germany,1,2,Friendly,City,France,False
+2016-09-05,Tunisia,Spain,1,1,Friendly,City,Tunisia,False
+2016-09-05,Qatar,Ghana,0,0,Friendly,City,Qatar,False
+2016-09-12,Peru,France,1,1,FIFA World Cup,City,Peru,False
+2016-09-12,Tunisia,Wales,2,0,FIFA World Cup,City,Tunisia,False
+2016-09-12,Qatar,Spain,1,0,FIFA World Cup,City,Qatar,False
+2016-09-12,Brazil,Japan,2,2,FIFA World Cup,City,Brazil,False
+2016-09-12,Ghana,Germany,4,0,FIFA World Cup,City,Ghana,False
+2016-09-12,Mexico,Iran,1,3,FIFA World Cup,City,Mexico,False
+2016-09-19,Japan,Tunisia,2,1,Friendly,City,Japan,False
+2016-09-19,Germany,Spain,2,1,Friendly,City,Germany,False
+2016-09-19,Qatar,Iran,1,1,Friendly,City,Qatar,False
+2016-09-19,France,Mexico,0,0,Friendly,City,France,False
+2016-09-19,Ghana,Peru,2,2,Friendly,City,Ghana,False
+2016-09-19,Brazil,Wales,2,1,Friendly,City,Brazil,False
+2016-09-26,Japan,Tunisia,0,3,Friendly,City,Japan,True
+2016-09-26,Ghana,Peru,1,2,Friendly,City,Ghana,True
+2016-09-26,Iran,Germany,0,0,Friendly,City,Iran,True
+2016-09-26,Wales,Brazil,1,0,Friendly,City,Wales,True
+2016-09-26,France,Qatar,3,0,Friendly,City,France,True
+2016-09-26,Spain,Mexico,1,0,Friendly,City,Spain,True
+2016-10-03,Qatar,Wales,2,1,Friendly,City,Qatar,False
+2016-10-03,Ghana,Tunisia,1,1,Friendly,City,Ghana,False
+2016-10-03,France,Iran,0,1,Friendly,City,France,False
+2016-10-03,Mexico,Japan,0,4,Friendly,City,Mexico,False
+2016-10-03,Peru,Spain,1,2,Friendly,City,Peru,False
+2016-10-03,Germany,Brazil,2,1,Friendly,City,Germany,False
+2016-10-10,Ghana,Qatar,1,3,FIFA World Cup qualification,City,Ghana,False
+2016-10-10,Germany,Wales,2,2,FIFA World Cup qualification,City,Germany,False
+2016-10-10,Peru,Brazil,1,0,FIFA World Cup qualification,City,Peru,False
+2016-10-10,Japan,Spain,1,0,FIFA World Cup qualification,City,Japan,False
+2016-10-10,Iran,France,0,0,FIFA World Cup qualification,City,Iran,False
+2016-10-10,Tunisia,Mexico,0,2,FIFA World Cup qualification,City,Tunisia,False
+2016-10-17,Iran,Wales,1,0,Friendly,City,Iran,False
+2016-10-17,Tunisia,France,2,3,Friendly,City,Tunisia,False
+2016-10-17,Japan,Ghana,2,1,Friendly,City,Japan,False
+2016-10-17,Spain,Germany,3,1,Friendly,City,Spain,False
+2016-10-17,Brazil,Qatar,2,1,Friendly,City,Brazil,False
+2016-10-17,Peru,Mexico,2,0,Friendly,City,Peru,False
+2016-10-24,Japan,Peru,1,2,Friendly,City,Japan,False
+2016-10-24,Tunisia,Wales,1,1,Friendly,City,Tunisia,False
+2016-10-24,Spain,Qatar,1,2,Friendly,City,Spain,False
+2016-10-24,Ghana,France,2,2,Friendly,City,Ghana,False
+2016-10-24,Germany,Iran,0,4,Friendly,City,Germany,False
+2016-10-24,Brazil,Mexico,1,2,Friendly,City,Brazil,False
+2016-10-31,Peru,Wales,0,1,Friendly,City,Peru,True
+2016-10-31,Mexico,Spain,0,1,Friendly,City,Mexico,True
+2016-10-31,Tunisia,France,2,0,Friendly,City,Tunisia,True
+2016-10-31,Qatar,Brazil,2,2,Friendly,City,Qatar,True
+2016-10-31,Ghana,Japan,1,1,Friendly,City,Ghana,True
+2016-10-31,Germany,Iran,2,0,Friendly,City,Germany,True
+2016-11-07,Germany,Japan,0,2,FIFA World Cup,City,Germany,False
+2016-11-07,Brazil,Spain,2,3,FIFA World Cup,City,Brazil,False
+2016-11-07,Peru,Ghana,3,1,FIFA World Cup,City,Peru,False
+2016-11-07,Wales,Tunisia,0,0,FIFA World Cup,City,Wales,False
+2016-11-07,Mexico,Iran,2,0,FIFA World Cup,City,Mexico,False
+2016-11-07,France,Qatar,1,0,FIFA World Cup,City,France,False
+2016-11-14,Brazil,Ghana,1,4,Friendly,City,Brazil,False
+2016-11-14,Wales,Tunisia,1,2,Friendly,City,Wales,False
+2016-11-14,Peru,Qatar,2,0,Friendly,City,Peru,False
+2016-11-14,Germany,Mexico,1,1,Friendly,City,Germany,False
+2016-11-14,Spain,Japan,1,1,Friendly,City,Spain,False
+2016-11-14,France,Iran,0,1,Friendly,City,France,False
+2016-11-21,Germany,Peru,1,1,Friendly,City,Germany,False
+2016-11-21,Qatar,Wales,1,1,Friendly,City,Qatar,False
+2016-11-21,Iran,Spain,1,1,Friendly,City,Iran,False
+2016-11-21,France,Brazil,2,1,Friendly,City,France,False
+2016-11-21,Japan,Tunisia,0,1,Friendly,City,Japan,False
+2016-11-21,Ghana,Mexico,1,3,Friendly,City,Ghana,False
+2016-11-28,Iran,Japan,0,0,Friendly,City,Iran,False
+2016-11-28,Ghana,Wales,0,2,Friendly,City,Ghana,False
+2016-11-28,Peru,Tunisia,1,0,Friendly,City,Peru,False
+2016-11-28,Spain,Brazil,0,1,Friendly,City,Spain,False
+2016-11-28,Mexico,Germany,2,2,Friendly,City,Mexico,False
+2016-11-28,Qatar,France,0,2,Friendly,City,Qatar,False
+2016-12-05,Brazil,Iran,1,3,FIFA World Cup qualification,City,Brazil,True
+2016-12-05,Qatar,Germany,4,0,FIFA World Cup qualification,City,Qatar,True
+2016-12-05,Tunisia,Mexico,1,1,FIFA World Cup qualification,City,Tunisia,True
+2016-12-05,Ghana,France,0,4,FIFA World Cup qualification,City,Ghana,True
+2016-12-05,Spain,Peru,1,0,FIFA World Cup qualification,City,Spain,True
+2016-12-05,Wales,Japan,2,4,FIFA World Cup qualification,City,Wales,True
+2016-12-12,Mexico,Wales,2,1,Friendly,City,Mexico,False
+2016-12-12,France,Brazil,0,3,Friendly,City,France,False
+2016-12-12,Spain,Germany,3,1,Friendly,City,Spain,False
+2016-12-12,Iran,Japan,1,1,Friendly,City,Iran,False
+2016-12-12,Ghana,Qatar,0,0,Friendly,City,Ghana,False
+2016-12-12,Tunisia,Peru,1,1,Friendly,City,Tunisia,False
+2016-12-19,Iran,Germany,2,1,Friendly,City,Iran,False
+2016-12-19,Peru,Mexico,2,0,Friendly,City,Peru,False
+2016-12-19,Spain,Tunisia,0,0,Friendly,City,Spain,False
+2016-12-19,Wales,Brazil,0,2,Friendly,City,Wales,False
+2016-12-19,Qatar,France,0,3,Friendly,City,Qatar,False
+2016-12-19,Ghana,Japan,4,1,Friendly,City,Ghana,False
+2016-12-26,Brazil,Qatar,1,0,Friendly,City,Brazil,False
+2016-12-26,Peru,Wales,3,0,Friendly,City,Peru,False
+2016-12-26,France,Ghana,3,1,Friendly,City,France,False
+2016-12-26,Mexico,Japan,3,0,Friendly,City,Mexico,False
+2016-12-26,Tunisia,Iran,3,1,Friendly,City,Tunisia,False
+2016-12-26,Spain,Germany,1,0,Friendly,City,Spain,False
+2017-01-02,France,Mexico,2,1,FIFA World Cup,City,France,False
+2017-01-02,Spain,Ghana,2,1,FIFA World Cup,City,Spain,False
+2017-01-02,Germany,Japan,4,4,FIFA World Cup,City,Germany,False
+2017-01-02,Brazil,Qatar,0,0,FIFA World Cup,City,Brazil,False
+2017-01-02,Iran,Wales,0,5,FIFA World Cup,City,Iran,False
+2017-01-02,Tunisia,Peru,2,0,FIFA World Cup,City,Tunisia,False
+2017-01-09,France,Wales,1,0,Friendly,City,France,True
+2017-01-09,Brazil,Iran,2,1,Friendly,City,Brazil,True
+2017-01-09,Peru,Qatar,3,0,Friendly,City,Peru,True
+2017-01-09,Germany,Mexico,1,1,Friendly,City,Germany,True
+2017-01-09,Japan,Tunisia,2,0,Friendly,City,Japan,True
+2017-01-09,Spain,Ghana,1,0,Friendly,City,Spain,True
+2017-01-16,Iran,Peru,2,0,Friendly,City,Iran,False
+2017-01-16,Brazil,Japan,1,5,Friendly,City,Brazil,False
+2017-01-16,Ghana,Tunisia,0,1,Friendly,City,Ghana,False
+2017-01-16,Mexico,Germany,1,0,Friendly,City,Mexico,False
+2017-01-16,France,Wales,1,1,Friendly,City,France,False
+2017-01-16,Spain,Qatar,1,0,Friendly,City,Spain,False
+2017-01-23,Brazil,Peru,4,1,Friendly,City,Brazil,False
+2017-01-23,Mexico,Wales,1,2,Friendly,City,Mexico,False
+2017-01-23,Tunisia,Spain,2,3,Friendly,City,Tunisia,False
+2017-01-23,Japan,Qatar,3,2,Friendly,City,Japan,False
+2017-01-23,Ghana,France,2,0,Friendly,City,Ghana,False
+2017-01-23,Iran,Germany,0,0,Friendly,City,Iran,False
+2017-01-30,Brazil,Tunisia,1,1,FIFA World Cup qualification,City,Brazil,False
+2017-01-30,Germany,Mexico,1,1,FIFA World Cup qualification,City,Germany,False
+2017-01-30,Peru,Spain,2,1,FIFA World Cup qualification,City,Peru,False
+2017-01-30,Ghana,Qatar,1,0,FIFA World Cup qualification,City,Ghana,False
+2017-01-30,Iran,Japan,0,4,FIFA World Cup qualification,City,Iran,False
+2017-01-30,France,Wales,0,0,FIFA World Cup qualification,City,France,False
+2017-02-06,Japan,Ghana,1,0,Friendly,City,Japan,False
+2017-02-06,Mexico,Spain,0,1,Friendly,City,Mexico,False
+2017-02-06,Qatar,France,0,2,Friendly,City,Qatar,False
+2017-02-06,Tunisia,Brazil,0,4,Friendly,City,Tunisia,False
+2017-02-06,Germany,Peru,3,1,Friendly,City,Germany,False
+2017-02-06,Wales,Iran,1,1,Friendly,City,Wales,False
+2017-02-13,Iran,Peru,0,1,Friendly,City,Iran,True
+2017-02-13,Mexico,Wales,1,1,Friendly,City,Mexico,True
+2017-02-13,Spain,France,3,1,Friendly,City,Spain,True
+2017-02-13,Japan,Qatar,1,3,Friendly,City,Japan,True
+2017-02-13,Tunisia,Germany,3,1,Friendly,City,Tunisia,True
+2017-02-13,Ghana,Brazil,0,3,Friendly,City,Ghana,True
+2017-02-20,Wales,Mexico,0,1,Friendly,City,Wales,False
+2017-02-20,Qatar,Ghana,1,0,Friendly,City,Qatar,False
+2017-02-20,Iran,France,0,3,Friendly,City,Iran,False
+2017-02-20,Spain,Germany,0,1,Friendly,City,Spain,False
+2017-02-20,Japan,Peru,2,0,Friendly,City,Japan,False
+2017-02-20,Brazil,Tunisia,1,1,Friendly,City,Brazil,False
+2017-02-27,Iran,Mexico,1,0,FIFA World Cup,City,Iran,False
+2017-02-27,Spain,Peru,0,2,FIFA World Cup,City,Spain,False
+2017-02-27,France,Wales,4,0,FIFA World Cup,City,France,False
+2017-02-27,Brazil,Tunisia,1,1,FIFA World Cup,City,Brazil,False
+2017-02-27,Germany,Japan,2,2,FIFA World Cup,City,Germany,False
+2017-02-27,Qatar,Ghana,1,2,FIFA World Cup,City,Qatar,False
+2017-03-06,Mexico,Germany,0,1,Friendly,City,Mexico,False
+2017-03-06,France,Wales,2,1,Friendly,City,France,False
+2017-03-06,Peru,Iran,2,2,Friendly,City,Peru,False
+2017-03-06,Brazil,Spain,1,0,Friendly,City,Brazil,False
+2017-03-06,Japan,Qatar,2,2,Friendly,City,Japan,False
+2017-03-06,Tunisia,Ghana,0,0,Friendly,City,Tunisia,False
+2017-03-13,France,Spain,0,2,Friendly,City,France,False
+2017-03-13,Japan,Peru,1,1,Friendly,City,Japan,False
+2017-03-13,Tunisia,Mexico,3,0,Friendly,City,Tunisia,False
+2017-03-13,Germany,Brazil,1,0,Friendly,City,Germany,False
+2017-03-13,Iran,Ghana,1,1,Friendly,City,Iran,False
+2017-03-13,Qatar,Wales,2,0,Friendly,City,Qatar,False
+2017-03-20,Qatar,Iran,3,1,Friendly,City,Qatar,True
+2017-03-20,Ghana,Wales,1,0,Friendly,City,Ghana,True
+2017-03-20,Japan,Germany,1,0,Friendly,City,Japan,True
+2017-03-20,Mexico,Tunisia,0,0,Friendly,City,Mexico,True
+2017-03-20,Spain,Peru,1,1,Friendly,City,Spain,True
+2017-03-20,France,Brazil,1,1,Friendly,City,France,True
+2017-03-27,Mexico,Tunisia,0,3,FIFA World Cup qualification,City,Mexico,False
+2017-03-27,Brazil,France,2,1,FIFA World Cup qualification,City,Brazil,False
+2017-03-27,Spain,Japan,4,3,FIFA World Cup qualification,City,Spain,False
+2017-03-27,Qatar,Ghana,1,1,FIFA World Cup qualification,City,Qatar,False
+2017-03-27,Peru,Germany,1,3,FIFA World Cup qualification,City,Peru,False
+2017-03-27,Iran,Wales,1,0,FIFA World Cup qualification,City,Iran,False
+2017-04-03,Germany,Brazil,2,2,Friendly,City,Germany,False
+2017-04-03,Ghana,Peru,4,1,Friendly,City,Ghana,False
+2017-04-03,Spain,Japan,2,4,Friendly,City,Spain,False
+2017-04-03,Wales,Mexico,0,0,Friendly,City,Wales,False
+2017-04-03,Qatar,Iran,2,1,Friendly,City,Qatar,False
+2017-04-03,Tunisia,France,3,0,Friendly,City,Tunisia,False
+2017-04-10,Tunisia,Iran,3,1,Friendly,City,Tunisia,False
+2017-04-10,Brazil,Qatar,3,1,Friendly,City,Brazil,False
+2017-04-10,Mexico,Wales,0,1,Friendly,City,Mexico,False
+2017-04-10,Germany,France,2,4,Friendly,City,Germany,False
+2017-04-10,Ghana,Japan,0,4,Friendly,City,Ghana,False
+2017-04-10,Peru,Spain,2,2,Friendly,City,Peru,False
+2017-04-17,Mexico,Spain,0,3,Friendly,City,Mexico,False
+2017-04-17,Peru,Ghana,1,0,Friendly,City,Peru,False
+2017-04-17,Wales,Tunisia,0,1,Friendly,City,Wales,False
+2017-04-17,Iran,France,1,2,Friendly,City,Iran,False
+2017-04-17,Japan,Germany,0,1,Friendly,City,Japan,False
+2017-04-17,Brazil,Qatar,0,1,Friendly,City,Brazil,False
+2017-04-24,Spain,Mexico,1,0,FIFA World Cup,City,Spain,True
+2017-04-24,Wales,Ghana,0,2,FIFA World Cup,City,Wales,True
+2017-04-24,Germany,Brazil,5,4,FIFA World Cup,City,Germany,True
+2017-04-24,Japan,Qatar,3,2,FIFA World Cup,City,Japan,True
+2017-04-24,Peru,Tunisia,1,5,FIFA World Cup,City,Peru,True
+2017-04-24,Iran,France,1,1,FIFA World Cup,City,Iran,True
+2017-05-01,Peru,France,0,1,Friendly,City,Peru,False
+2017-05-01,Mexico,Qatar,2,1,Friendly,City,Mexico,False
+2017-05-01,Wales,Brazil,0,0,Friendly,City,Wales,False
+2017-05-01,Japan,Germany,2,3,Friendly,City,Japan,False
+2017-05-01,Iran,Tunisia,1,0,Friendly,City,Iran,False
+2017-05-01,Ghana,Spain,0,1,Friendly,City,Ghana,False
+2017-05-08,Tunisia,Mexico,1,1,Friendly,City,Tunisia,False
+2017-05-08,Wales,Germany,0,0,Friendly,City,Wales,False
+2017-05-08,Iran,Japan,0,0,Friendly,City,Iran,False
+2017-05-08,France,Qatar,0,1,Friendly,City,France,False
+2017-05-08,Peru,Ghana,3,0,Friendly,City,Peru,False
+2017-05-08,Spain,Brazil,1,1,Friendly,City,Spain,False
+2017-05-15,Tunisia,Mexico,4,0,Friendly,City,Tunisia,False
+2017-05-15,Peru,Brazil,0,4,Friendly,City,Peru,False
+2017-05-15,Spain,France,3,1,Friendly,City,Spain,False
+2017-05-15,Germany,Iran,1,0,Friendly,City,Germany,False
+2017-05-15,Japan,Wales,2,0,Friendly,City,Japan,False
+2017-05-15,Qatar,Ghana,3,1,Friendly,City,Qatar,False
+2017-05-22,Spain,Germany,1,1,FIFA World Cup qualification,City,Spain,False
+2017-05-22,Tunisia,Peru,3,2,FIFA World Cup qualification,City,Tunisia,False
+2017-05-22,Qatar,Brazil,3,0,FIFA World Cup qualification,City,Qatar,False
+2017-05-22,France,Mexico,3,1,FIFA World Cup qualification,City,France,False
+2017-05-22,Ghana,Wales,0,2,FIFA World Cup qualification,City,Ghana,False
+2017-05-22,Japan,Iran,1,0,FIFA World Cup qualification,City,Japan,False
+2017-05-29,Brazil,Spain,2,3,Friendly,City,Brazil,True
+2017-05-29,France,Ghana,3,2,Friendly,City,France,True
+2017-05-29,Japan,Tunisia,1,0,Friendly,City,Japan,True
+2017-05-29,Mexico,Germany,0,2,Friendly,City,Mexico,True
+2017-05-29,Peru,Wales,2,0,Friendly,City,Peru,True
+2017-05-29,Iran,Qatar,2,2,Friendly,City,Iran,True
+2017-06-05,Ghana,Brazil,0,3,Friendly,City,Ghana,False
+2017-06-05,Peru,Japan,3,1,Friendly,City,Peru,False
+2017-06-05,Tunisia,Iran,0,0,Friendly,City,Tunisia,False
+2017-06-05,Mexico,France,0,3,Friendly,City,Mexico,False
+2017-06-05,Germany,Wales,1,2,Friendly,City,Germany,False
+2017-06-05,Qatar,Spain,2,1,Friendly,City,Qatar,False
+2017-06-12,Qatar,Wales,1,0,Friendly,City,Qatar,False
+2017-06-12,Spain,Germany,4,1,Friendly,City,Spain,False
+2017-06-12,Tunisia,Peru,0,2,Friendly,City,Tunisia,False
+2017-06-12,Ghana,Brazil,1,1,Friendly,City,Ghana,False
+2017-06-12,Mexico,France,2,1,Friendly,City,Mexico,False
+2017-06-12,Iran,Japan,3,0,Friendly,City,Iran,False
+2017-06-19,Peru,Brazil,2,1,FIFA World Cup,City,Peru,False
+2017-06-19,Iran,Wales,0,0,FIFA World Cup,City,Iran,False
+2017-06-19,Spain,Ghana,1,0,FIFA World Cup,City,Spain,False
+2017-06-19,Mexico,Qatar,3,0,FIFA World Cup,City,Mexico,False
+2017-06-19,France,Tunisia,2,3,FIFA World Cup,City,France,False
+2017-06-19,Japan,Germany,2,0,FIFA World Cup,City,Japan,False
+2017-06-26,Spain,Japan,2,0,Friendly,City,Spain,False
+2017-06-26,Brazil,Mexico,3,1,Friendly,City,Brazil,False
+2017-06-26,Qatar,Iran,0,0,Friendly,City,Qatar,False
+2017-06-26,Peru,Ghana,1,3,Friendly,City,Peru,False
+2017-06-26,Wales,Tunisia,1,1,Friendly,City,Wales,False
+2017-06-26,Germany,France,2,1,Friendly,City,Germany,False
+2017-07-03,Qatar,Spain,0,3,Friendly,City,Qatar,True
+2017-07-03,France,Ghana,1,2,Friendly,City,France,True
+2017-07-03,Germany,Iran,3,0,Friendly,City,Germany,True
+2017-07-03,Peru,Brazil,1,0,Friendly,City,Peru,True
+2017-07-03,Mexico,Wales,1,0,Friendly,City,Mexico,True
+2017-07-03,Tunisia,Japan,3,0,Friendly,City,Tunisia,True
+2017-07-10,Japan,Ghana,2,0,Friendly,City,Japan,False
+2017-07-10,Tunisia,Peru,1,2,Friendly,City,Tunisia,False
+2017-07-10,Mexico,Wales,0,0,Friendly,City,Mexico,False
+2017-07-10,Germany,Qatar,1,1,Friendly,City,Germany,False
+2017-07-10,Brazil,Spain,2,1,Friendly,City,Brazil,False
+2017-07-10,Iran,France,0,1,Friendly,City,Iran,False
+2017-07-17,Spain,Japan,5,2,FIFA World Cup qualification,City,Spain,False
+2017-07-17,Qatar,Mexico,2,0,FIFA World Cup qualification,City,Qatar,False
+2017-07-17,Tunisia,Peru,3,0,FIFA World Cup qualification,City,Tunisia,False
+2017-07-17,France,Iran,1,2,FIFA World Cup qualification,City,France,False
+2017-07-17,Wales,Brazil,2,0,FIFA World Cup qualification,City,Wales,False
+2017-07-17,Germany,Ghana,1,0,FIFA World Cup qualification,City,Germany,False
+2017-07-24,Mexico,Germany,2,1,Friendly,City,Mexico,False
+2017-07-24,France,Wales,2,1,Friendly,City,France,False
+2017-07-24,Ghana,Peru,1,5,Friendly,City,Ghana,False
+2017-07-24,Brazil,Japan,1,1,Friendly,City,Brazil,False
+2017-07-24,Iran,Tunisia,1,2,Friendly,City,Iran,False
+2017-07-24,Spain,Qatar,2,1,Friendly,City,Spain,False
+2017-07-31,Wales,Iran,0,0,Friendly,City,Wales,False
+2017-07-31,Tunisia,Peru,1,1,Friendly,City,Tunisia,False
+2017-07-31,Mexico,Ghana,1,1,Friendly,City,Mexico,False
+2017-07-31,Qatar,Germany,4,1,Friendly,City,Qatar,False
+2017-07-31,Spain,Japan,0,0,Friendly,City,Spain,False
+2017-07-31,France,Brazil,1,2,Friendly,City,France,False
+2017-08-07,Qatar,France,0,1,Friendly,City,Qatar,True
+2017-08-07,Brazil,Ghana,2,0,Friendly,City,Brazil,True
+2017-08-07,Germany,Mexico,2,1,Friendly,City,Germany,True
+2017-08-07,Peru,Iran,2,0,Friendly,City,Peru,True
+2017-08-07,Spain,Wales,1,1,Friendly,City,Spain,True
+2017-08-07,Japan,Tunisia,2,1,Friendly,City,Japan,True
+2017-08-14,Peru,Japan,1,1,FIFA World Cup,City,Peru,False
+2017-08-14,Mexico,Ghana,2,0,FIFA World Cup,City,Mexico,False
+2017-08-14,Spain,Iran,2,1,FIFA World Cup,City,Spain,False
+2017-08-14,Qatar,Wales,2,0,FIFA World Cup,City,Qatar,False
+2017-08-14,Brazil,Tunisia,2,1,FIFA World Cup,City,Brazil,False
+2017-08-14,France,Germany,0,0,FIFA World Cup,City,France,False
+2017-08-21,Tunisia,Spain,4,0,Friendly,City,Tunisia,False
+2017-08-21,Ghana,Iran,3,0,Friendly,City,Ghana,False
+2017-08-21,Brazil,Germany,2,4,Friendly,City,Brazil,False
+2017-08-21,Qatar,Wales,2,1,Friendly,City,Qatar,False
+2017-08-21,Japan,Mexico,2,0,Friendly,City,Japan,False
+2017-08-21,France,Peru,1,0,Friendly,City,France,False
+2017-08-28,Japan,Spain,2,2,Friendly,City,Japan,False
+2017-08-28,Germany,Qatar,2,0,Friendly,City,Germany,False
+2017-08-28,Tunisia,Peru,2,3,Friendly,City,Tunisia,False
+2017-08-28,Wales,Brazil,3,5,Friendly,City,Wales,False
+2017-08-28,Ghana,Mexico,0,3,Friendly,City,Ghana,False
+2017-08-28,Iran,France,4,1,Friendly,City,Iran,False
+2017-09-04,Germany,Mexico,2,0,Friendly,City,Germany,False
+2017-09-04,Japan,Tunisia,1,1,Friendly,City,Japan,False
+2017-09-04,Spain,Ghana,2,3,Friendly,City,Spain,False
+2017-09-04,Brazil,Peru,3,3,Friendly,City,Brazil,False
+2017-09-04,France,Iran,1,0,Friendly,City,France,False
+2017-09-04,Qatar,Wales,0,1,Friendly,City,Qatar,False
+2017-09-11,Brazil,Mexico,0,0,FIFA World Cup qualification,City,Brazil,True
+2017-09-11,Spain,Tunisia,1,1,FIFA World Cup qualification,City,Spain,True
+2017-09-11,Japan,Wales,1,2,FIFA World Cup qualification,City,Japan,True
+2017-09-11,Peru,Qatar,1,2,FIFA World Cup qualification,City,Peru,True
+2017-09-11,Germany,Iran,2,1,FIFA World Cup qualification,City,Germany,True
+2017-09-11,Ghana,France,3,1,FIFA World Cup qualification,City,Ghana,True
+2017-09-18,Tunisia,Germany,1,2,Friendly,City,Tunisia,False
+2017-09-18,Mexico,Wales,0,0,Friendly,City,Mexico,False
+2017-09-18,Iran,Ghana,1,0,Friendly,City,Iran,False
+2017-09-18,Spain,Japan,2,2,Friendly,City,Spain,False
+2017-09-18,Qatar,Peru,2,1,Friendly,City,Qatar,False
+2017-09-18,France,Brazil,1,4,Friendly,City,France,False
+2017-09-25,Japan,Germany,3,3,Friendly,City,Japan,False
+2017-09-25,Iran,Brazil,0,0,Friendly,City,Iran,False
+2017-09-25,Peru,Qatar,1,2,Friendly,City,Peru,False
+2017-09-25,Spain,Mexico,0,2,Friendly,City,Spain,False
+2017-09-25,France,Ghana,3,0,Friendly,City,France,False
+2017-09-25,Wales,Tunisia,3,1,Friendly,City,Wales,False
+2017-10-02,Ghana,Brazil,1,1,Friendly,City,Ghana,False
+2017-10-02,Tunisia,Qatar,2,1,Friendly,City,Tunisia,False
+2017-10-02,Japan,Wales,3,0,Friendly,City,Japan,False
+2017-10-02,Peru,Mexico,1,0,Friendly,City,Peru,False
+2017-10-02,France,Germany,2,2,Friendly,City,France,False
+2017-10-02,Spain,Iran,3,1,Friendly,City,Spain,False
+2017-10-09,Japan,France,2,2,FIFA World Cup,City,Japan,False
+2017-10-09,Spain,Qatar,0,0,FIFA World Cup,City,Spain,False
+2017-10-09,Iran,Tunisia,0,3,FIFA World Cup,City,Iran,False
+2017-10-09,Mexico,Wales,0,0,FIFA World Cup,City,Mexico,False
+2017-10-09,Germany,Peru,2,2,FIFA World Cup,City,Germany,False
+2017-10-09,Ghana,Brazil,2,3,FIFA World Cup,City,Ghana,False
+2017-10-16,Iran,Peru,0,1,Friendly,City,Iran,True
+2017-10-16,Brazil,Germany,2,4,Friendly,City,Brazil,True
+2017-10-16,France,Qatar,3,0,Friendly,City,France,True
+2017-10-16,Mexico,Japan,2,2,Friendly,City,Mexico,True
+2017-10-16,Ghana,Wales,2,1,Friendly,City,Ghana,True
+2017-10-16,Spain,Tunisia,1,2,Friendly,City,Spain,True
+2017-10-23,Iran,France,2,1,Friendly,City,Iran,False
+2017-10-23,Wales,Ghana,0,0,Friendly,City,Wales,False
+2017-10-23,Peru,Qatar,2,1,Friendly,City,Peru,False
+2017-10-23,Germany,Spain,2,2,Friendly,City,Germany,False
+2017-10-23,Japan,Brazil,2,0,Friendly,City,Japan,False
+2017-10-23,Tunisia,Mexico,2,0,Friendly,City,Tunisia,False
+2017-10-30,Iran,Peru,1,1,Friendly,City,Iran,False
+2017-10-30,France,Germany,4,1,Friendly,City,France,False
+2017-10-30,Ghana,Qatar,1,0,Friendly,City,Ghana,False
+2017-10-30,Mexico,Brazil,1,3,Friendly,City,Mexico,False
+2017-10-30,Spain,Wales,2,1,Friendly,City,Spain,False
+2017-10-30,Japan,Tunisia,3,4,Friendly,City,Japan,False
+2017-11-06,Tunisia,Wales,2,2,FIFA World Cup qualification,City,Tunisia,False
+2017-11-06,Iran,Brazil,1,1,FIFA World Cup qualification,City,Iran,False
+2017-11-06,Qatar,Peru,2,0,FIFA World Cup qualification,City,Qatar,False
+2017-11-06,Spain,Ghana,0,3,FIFA World Cup qualification,City,Spain,False
+2017-11-06,Germany,France,3,1,FIFA World Cup qualification,City,Germany,False
+2017-11-06,Japan,Mexico,0,0,FIFA World Cup qualification,City,Japan,False
+2017-11-13,Mexico,Peru,1,2,Friendly,City,Mexico,False
+2017-11-13,France,Ghana,2,0,Friendly,City,France,False
+2017-11-13,Tunisia,Spain,3,1,Friendly,City,Tunisia,False
+2017-11-13,Brazil,Japan,3,3,Friendly,City,Brazil,False
+2017-11-13,Germany,Iran,2,0,Friendly,City,Germany,False
+2017-11-13,Qatar,Wales,1,0,Friendly,City,Qatar,False
+2017-11-20,Tunisia,Wales,1,0,Friendly,City,Tunisia,True
+2017-11-20,Brazil,Spain,1,3,Friendly,City,Brazil,True
+2017-11-20,France,Mexico,1,0,Friendly,City,France,True
+2017-11-20,Peru,Ghana,1,1,Friendly,City,Peru,True
+2017-11-20,Qatar,Iran,1,1,Friendly,City,Qatar,True
+2017-11-20,Germany,Japan,3,2,Friendly,City,Germany,True
+2017-11-27,Peru,Ghana,0,4,Friendly,City,Peru,False
+2017-11-27,Qatar,Japan,1,1,Friendly,City,Qatar,False
+2017-11-27,Germany,Brazil,4,2,Friendly,City,Germany,False
+2017-11-27,France,Iran,0,5,Friendly,City,France,False
+2017-11-27,Mexico,Wales,1,1,Friendly,City,Mexico,False
+2017-11-27,Tunisia,Spain,3,1,Friendly,City,Tunisia,False
+2017-12-04,Mexico,Spain,4,0,FIFA World Cup,City,Mexico,False
+2017-12-04,France,Germany,1,0,FIFA World Cup,City,France,False
+2017-12-04,Tunisia,Brazil,1,1,FIFA World Cup,City,Tunisia,False
+2017-12-04,Iran,Wales,2,1,FIFA World Cup,City,Iran,False
+2017-12-04,Peru,Qatar,3,0,FIFA World Cup,City,Peru,False
+2017-12-04,Ghana,Japan,0,3,FIFA World Cup,City,Ghana,False
+2017-12-11,Peru,France,2,1,Friendly,City,Peru,False
+2017-12-11,Japan,Spain,2,1,Friendly,City,Japan,False
+2017-12-11,Germany,Qatar,1,0,Friendly,City,Germany,False
+2017-12-11,Wales,Mexico,2,0,Friendly,City,Wales,False
+2017-12-11,Ghana,Tunisia,0,0,Friendly,City,Ghana,False
+2017-12-11,Iran,Brazil,3,2,Friendly,City,Iran,False
+2017-12-18,Iran,Wales,1,1,Friendly,City,Iran,False
+2017-12-18,Mexico,Qatar,1,0,Friendly,City,Mexico,False
+2017-12-18,Tunisia,Brazil,0,4,Friendly,City,Tunisia,False
+2017-12-18,Peru,Ghana,0,2,Friendly,City,Peru,False
+2017-12-18,Spain,Germany,6,1,Friendly,City,Spain,False
+2017-12-18,France,Japan,3,2,Friendly,City,France,False
+2017-12-25,Wales,Mexico,1,0,Friendly,City,Wales,True
+2017-12-25,Brazil,France,0,1,Friendly,City,Brazil,True
+2017-12-25,Qatar,Spain,0,2,Friendly,City,Qatar,True
+2017-12-25,Tunisia,Ghana,5,3,Friendly,City,Tunisia,True
+2017-12-25,Iran,Germany,0,2,Friendly,City,Iran,True
+2017-12-25,Peru,Japan,0,1,Friendly,City,Peru,True
+2018-01-01,Germany,Wales,1,1,FIFA World Cup qualification,City,Germany,False
+2018-01-01,Peru,Mexico,1,1,FIFA World Cup qualification,City,Peru,False
+2018-01-01,Spain,Ghana,2,2,FIFA World Cup qualification,City,Spain,False
+2018-01-01,France,Iran,4,2,FIFA World Cup qualification,City,France,False
+2018-01-01,Japan,Brazil,2,0,FIFA World Cup qualification,City,Japan,False
+2018-01-01,Tunisia,Qatar,1,1,FIFA World Cup qualification,City,Tunisia,False
+2018-01-08,Iran,Qatar,0,1,Friendly,City,Iran,False
+2018-01-08,Germany,Mexico,3,1,Friendly,City,Germany,False
+2018-01-08,Tunisia,Ghana,5,1,Friendly,City,Tunisia,False
+2018-01-08,Peru,Brazil,1,1,Friendly,City,Peru,False
+2018-01-08,Spain,France,1,0,Friendly,City,Spain,False
+2018-01-08,Wales,Japan,0,0,Friendly,City,Wales,False
+2018-01-15,Iran,France,0,0,Friendly,City,Iran,False
+2018-01-15,Brazil,Mexico,0,4,Friendly,City,Brazil,False
+2018-01-15,Spain,Wales,4,1,Friendly,City,Spain,False
+2018-01-15,Qatar,Tunisia,1,0,Friendly,City,Qatar,False
+2018-01-15,Japan,Ghana,2,2,Friendly,City,Japan,False
+2018-01-15,Peru,Germany,2,1,Friendly,City,Peru,False
+2018-01-22,Brazil,Ghana,2,1,Friendly,City,Brazil,False
+2018-01-22,Tunisia,Iran,1,1,Friendly,City,Tunisia,False
+2018-01-22,Spain,Mexico,0,0,Friendly,City,Spain,False
+2018-01-22,France,Japan,2,0,Friendly,City,France,False
+2018-01-22,Peru,Germany,1,2,Friendly,City,Peru,False
+2018-01-22,Qatar,Wales,1,0,Friendly,City,Qatar,False
+2018-01-29,Mexico,Japan,1,2,FIFA World Cup,City,Mexico,True
+2018-01-29,Wales,Spain,0,2,FIFA World Cup,City,Wales,True
+2018-01-29,Germany,Ghana,3,0,FIFA World Cup,City,Germany,True
+2018-01-29,Tunisia,France,2,2,FIFA World Cup,City,Tunisia,True
+2018-01-29,Brazil,Iran,3,0,FIFA World Cup,City,Brazil,True
+2018-01-29,Qatar,Peru,5,3,FIFA World Cup,City,Qatar,True
+2018-02-05,Brazil,Japan,5,2,Friendly,City,Brazil,False
+2018-02-05,Iran,Peru,2,3,Friendly,City,Iran,False
+2018-02-05,Qatar,Spain,2,2,Friendly,City,Qatar,False
+2018-02-05,Germany,France,3,0,Friendly,City,Germany,False
+2018-02-05,Tunisia,Wales,3,1,Friendly,City,Tunisia,False
+2018-02-05,Mexico,Ghana,0,0,Friendly,City,Mexico,False
+2018-02-12,Peru,Mexico,0,0,Friendly,City,Peru,False
+2018-02-12,Germany,France,3,1,Friendly,City,Germany,False
+2018-02-12,Japan,Tunisia,4,3,Friendly,City,Japan,False
+2018-02-12,Brazil,Spain,2,1,Friendly,City,Brazil,False
+2018-02-12,Qatar,Iran,3,0,Friendly,City,Qatar,False
+2018-02-12,Ghana,Wales,0,1,Friendly,City,Ghana,False
+2018-02-19,Peru,Ghana,3,1,Friendly,City,Peru,False
+2018-02-19,France,Wales,3,1,Friendly,City,France,False
+2018-02-19,Qatar,Spain,2,0,Friendly,City,Qatar,False
+2018-02-19,Iran,Mexico,1,1,Friendly,City,Iran,False
+2018-02-19,Brazil,Tunisia,2,1,Friendly,City,Brazil,False
+2018-02-19,Germany,Japan,2,2,Friendly,City,Germany,False
+2018-02-26,France,Spain,1,2,FIFA World Cup qualification,City,France,False
+2018-02-26,Germany,Wales,3,0,FIFA World Cup qualification,City,Germany,False
+2018-02-26,Tunisia,Mexico,1,3,FIFA World Cup qualification,City,Tunisia,False
+2018-02-26,Ghana,Japan,1,2,FIFA World Cup qualification,City,Ghana,False
+2018-02-26,Brazil,Qatar,1,1,FIFA World Cup qualification,City,Brazil,False
+2018-02-26,Peru,Iran,1,1,FIFA World Cup qualification,City,Peru,False
+2018-03-05,France,Ghana,2,5,Friendly,City,France,True
+2018-03-05,Mexico,Germany,1,0,Friendly,City,Mexico,True
+2018-03-05,Qatar,Brazil,2,0,Friendly,City,Qatar,True
+2018-03-05,Spain,Wales,0,1,Friendly,City,Spain,True
+2018-03-05,Tunisia,Japan,1,0,Friendly,City,Tunisia,True
+2018-03-05,Peru,Iran,2,0,Friendly,City,Peru,True
+2018-03-12,Iran,Germany,0,0,Friendly,City,Iran,False
+2018-03-12,France,Spain,1,3,Friendly,City,France,False
+2018-03-12,Japan,Brazil,1,1,Friendly,City,Japan,False
+2018-03-12,Ghana,Peru,0,2,Friendly,City,Ghana,False
+2018-03-12,Mexico,Tunisia,4,0,Friendly,City,Mexico,False
+2018-03-12,Qatar,Wales,2,0,Friendly,City,Qatar,False
+2018-03-19,Iran,Tunisia,1,3,Friendly,City,Iran,False
+2018-03-19,Japan,Ghana,2,1,Friendly,City,Japan,False
+2018-03-19,Peru,Brazil,0,0,Friendly,City,Peru,False
+2018-03-19,France,Spain,0,0,Friendly,City,France,False
+2018-03-19,Qatar,Germany,1,1,Friendly,City,Qatar,False
+2018-03-19,Wales,Mexico,2,2,Friendly,City,Wales,False
+2018-03-26,Peru,Japan,2,1,FIFA World Cup,City,Peru,False
+2018-03-26,France,Brazil,1,2,FIFA World Cup,City,France,False
+2018-03-26,Mexico,Tunisia,1,0,FIFA World Cup,City,Mexico,False
+2018-03-26,Spain,Ghana,2,1,FIFA World Cup,City,Spain,False
+2018-03-26,Iran,Germany,0,0,FIFA World Cup,City,Iran,False
+2018-03-26,Wales,Qatar,2,1,FIFA World Cup,City,Wales,False
+2018-04-02,Iran,Wales,0,0,Friendly,City,Iran,False
+2018-04-02,Brazil,Peru,3,1,Friendly,City,Brazil,False
+2018-04-02,Germany,Japan,1,3,Friendly,City,Germany,False
+2018-04-02,Spain,Mexico,2,1,Friendly,City,Spain,False
+2018-04-02,Tunisia,Qatar,2,2,Friendly,City,Tunisia,False
+2018-04-02,France,Ghana,0,2,Friendly,City,France,False
+2018-04-09,Brazil,Tunisia,1,2,Friendly,City,Brazil,True
+2018-04-09,Mexico,Spain,0,0,Friendly,City,Mexico,True
+2018-04-09,Germany,Peru,2,1,Friendly,City,Germany,True
+2018-04-09,Wales,Ghana,1,1,Friendly,City,Wales,True
+2018-04-09,France,Qatar,1,0,Friendly,City,France,True
+2018-04-09,Japan,Iran,1,1,Friendly,City,Japan,True
+2018-04-16,Mexico,Tunisia,0,6,Friendly,City,Mexico,False
+2018-04-16,Wales,France,1,2,Friendly,City,Wales,False
+2018-04-16,Germany,Peru,1,2,Friendly,City,Germany,False
+2018-04-16,Ghana,Spain,1,1,Friendly,City,Ghana,False
+2018-04-16,Brazil,Iran,1,1,Friendly,City,Brazil,False
+2018-04-16,Qatar,Japan,2,5,Friendly,City,Qatar,False
+2018-04-23,Brazil,Spain,4,1,FIFA World Cup qualification,City,Brazil,False
+2018-04-23,Wales,Tunisia,1,1,FIFA World Cup qualification,City,Wales,False
+2018-04-23,Japan,Qatar,3,0,FIFA World Cup qualification,City,Japan,False
+2018-04-23,France,Mexico,0,1,FIFA World Cup qualification,City,France,False
+2018-04-23,Iran,Germany,0,3,FIFA World Cup qualification,City,Iran,False
+2018-04-23,Ghana,Peru,3,0,FIFA World Cup qualification,City,Ghana,False
+2018-04-30,Spain,Peru,0,0,Friendly,City,Spain,False
+2018-04-30,Tunisia,Brazil,0,0,Friendly,City,Tunisia,False
+2018-04-30,Japan,Iran,1,0,Friendly,City,Japan,False
+2018-04-30,Wales,Mexico,0,0,Friendly,City,Wales,False
+2018-04-30,Germany,Qatar,1,2,Friendly,City,Germany,False
+2018-04-30,France,Ghana,0,1,Friendly,City,France,False
+2018-05-07,Iran,Qatar,1,0,Friendly,City,Iran,False
+2018-05-07,Germany,Peru,2,1,Friendly,City,Germany,False
+2018-05-07,France,Spain,2,1,Friendly,City,France,False
+2018-05-07,Tunisia,Ghana,2,2,Friendly,City,Tunisia,False
+2018-05-07,Japan,Wales,2,0,Friendly,City,Japan,False
+2018-05-07,Mexico,Brazil,0,4,Friendly,City,Mexico,False
+2018-05-14,Iran,Brazil,2,0,Friendly,City,Iran,True
+2018-05-14,Tunisia,Wales,5,0,Friendly,City,Tunisia,True
+2018-05-14,Spain,Peru,1,1,Friendly,City,Spain,True
+2018-05-14,Germany,Mexico,1,1,Friendly,City,Germany,True
+2018-05-14,Ghana,France,3,1,Friendly,City,Ghana,True
+2018-05-14,Qatar,Japan,0,1,Friendly,City,Qatar,True
+2018-05-21,Qatar,Iran,1,0,FIFA World Cup,City,Qatar,False
+2018-05-21,Wales,Peru,0,3,FIFA World Cup,City,Wales,False
+2018-05-21,Tunisia,Germany,2,1,FIFA World Cup,City,Tunisia,False
+2018-05-21,Spain,Japan,3,3,FIFA World Cup,City,Spain,False
+2018-05-21,Brazil,Ghana,3,3,FIFA World Cup,City,Brazil,False
+2018-05-21,Mexico,France,2,0,FIFA World Cup,City,Mexico,False
+2018-05-28,France,Spain,1,1,Friendly,City,France,False
+2018-05-28,Germany,Ghana,2,3,Friendly,City,Germany,False
+2018-05-28,Peru,Mexico,2,0,Friendly,City,Peru,False
+2018-05-28,Iran,Brazil,2,1,Friendly,City,Iran,False
+2018-05-28,Wales,Japan,0,2,Friendly,City,Wales,False
+2018-05-28,Tunisia,Qatar,3,0,Friendly,City,Tunisia,False
+2018-06-04,Ghana,Peru,1,0,Friendly,City,Ghana,False
+2018-06-04,Spain,Iran,2,0,Friendly,City,Spain,False
+2018-06-04,Brazil,France,1,0,Friendly,City,Brazil,False
+2018-06-04,Qatar,Japan,1,3,Friendly,City,Qatar,False
+2018-06-04,Tunisia,Mexico,3,0,Friendly,City,Tunisia,False
+2018-06-04,Wales,Germany,0,0,Friendly,City,Wales,False
+2018-06-11,Qatar,Japan,2,3,Friendly,City,Qatar,False
+2018-06-11,Wales,Peru,0,0,Friendly,City,Wales,False
+2018-06-11,Ghana,Iran,3,0,Friendly,City,Ghana,False
+2018-06-11,Germany,France,0,2,Friendly,City,Germany,False
+2018-06-11,Brazil,Tunisia,2,2,Friendly,City,Brazil,False
+2018-06-11,Mexico,Spain,1,0,Friendly,City,Mexico,False
+2018-06-18,Ghana,Mexico,0,0,FIFA World Cup qualification,City,Ghana,True
+2018-06-18,Brazil,Germany,1,0,FIFA World Cup qualification,City,Brazil,True
+2018-06-18,France,Wales,4,0,FIFA World Cup qualification,City,France,True
+2018-06-18,Iran,Japan,1,2,FIFA World Cup qualification,City,Iran,True
+2018-06-18,Peru,Qatar,2,1,FIFA World Cup qualification,City,Peru,True
+2018-06-18,Tunisia,Spain,2,1,FIFA World Cup qualification,City,Tunisia,True
+2018-06-25,Japan,Qatar,1,1,Friendly,City,Japan,False
+2018-06-25,Germany,Brazil,1,3,Friendly,City,Germany,False
+2018-06-25,Ghana,Wales,2,1,Friendly,City,Ghana,False
+2018-06-25,Iran,Tunisia,2,1,Friendly,City,Iran,False
+2018-06-25,Spain,Peru,2,2,Friendly,City,Spain,False
+2018-06-25,France,Mexico,1,3,Friendly,City,France,False
+2018-07-02,Qatar,Spain,1,3,Friendly,City,Qatar,False
+2018-07-02,Tunisia,Germany,2,0,Friendly,City,Tunisia,False
+2018-07-02,Iran,France,0,1,Friendly,City,Iran,False
+2018-07-02,Ghana,Wales,2,0,Friendly,City,Ghana,False
+2018-07-02,Brazil,Peru,1,0,Friendly,City,Brazil,False
+2018-07-02,Mexico,Japan,0,1,Friendly,City,Mexico,False
+2018-07-09,Mexico,Ghana,3,4,Friendly,City,Mexico,False
+2018-07-09,Wales,Tunisia,0,1,Friendly,City,Wales,False
+2018-07-09,France,Brazil,4,1,Friendly,City,France,False
+2018-07-09,Germany,Spain,1,0,Friendly,City,Germany,False
+2018-07-09,Qatar,Iran,5,0,Friendly,City,Qatar,False
+2018-07-09,Peru,Japan,2,3,Friendly,City,Peru,False
+2018-07-16,Mexico,Qatar,2,0,FIFA World Cup,City,Mexico,False
+2018-07-16,Ghana,Germany,0,1,FIFA World Cup,City,Ghana,False
+2018-07-16,Spain,Japan,0,2,FIFA World Cup,City,Spain,False
+2018-07-16,Iran,Brazil,1,2,FIFA World Cup,City,Iran,False
+2018-07-16,France,Peru,3,1,FIFA World Cup,City,France,False
+2018-07-16,Tunisia,Wales,0,1,FIFA World Cup,City,Tunisia,False
+2018-07-23,Mexico,Japan,0,2,Friendly,City,Mexico,True
+2018-07-23,Brazil,Germany,3,2,Friendly,City,Brazil,True
+2018-07-23,Spain,Iran,3,1,Friendly,City,Spain,True
+2018-07-23,Qatar,Peru,1,2,Friendly,City,Qatar,True
+2018-07-23,France,Wales,2,1,Friendly,City,France,True
+2018-07-23,Ghana,Tunisia,1,3,Friendly,City,Ghana,True
+2018-07-30,Mexico,Ghana,0,0,Friendly,City,Mexico,False
+2018-07-30,Spain,Germany,2,2,Friendly,City,Spain,False
+2018-07-30,Japan,Wales,1,0,Friendly,City,Japan,False
+2018-07-30,Brazil,Iran,5,2,Friendly,City,Brazil,False
+2018-07-30,France,Qatar,3,2,Friendly,City,France,False
+2018-07-30,Peru,Tunisia,1,5,Friendly,City,Peru,False
+2018-08-06,Peru,Brazil,0,3,Friendly,City,Peru,False
+2018-08-06,Japan,Germany,2,0,Friendly,City,Japan,False
+2018-08-06,Ghana,Mexico,1,0,Friendly,City,Ghana,False
+2018-08-06,Qatar,Iran,0,1,Friendly,City,Qatar,False
+2018-08-06,Spain,Wales,3,2,Friendly,City,Spain,False
+2018-08-06,Tunisia,France,0,2,Friendly,City,Tunisia,False
+2018-08-13,Tunisia,Japan,0,5,FIFA World Cup qualification,City,Tunisia,False
+2018-08-13,Qatar,Peru,3,1,FIFA World Cup qualification,City,Qatar,False
+2018-08-13,Spain,Iran,3,0,FIFA World Cup qualification,City,Spain,False
+2018-08-13,France,Germany,2,1,FIFA World Cup qualification,City,France,False
+2018-08-13,Ghana,Brazil,0,2,FIFA World Cup qualification,City,Ghana,False
+2018-08-13,Wales,Mexico,0,1,FIFA World Cup qualification,City,Wales,False
+2018-08-20,Wales,Spain,1,4,Friendly,City,Wales,False
+2018-08-20,Qatar,Mexico,0,0,Friendly,City,Qatar,False
+2018-08-20,Ghana,Tunisia,1,3,Friendly,City,Ghana,False
+2018-08-20,Germany,Brazil,0,2,Friendly,City,Germany,False
+2018-08-20,France,Peru,4,1,Friendly,City,France,False
+2018-08-20,Iran,Japan,5,0,Friendly,City,Iran,False
+2018-08-27,Spain,Iran,1,0,Friendly,City,Spain,True
+2018-08-27,Tunisia,Brazil,1,0,Friendly,City,Tunisia,True
+2018-08-27,France,Ghana,2,1,Friendly,City,France,True
+2018-08-27,Japan,Germany,4,3,Friendly,City,Japan,True
+2018-08-27,Peru,Mexico,0,1,Friendly,City,Peru,True
+2018-08-27,Wales,Qatar,0,0,Friendly,City,Wales,True
+2018-09-03,Japan,France,3,2,Friendly,City,Japan,False
+2018-09-03,Peru,Brazil,1,0,Friendly,City,Peru,False
+2018-09-03,Iran,Spain,0,1,Friendly,City,Iran,False
+2018-09-03,Germany,Ghana,1,1,Friendly,City,Germany,False
+2018-09-03,Mexico,Wales,1,1,Friendly,City,Mexico,False
+2018-09-03,Qatar,Tunisia,2,1,Friendly,City,Qatar,False
+2018-09-10,Mexico,Ghana,0,2,FIFA World Cup,City,Mexico,False
+2018-09-10,Peru,France,2,0,FIFA World Cup,City,Peru,False
+2018-09-10,Germany,Qatar,1,0,FIFA World Cup,City,Germany,False
+2018-09-10,Wales,Spain,1,0,FIFA World Cup,City,Wales,False
+2018-09-10,Brazil,Tunisia,1,4,FIFA World Cup,City,Brazil,False
+2018-09-10,Iran,Japan,3,5,FIFA World Cup,City,Iran,False
+2018-09-17,France,Spain,1,4,Friendly,City,France,False
+2018-09-17,Tunisia,Ghana,1,0,Friendly,City,Tunisia,False
+2018-09-17,Germany,Mexico,2,0,Friendly,City,Germany,False
+2018-09-17,Japan,Peru,0,0,Friendly,City,Japan,False
+2018-09-17,Iran,Wales,1,1,Friendly,City,Iran,False
+2018-09-17,Qatar,Brazil,2,2,Friendly,City,Qatar,False
+2018-09-24,Tunisia,Ghana,2,1,Friendly,City,Tunisia,False
+2018-09-24,Qatar,Mexico,0,0,Friendly,City,Qatar,False
+2018-09-24,Japan,Wales,2,0,Friendly,City,Japan,False
+2018-09-24,Spain,France,1,3,Friendly,City,Spain,False
+2018-09-24,Germany,Iran,1,0,Friendly,City,Germany,False
+2018-09-24,Peru,Brazil,4,2,Friendly,City,Peru,False
+2018-10-01,Ghana,Germany,1,2,Friendly,City,Ghana,True
+2018-10-01,Tunisia,Brazil,2,3,Friendly,City,Tunisia,True
+2018-10-01,Mexico,Qatar,1,0,Friendly,City,Mexico,True
+2018-10-01,Wales,Peru,1,1,Friendly,City,Wales,True
+2018-10-01,Spain,Iran,0,0,Friendly,City,Spain,True
+2018-10-01,Japan,France,0,0,Friendly,City,Japan,True
+2018-10-08,Spain,Japan,1,3,FIFA World Cup qualification,City,Spain,False
+2018-10-08,Germany,Wales,0,2,FIFA World Cup qualification,City,Germany,False
+2018-10-08,Tunisia,Brazil,3,0,FIFA World Cup qualification,City,Tunisia,False
+2018-10-08,Ghana,Peru,1,0,FIFA World Cup qualification,City,Ghana,False
+2018-10-08,Qatar,Mexico,1,1,FIFA World Cup qualification,City,Qatar,False
+2018-10-08,Iran,France,2,3,FIFA World Cup qualification,City,Iran,False
+2018-10-15,Mexico,Japan,1,1,Friendly,City,Mexico,False
+2018-10-15,Germany,Spain,0,2,Friendly,City,Germany,False
+2018-10-15,Ghana,France,2,0,Friendly,City,Ghana,False
+2018-10-15,Peru,Brazil,2,4,Friendly,City,Peru,False
+2018-10-15,Tunisia,Qatar,3,0,Friendly,City,Tunisia,False
+2018-10-15,Wales,Iran,1,0,Friendly,City,Wales,False
+2018-10-22,Brazil,Japan,2,2,Friendly,City,Brazil,False
+2018-10-22,Germany,Tunisia,0,1,Friendly,City,Germany,False
+2018-10-22,Qatar,Wales,1,0,Friendly,City,Qatar,False
+2018-10-22,Spain,Mexico,2,1,Friendly,City,Spain,False
+2018-10-22,France,Iran,2,4,Friendly,City,France,False
+2018-10-22,Ghana,Peru,2,0,Friendly,City,Ghana,False
+2018-10-29,Brazil,Qatar,4,1,Friendly,City,Brazil,False
+2018-10-29,Tunisia,Wales,1,0,Friendly,City,Tunisia,False
+2018-10-29,France,Mexico,3,0,Friendly,City,France,False
+2018-10-29,Iran,Peru,0,0,Friendly,City,Iran,False
+2018-10-29,Spain,Ghana,5,1,Friendly,City,Spain,False
+2018-10-29,Germany,Japan,0,3,Friendly,City,Germany,False
+2018-11-05,Japan,Wales,2,1,FIFA World Cup,City,Japan,True
+2018-11-05,Iran,Qatar,1,1,FIFA World Cup,City,Iran,True
+2018-11-05,Peru,Mexico,2,0,FIFA World Cup,City,Peru,True
+2018-11-05,Germany,Ghana,3,2,FIFA World Cup,City,Germany,True
+2018-11-05,Tunisia,Brazil,1,1,FIFA World Cup,City,Tunisia,True
+2018-11-05,Spain,France,1,0,FIFA World Cup,City,Spain,True
+2018-11-12,Spain,Qatar,1,1,Friendly,City,Spain,False
+2018-11-12,Iran,Germany,2,3,Friendly,City,Iran,False
+2018-11-12,Japan,Mexico,2,2,Friendly,City,Japan,False
+2018-11-12,Brazil,Peru,0,2,Friendly,City,Brazil,False
+2018-11-12,Tunisia,France,1,0,Friendly,City,Tunisia,False
+2018-11-12,Wales,Ghana,0,0,Friendly,City,Wales,False
+2018-11-19,Qatar,Ghana,1,3,Friendly,City,Qatar,False
+2018-11-19,Japan,Wales,0,0,Friendly,City,Japan,False
+2018-11-19,Germany,France,2,1,Friendly,City,Germany,False
+2018-11-19,Iran,Spain,2,1,Friendly,City,Iran,False
+2018-11-19,Brazil,Mexico,2,1,Friendly,City,Brazil,False
+2018-11-19,Tunisia,Peru,3,2,Friendly,City,Tunisia,False
+2018-11-26,Peru,Ghana,1,0,Friendly,City,Peru,False
+2018-11-26,Brazil,Iran,4,1,Friendly,City,Brazil,False
+2018-11-26,Wales,Spain,3,1,Friendly,City,Wales,False
+2018-11-26,France,Germany,5,2,Friendly,City,France,False
+2018-11-26,Japan,Mexico,4,1,Friendly,City,Japan,False
+2018-11-26,Qatar,Tunisia,1,2,Friendly,City,Qatar,False
+2018-12-03,France,Brazil,0,0,FIFA World Cup qualification,City,France,False
+2018-12-03,Germany,Japan,3,2,FIFA World Cup qualification,City,Germany,False
+2018-12-03,Tunisia,Mexico,2,0,FIFA World Cup qualification,City,Tunisia,False
+2018-12-03,Spain,Ghana,1,1,FIFA World Cup qualification,City,Spain,False
+2018-12-03,Qatar,Iran,2,0,FIFA World Cup qualification,City,Qatar,False
+2018-12-03,Peru,Wales,3,0,FIFA World Cup qualification,City,Peru,False
+2018-12-10,Iran,France,2,0,Friendly,City,Iran,True
+2018-12-10,Mexico,Brazil,2,0,Friendly,City,Mexico,True
+2018-12-10,Ghana,Wales,1,1,Friendly,City,Ghana,True
+2018-12-10,Qatar,Spain,2,1,Friendly,City,Qatar,True
+2018-12-10,Peru,Germany,0,1,Friendly,City,Peru,True
+2018-12-10,Tunisia,Japan,2,3,Friendly,City,Tunisia,True
+2018-12-17,Wales,Mexico,0,2,Friendly,City,Wales,False
+2018-12-17,Qatar,Tunisia,2,0,Friendly,City,Qatar,False
+2018-12-17,Japan,Germany,2,1,Friendly,City,Japan,False
+2018-12-17,Ghana,France,1,3,Friendly,City,Ghana,False
+2018-12-17,Iran,Spain,3,3,Friendly,City,Iran,False
+2018-12-17,Peru,Brazil,0,4,Friendly,City,Peru,False
+2018-12-24,Spain,Germany,2,2,Friendly,City,Spain,False
+2018-12-24,Qatar,Peru,3,0,Friendly,City,Qatar,False
+2018-12-24,Wales,Iran,0,0,Friendly,City,Wales,False
+2018-12-24,France,Ghana,1,0,Friendly,City,France,False
+2018-12-24,Brazil,Japan,5,2,Friendly,City,Brazil,False
+2018-12-24,Mexico,Tunisia,2,3,Friendly,City,Mexico,False
+2018-12-31,Mexico,Wales,3,1,FIFA World Cup,City,Mexico,False
+2018-12-31,Spain,Tunisia,0,0,FIFA World Cup,City,Spain,False
+2018-12-31,Japan,France,1,0,FIFA World Cup,City,Japan,False
+2018-12-31,Brazil,Ghana,1,0,FIFA World Cup,City,Brazil,False
+2018-12-31,Iran,Peru,1,0,FIFA World Cup,City,Iran,False
+2018-12-31,Qatar,Germany,0,1,FIFA World Cup,City,Qatar,False
+2019-01-07,Ghana,Germany,2,0,Friendly,City,Ghana,False
+2019-01-07,Wales,Peru,1,3,Friendly,City,Wales,False
+2019-01-07,Spain,Qatar,1,0,Friendly,City,Spain,False
+2019-01-07,Brazil,Iran,0,1,Friendly,City,Brazil,False
+2019-01-07,Tunisia,Mexico,1,2,Friendly,City,Tunisia,False
+2019-01-07,Japan,France,3,2,Friendly,City,Japan,False
+2019-01-14,Ghana,Iran,0,1,Friendly,City,Ghana,True
+2019-01-14,Brazil,Peru,2,2,Friendly,City,Brazil,True
+2019-01-14,Mexico,Tunisia,1,1,Friendly,City,Mexico,True
+2019-01-14,Germany,France,1,1,Friendly,City,Germany,True
+2019-01-14,Qatar,Wales,1,1,Friendly,City,Qatar,True
+2019-01-14,Spain,Japan,0,0,Friendly,City,Spain,True
+2019-01-21,Tunisia,Germany,2,1,Friendly,City,Tunisia,False
+2019-01-21,Ghana,Wales,2,0,Friendly,City,Ghana,False
+2019-01-21,Peru,Japan,0,4,Friendly,City,Peru,False
+2019-01-21,Mexico,Spain,4,2,Friendly,City,Mexico,False
+2019-01-21,Qatar,Brazil,3,1,Friendly,City,Qatar,False
+2019-01-21,France,Iran,3,0,Friendly,City,France,False
+2019-01-28,Tunisia,Spain,1,1,FIFA World Cup qualification,City,Tunisia,False
+2019-01-28,Mexico,France,0,2,FIFA World Cup qualification,City,Mexico,False
+2019-01-28,Peru,Qatar,1,0,FIFA World Cup qualification,City,Peru,False
+2019-01-28,Ghana,Iran,4,2,FIFA World Cup qualification,City,Ghana,False
+2019-01-28,Germany,Wales,4,0,FIFA World Cup qualification,City,Germany,False
+2019-01-28,Japan,Brazil,1,3,FIFA World Cup qualification,City,Japan,False
+2019-02-04,Brazil,Iran,2,0,Friendly,City,Brazil,False
+2019-02-04,Germany,Wales,0,0,Friendly,City,Germany,False
+2019-02-04,Ghana,Japan,1,1,Friendly,City,Ghana,False
+2019-02-04,Peru,Spain,2,1,Friendly,City,Peru,False
+2019-02-04,Tunisia,Mexico,0,0,Friendly,City,Tunisia,False
+2019-02-04,France,Qatar,1,1,Friendly,City,France,False
+2019-02-11,Ghana,Spain,0,1,Friendly,City,Ghana,False
+2019-02-11,Japan,Brazil,3,2,Friendly,City,Japan,False
+2019-02-11,France,Qatar,1,0,Friendly,City,France,False
+2019-02-11,Peru,Iran,4,3,Friendly,City,Peru,False
+2019-02-11,Wales,Mexico,0,2,Friendly,City,Wales,False
+2019-02-11,Germany,Tunisia,3,6,Friendly,City,Germany,False
+2019-02-18,Peru,Spain,1,1,Friendly,City,Peru,True
+2019-02-18,Iran,Wales,0,0,Friendly,City,Iran,True
+2019-02-18,Ghana,Germany,0,2,Friendly,City,Ghana,True
+2019-02-18,Qatar,Mexico,1,0,Friendly,City,Qatar,True
+2019-02-18,Tunisia,France,2,1,Friendly,City,Tunisia,True
+2019-02-18,Japan,Brazil,2,2,Friendly,City,Japan,True
+2019-02-25,Japan,France,4,3,FIFA World Cup,City,Japan,False
+2019-02-25,Mexico,Qatar,2,0,FIFA World Cup,City,Mexico,False
+2019-02-25,Germany,Brazil,1,0,FIFA World Cup,City,Germany,False
+2019-02-25,Wales,Peru,1,2,FIFA World Cup,City,Wales,False
+2019-02-25,Spain,Iran,4,0,FIFA World Cup,City,Spain,False
+2019-02-25,Tunisia,Ghana,2,1,FIFA World Cup,City,Tunisia,False
+2019-03-04,Spain,France,0,1,Friendly,City,Spain,False
+2019-03-04,Wales,Iran,1,1,Friendly,City,Wales,False
+2019-03-04,Mexico,Peru,0,2,Friendly,City,Mexico,False
+2019-03-04,Brazil,Ghana,2,2,Friendly,City,Brazil,False
+2019-03-04,Qatar,Tunisia,1,4,Friendly,City,Qatar,False
+2019-03-04,Japan,Germany,1,1,Friendly,City,Japan,False
+2019-03-11,Mexico,Ghana,1,1,Friendly,City,Mexico,False
+2019-03-11,Peru,Wales,0,0,Friendly,City,Peru,False
+2019-03-11,Iran,Spain,0,2,Friendly,City,Iran,False
+2019-03-11,Germany,Brazil,2,2,Friendly,City,Germany,False
+2019-03-11,Japan,Tunisia,2,0,Friendly,City,Japan,False
+2019-03-11,France,Qatar,1,0,Friendly,City,France,False
+2019-03-18,Germany,Spain,0,2,Friendly,City,Germany,False
+2019-03-18,Wales,Japan,0,0,Friendly,City,Wales,False
+2019-03-18,France,Brazil,2,3,Friendly,City,France,False
+2019-03-18,Ghana,Tunisia,1,2,Friendly,City,Ghana,False
+2019-03-18,Mexico,Peru,3,0,Friendly,City,Mexico,False
+2019-03-18,Iran,Qatar,3,1,Friendly,City,Iran,False
+2019-03-25,Wales,Spain,0,1,FIFA World Cup qualification,City,Wales,True
+2019-03-25,Germany,Peru,2,2,FIFA World Cup qualification,City,Germany,True
+2019-03-25,Japan,Iran,0,0,FIFA World Cup qualification,City,Japan,True
+2019-03-25,Brazil,Qatar,2,0,FIFA World Cup qualification,City,Brazil,True
+2019-03-25,Tunisia,France,1,3,FIFA World Cup qualification,City,Tunisia,True
+2019-03-25,Ghana,Mexico,2,0,FIFA World Cup qualification,City,Ghana,True
+2019-04-01,Qatar,Tunisia,1,2,Friendly,City,Qatar,False
+2019-04-01,Mexico,France,2,2,Friendly,City,Mexico,False
+2019-04-01,Germany,Iran,3,0,Friendly,City,Germany,False
+2019-04-01,Wales,Japan,0,3,Friendly,City,Wales,False
+2019-04-01,Ghana,Peru,1,1,Friendly,City,Ghana,False
+2019-04-01,Brazil,Spain,2,3,Friendly,City,Brazil,False
+2019-04-08,Peru,Iran,1,0,Friendly,City,Peru,False
+2019-04-08,Tunisia,Wales,2,2,Friendly,City,Tunisia,False
+2019-04-08,Mexico,Qatar,2,2,Friendly,City,Mexico,False
+2019-04-08,Brazil,Germany,0,3,Friendly,City,Brazil,False
+2019-04-08,Spain,Japan,0,0,Friendly,City,Spain,False
+2019-04-08,France,Ghana,2,0,Friendly,City,France,False
+2019-04-15,Peru,Germany,0,3,Friendly,City,Peru,False
+2019-04-15,Brazil,Tunisia,2,2,Friendly,City,Brazil,False
+2019-04-15,Qatar,Ghana,0,0,Friendly,City,Qatar,False
+2019-04-15,Mexico,France,0,2,Friendly,City,Mexico,False
+2019-04-15,Spain,Japan,0,1,Friendly,City,Spain,False
+2019-04-15,Iran,Wales,0,2,Friendly,City,Iran,False
+2019-04-22,Iran,Wales,0,1,FIFA World Cup,City,Iran,False
+2019-04-22,Germany,Ghana,2,2,FIFA World Cup,City,Germany,False
+2019-04-22,Tunisia,Spain,2,1,FIFA World Cup,City,Tunisia,False
+2019-04-22,Qatar,Brazil,1,0,FIFA World Cup,City,Qatar,False
+2019-04-22,France,Peru,3,1,FIFA World Cup,City,France,False
+2019-04-22,Japan,Mexico,4,1,FIFA World Cup,City,Japan,False
+2019-04-29,Japan,Mexico,1,1,Friendly,City,Japan,True
+2019-04-29,Spain,Tunisia,1,1,Friendly,City,Spain,True
+2019-04-29,Wales,Germany,1,3,Friendly,City,Wales,True
+2019-04-29,Brazil,France,1,2,Friendly,City,Brazil,True
+2019-04-29,Peru,Ghana,0,2,Friendly,City,Peru,True
+2019-04-29,Qatar,Iran,2,2,Friendly,City,Qatar,True
+2019-05-06,Ghana,Wales,2,0,Friendly,City,Ghana,False
+2019-05-06,Mexico,Peru,2,4,Friendly,City,Mexico,False
+2019-05-06,France,Germany,1,2,Friendly,City,France,False
+2019-05-06,Qatar,Tunisia,2,0,Friendly,City,Qatar,False
+2019-05-06,Japan,Brazil,2,1,Friendly,City,Japan,False
+2019-05-06,Spain,Iran,0,0,Friendly,City,Spain,False
+2019-05-13,Iran,Mexico,4,1,Friendly,City,Iran,False
+2019-05-13,Peru,France,1,1,Friendly,City,Peru,False
+2019-05-13,Germany,Wales,1,3,Friendly,City,Germany,False
+2019-05-13,Japan,Brazil,0,2,Friendly,City,Japan,False
+2019-05-13,Spain,Tunisia,3,0,Friendly,City,Spain,False
+2019-05-13,Qatar,Ghana,0,1,Friendly,City,Qatar,False
+2019-05-20,Japan,Mexico,2,0,FIFA World Cup qualification,City,Japan,False
+2019-05-20,Spain,Brazil,2,3,FIFA World Cup qualification,City,Spain,False
+2019-05-20,Germany,Iran,3,0,FIFA World Cup qualification,City,Germany,False
+2019-05-20,Ghana,Qatar,2,1,FIFA World Cup qualification,City,Ghana,False
+2019-05-20,Peru,Wales,1,0,FIFA World Cup qualification,City,Peru,False
+2019-05-20,Tunisia,France,3,1,FIFA World Cup qualification,City,Tunisia,False
+2019-05-27,Ghana,Wales,2,1,Friendly,City,Ghana,False
+2019-05-27,Spain,Japan,2,0,Friendly,City,Spain,False
+2019-05-27,Mexico,Qatar,2,1,Friendly,City,Mexico,False
+2019-05-27,Brazil,Tunisia,2,1,Friendly,City,Brazil,False
+2019-05-27,Peru,France,1,2,Friendly,City,Peru,False
+2019-05-27,Germany,Iran,3,0,Friendly,City,Germany,False
+2019-06-03,Germany,Wales,3,1,Friendly,City,Germany,True
+2019-06-03,Iran,Peru,0,0,Friendly,City,Iran,True
+2019-06-03,Ghana,Japan,1,1,Friendly,City,Ghana,True
+2019-06-03,Mexico,Brazil,3,0,Friendly,City,Mexico,True
+2019-06-03,Qatar,Spain,1,2,Friendly,City,Qatar,True
+2019-06-03,Tunisia,France,4,1,Friendly,City,Tunisia,True
+2019-06-10,Tunisia,Japan,2,0,Friendly,City,Tunisia,False
+2019-06-10,Iran,Wales,1,1,Friendly,City,Iran,False
+2019-06-10,Mexico,France,3,0,Friendly,City,Mexico,False
+2019-06-10,Ghana,Brazil,3,2,Friendly,City,Ghana,False
+2019-06-10,Germany,Peru,0,0,Friendly,City,Germany,False
+2019-06-10,Qatar,Spain,1,0,Friendly,City,Qatar,False
+2019-06-17,Peru,Germany,1,0,FIFA World Cup,City,Peru,False
+2019-06-17,Qatar,Ghana,0,2,FIFA World Cup,City,Qatar,False
+2019-06-17,Japan,Spain,3,3,FIFA World Cup,City,Japan,False
+2019-06-17,France,Mexico,0,0,FIFA World Cup,City,France,False
+2019-06-17,Wales,Iran,0,0,FIFA World Cup,City,Wales,False
+2019-06-17,Brazil,Tunisia,2,1,FIFA World Cup,City,Brazil,False
+2019-06-24,Ghana,Iran,1,1,Friendly,City,Ghana,False
+2019-06-24,Mexico,Japan,1,2,Friendly,City,Mexico,False
+2019-06-24,Tunisia,Peru,1,1,Friendly,City,Tunisia,False
+2019-06-24,France,Qatar,1,3,Friendly,City,France,False
+2019-06-24,Wales,Germany,3,2,Friendly,City,Wales,False
+2019-06-24,Brazil,Spain,1,3,Friendly,City,Brazil,False
+2019-07-01,Iran,Ghana,1,2,Friendly,City,Iran,False
+2019-07-01,Qatar,Germany,1,1,Friendly,City,Qatar,False
+2019-07-01,Japan,Spain,3,0,Friendly,City,Japan,False
+2019-07-01,France,Wales,1,0,Friendly,City,France,False
+2019-07-01,Peru,Brazil,0,1,Friendly,City,Peru,False
+2019-07-01,Mexico,Tunisia,1,0,Friendly,City,Mexico,False
+2019-07-08,Iran,Tunisia,3,2,Friendly,City,Iran,True
+2019-07-08,Ghana,Wales,1,0,Friendly,City,Ghana,True
+2019-07-08,Brazil,Qatar,5,1,Friendly,City,Brazil,True
+2019-07-08,Peru,Mexico,0,1,Friendly,City,Peru,True
+2019-07-08,France,Japan,0,2,Friendly,City,France,True
+2019-07-08,Germany,Spain,2,0,Friendly,City,Germany,True
+2019-07-15,Peru,Mexico,1,0,FIFA World Cup qualification,City,Peru,False
+2019-07-15,France,Tunisia,0,1,FIFA World Cup qualification,City,France,False
+2019-07-15,Qatar,Germany,3,4,FIFA World Cup qualification,City,Qatar,False
+2019-07-15,Brazil,Iran,3,0,FIFA World Cup qualification,City,Brazil,False
+2019-07-15,Spain,Wales,1,1,FIFA World Cup qualification,City,Spain,False
+2019-07-15,Japan,Ghana,4,1,FIFA World Cup qualification,City,Japan,False
+2019-07-22,Japan,Wales,1,2,Friendly,City,Japan,False
+2019-07-22,Germany,Qatar,3,1,Friendly,City,Germany,False
+2019-07-22,Mexico,France,2,0,Friendly,City,Mexico,False
+2019-07-22,Tunisia,Iran,0,1,Friendly,City,Tunisia,False
+2019-07-22,Ghana,Brazil,3,1,Friendly,City,Ghana,False
+2019-07-22,Spain,Peru,1,1,Friendly,City,Spain,False
+2019-07-29,Spain,Ghana,0,6,Friendly,City,Spain,False
+2019-07-29,Wales,Peru,0,1,Friendly,City,Wales,False
+2019-07-29,Iran,Japan,2,3,Friendly,City,Iran,False
+2019-07-29,Brazil,France,5,3,Friendly,City,Brazil,False
+2019-07-29,Germany,Qatar,2,3,Friendly,City,Germany,False
+2019-07-29,Tunisia,Mexico,2,1,Friendly,City,Tunisia,False
+2019-08-05,Peru,Spain,1,2,Friendly,City,Peru,False
+2019-08-05,Wales,France,1,1,Friendly,City,Wales,False
+2019-08-05,Germany,Iran,1,0,Friendly,City,Germany,False
+2019-08-05,Ghana,Tunisia,0,1,Friendly,City,Ghana,False
+2019-08-05,Qatar,Japan,1,3,Friendly,City,Qatar,False
+2019-08-05,Mexico,Brazil,2,2,Friendly,City,Mexico,False
+2019-08-12,Peru,Tunisia,2,3,FIFA World Cup,City,Peru,True
+2019-08-12,Mexico,Qatar,2,2,FIFA World Cup,City,Mexico,True
+2019-08-12,Germany,Ghana,1,2,FIFA World Cup,City,Germany,True
+2019-08-12,Brazil,Japan,3,5,FIFA World Cup,City,Brazil,True
+2019-08-12,France,Spain,1,1,FIFA World Cup,City,France,True
+2019-08-12,Iran,Wales,3,0,FIFA World Cup,City,Iran,True
+2019-08-19,Germany,Mexico,1,0,Friendly,City,Germany,False
+2019-08-19,Qatar,Iran,3,0,Friendly,City,Qatar,False
+2019-08-19,Wales,Tunisia,1,1,Friendly,City,Wales,False
+2019-08-19,Brazil,Spain,1,2,Friendly,City,Brazil,False
+2019-08-19,Ghana,Peru,0,0,Friendly,City,Ghana,False
+2019-08-19,France,Japan,4,5,Friendly,City,France,False
+2019-08-26,Qatar,Peru,1,1,Friendly,City,Qatar,False
+2019-08-26,Spain,Wales,1,1,Friendly,City,Spain,False
+2019-08-26,Japan,Germany,1,0,Friendly,City,Japan,False
+2019-08-26,Mexico,Brazil,2,3,Friendly,City,Mexico,False
+2019-08-26,France,Tunisia,1,1,Friendly,City,France,False
+2019-08-26,Iran,Ghana,0,2,Friendly,City,Iran,False
+2019-09-02,Iran,Mexico,2,2,Friendly,City,Iran,False
+2019-09-02,Japan,France,2,5,Friendly,City,Japan,False
+2019-09-02,Germany,Peru,0,0,Friendly,City,Germany,False
+2019-09-02,Brazil,Wales,2,0,Friendly,City,Brazil,False
+2019-09-02,Qatar,Ghana,3,1,Friendly,City,Qatar,False
+2019-09-02,Spain,Tunisia,3,2,Friendly,City,Spain,False
+2019-09-09,Brazil,Peru,0,0,FIFA World Cup qualification,City,Brazil,False
+2019-09-09,Mexico,Wales,1,0,FIFA World Cup qualification,City,Mexico,False
+2019-09-09,Tunisia,Japan,1,1,FIFA World Cup qualification,City,Tunisia,False
+2019-09-09,Iran,Qatar,0,1,FIFA World Cup qualification,City,Iran,False
+2019-09-09,Germany,France,2,3,FIFA World Cup qualification,City,Germany,False
+2019-09-09,Ghana,Spain,2,1,FIFA World Cup qualification,City,Ghana,False
+2019-09-16,Ghana,Mexico,1,1,Friendly,City,Ghana,True
+2019-09-16,Qatar,France,2,1,Friendly,City,Qatar,True
+2019-09-16,Germany,Brazil,3,2,Friendly,City,Germany,True
+2019-09-16,Wales,Iran,4,1,Friendly,City,Wales,True
+2019-09-16,Peru,Japan,5,0,Friendly,City,Peru,True
+2019-09-16,Spain,Tunisia,7,2,Friendly,City,Spain,True
+2019-09-23,Iran,France,3,0,Friendly,City,Iran,False
+2019-09-23,Peru,Ghana,0,0,Friendly,City,Peru,False
+2019-09-23,Japan,Spain,2,2,Friendly,City,Japan,False
+2019-09-23,Tunisia,Mexico,2,1,Friendly,City,Tunisia,False
+2019-09-23,Germany,Wales,4,1,Friendly,City,Germany,False
+2019-09-23,Brazil,Qatar,2,0,Friendly,City,Brazil,False
+2019-09-30,Qatar,Tunisia,2,3,Friendly,City,Qatar,False
+2019-09-30,Spain,Ghana,3,1,Friendly,City,Spain,False
+2019-09-30,Mexico,France,1,2,Friendly,City,Mexico,False
+2019-09-30,Brazil,Japan,0,1,Friendly,City,Brazil,False
+2019-09-30,Wales,Iran,1,1,Friendly,City,Wales,False
+2019-09-30,Peru,Germany,5,1,Friendly,City,Peru,False
+2019-10-07,Wales,Iran,0,0,FIFA World Cup,City,Wales,False
+2019-10-07,Ghana,France,0,1,FIFA World Cup,City,Ghana,False
+2019-10-07,Spain,Peru,0,2,FIFA World Cup,City,Spain,False
+2019-10-07,Qatar,Japan,1,2,FIFA World Cup,City,Qatar,False
+2019-10-07,Brazil,Mexico,1,2,FIFA World Cup,City,Brazil,False
+2019-10-07,Tunisia,Germany,2,3,FIFA World Cup,City,Tunisia,False
+2019-10-14,Ghana,Iran,1,1,Friendly,City,Ghana,False
+2019-10-14,France,Brazil,0,1,Friendly,City,France,False
+2019-10-14,Wales,Japan,0,2,Friendly,City,Wales,False
+2019-10-14,Germany,Tunisia,2,0,Friendly,City,Germany,False
+2019-10-14,Spain,Peru,1,2,Friendly,City,Spain,False
+2019-10-14,Mexico,Qatar,2,1,Friendly,City,Mexico,False
+2019-10-21,Ghana,Iran,2,0,Friendly,City,Ghana,True
+2019-10-21,Tunisia,Wales,3,1,Friendly,City,Tunisia,True
+2019-10-21,Brazil,Qatar,4,1,Friendly,City,Brazil,True
+2019-10-21,Mexico,Peru,0,0,Friendly,City,Mexico,True
+2019-10-21,Japan,Germany,1,1,Friendly,City,Japan,True
+2019-10-21,Spain,France,2,1,Friendly,City,Spain,True
+2019-10-28,Brazil,France,2,2,Friendly,City,Brazil,False
+2019-10-28,Ghana,Iran,1,0,Friendly,City,Ghana,False
+2019-10-28,Tunisia,Wales,5,0,Friendly,City,Tunisia,False
+2019-10-28,Spain,Qatar,2,0,Friendly,City,Spain,False
+2019-10-28,Peru,Japan,0,2,Friendly,City,Peru,False
+2019-10-28,Germany,Mexico,0,0,Friendly,City,Germany,False
+2019-11-04,Spain,Japan,0,3,FIFA World Cup qualification,City,Spain,False
+2019-11-04,Germany,France,1,1,FIFA World Cup qualification,City,Germany,False
+2019-11-04,Mexico,Ghana,2,2,FIFA World Cup qualification,City,Mexico,False
+2019-11-04,Qatar,Tunisia,1,1,FIFA World Cup qualification,City,Qatar,False
+2019-11-04,Iran,Wales,0,0,FIFA World Cup qualification,City,Iran,False
+2019-11-04,Brazil,Peru,0,3,FIFA World Cup qualification,City,Brazil,False
+2019-11-11,Tunisia,Peru,2,4,Friendly,City,Tunisia,False
+2019-11-11,Mexico,Japan,2,2,Friendly,City,Mexico,False
+2019-11-11,Germany,Qatar,3,0,Friendly,City,Germany,False
+2019-11-11,France,Spain,1,3,Friendly,City,France,False
+2019-11-11,Brazil,Iran,3,0,Friendly,City,Brazil,False
+2019-11-11,Wales,Ghana,1,2,Friendly,City,Wales,False
+2019-11-18,Spain,Japan,4,2,Friendly,City,Spain,False
+2019-11-18,Germany,Brazil,0,3,Friendly,City,Germany,False
+2019-11-18,Tunisia,Mexico,2,0,Friendly,City,Tunisia,False
+2019-11-18,Ghana,Peru,0,1,Friendly,City,Ghana,False
+2019-11-18,Wales,France,3,2,Friendly,City,Wales,False
+2019-11-18,Qatar,Iran,0,1,Friendly,City,Qatar,False
+2019-11-25,Iran,Tunisia,1,1,Friendly,City,Iran,True
+2019-11-25,France,Wales,1,0,Friendly,City,France,True
+2019-11-25,Peru,Brazil,0,3,Friendly,City,Peru,True
+2019-11-25,Japan,Germany,2,1,Friendly,City,Japan,True
+2019-11-25,Ghana,Mexico,0,2,Friendly,City,Ghana,True
+2019-11-25,Spain,Qatar,2,0,Friendly,City,Spain,True
+2019-12-02,Japan,Germany,3,2,FIFA World Cup,City,Japan,False
+2019-12-02,Ghana,Tunisia,1,1,FIFA World Cup,City,Ghana,False
+2019-12-02,Brazil,Spain,1,3,FIFA World Cup,City,Brazil,False
+2019-12-02,Qatar,Wales,0,1,FIFA World Cup,City,Qatar,False
+2019-12-02,Mexico,France,2,2,FIFA World Cup,City,Mexico,False
+2019-12-02,Peru,Iran,2,1,FIFA World Cup,City,Peru,False
+2019-12-09,Germany,Mexico,3,2,Friendly,City,Germany,False
+2019-12-09,France,Japan,0,2,Friendly,City,France,False
+2019-12-09,Qatar,Peru,0,0,Friendly,City,Qatar,False
+2019-12-09,Ghana,Wales,2,0,Friendly,City,Ghana,False
+2019-12-09,Iran,Spain,0,0,Friendly,City,Iran,False
+2019-12-09,Brazil,Tunisia,0,2,Friendly,City,Brazil,False
+2019-12-16,Germany,Peru,2,0,Friendly,City,Germany,False
+2019-12-16,France,Iran,2,1,Friendly,City,France,False
+2019-12-16,Ghana,Tunisia,0,1,Friendly,City,Ghana,False
+2019-12-16,Brazil,Spain,1,2,Friendly,City,Brazil,False
+2019-12-16,Japan,Qatar,2,2,Friendly,City,Japan,False
+2019-12-16,Wales,Mexico,1,0,Friendly,City,Wales,False
+2019-12-23,Spain,Brazil,0,1,Friendly,City,Spain,False
+2019-12-23,Mexico,Tunisia,0,2,Friendly,City,Mexico,False
+2019-12-23,France,Japan,1,1,Friendly,City,France,False
+2019-12-23,Qatar,Iran,0,0,Friendly,City,Qatar,False
+2019-12-23,Peru,Wales,0,0,Friendly,City,Peru,False
+2019-12-23,Germany,Ghana,2,2,Friendly,City,Germany,False
+2019-12-30,Qatar,Iran,1,0,FIFA World Cup qualification,City,Qatar,True
+2019-12-30,Peru,Japan,1,1,FIFA World Cup qualification,City,Peru,True
+2019-12-30,Tunisia,Brazil,1,2,FIFA World Cup qualification,City,Tunisia,True
+2019-12-30,Germany,France,1,0,FIFA World Cup qualification,City,Germany,True
+2019-12-30,Ghana,Mexico,2,0,FIFA World Cup qualification,City,Ghana,True
+2019-12-30,Spain,Wales,3,0,FIFA World Cup qualification,City,Spain,True
+2020-01-06,Germany,Spain,1,5,Friendly,City,Germany,False
+2020-01-06,Tunisia,Iran,3,1,Friendly,City,Tunisia,False
+2020-01-06,Ghana,Peru,2,1,Friendly,City,Ghana,False
+2020-01-06,Japan,Wales,0,1,Friendly,City,Japan,False
+2020-01-06,France,Brazil,1,3,Friendly,City,France,False
+2020-01-06,Mexico,Qatar,1,0,Friendly,City,Mexico,False
+2020-01-13,Qatar,Brazil,2,2,Friendly,City,Qatar,False
+2020-01-13,Germany,Iran,0,3,Friendly,City,Germany,False
+2020-01-13,France,Tunisia,1,1,Friendly,City,France,False
+2020-01-13,Wales,Japan,0,2,Friendly,City,Wales,False
+2020-01-13,Spain,Peru,2,2,Friendly,City,Spain,False
+2020-01-13,Ghana,Mexico,2,0,Friendly,City,Ghana,False
+2020-01-20,Iran,Qatar,2,1,Friendly,City,Iran,False
+2020-01-20,Brazil,Germany,4,1,Friendly,City,Brazil,False
+2020-01-20,Ghana,Wales,0,1,Friendly,City,Ghana,False
+2020-01-20,Mexico,Tunisia,1,2,Friendly,City,Mexico,False
+2020-01-20,Spain,Japan,0,2,Friendly,City,Spain,False
+2020-01-20,France,Peru,2,0,Friendly,City,France,False
+2020-01-27,Mexico,Germany,0,3,FIFA World Cup,City,Mexico,False
+2020-01-27,Peru,Spain,1,1,FIFA World Cup,City,Peru,False
+2020-01-27,Ghana,Wales,2,3,FIFA World Cup,City,Ghana,False
+2020-01-27,Iran,Qatar,1,2,FIFA World Cup,City,Iran,False
+2020-01-27,Japan,Tunisia,0,1,FIFA World Cup,City,Japan,False
+2020-01-27,France,Brazil,5,0,FIFA World Cup,City,France,False
+2020-02-03,Japan,Iran,1,1,Friendly,City,Japan,True
+2020-02-03,Wales,Brazil,0,1,Friendly,City,Wales,True
+2020-02-03,Tunisia,Germany,5,1,Friendly,City,Tunisia,True
+2020-02-03,Peru,France,0,2,Friendly,City,Peru,True
+2020-02-03,Mexico,Spain,0,3,Friendly,City,Mexico,True
+2020-02-03,Ghana,Qatar,1,3,Friendly,City,Ghana,True
+2020-02-10,Tunisia,Germany,0,0,Friendly,City,Tunisia,False
+2020-02-10,France,Wales,2,0,Friendly,City,France,False
+2020-02-10,Peru,Qatar,1,0,Friendly,City,Peru,False
+2020-02-10,Japan,Iran,2,1,Friendly,City,Japan,False
+2020-02-10,Spain,Mexico,4,1,Friendly,City,Spain,False
+2020-02-10,Brazil,Ghana,1,1,Friendly,City,Brazil,False
+2020-02-17,Tunisia,Brazil,0,1,Friendly,City,Tunisia,False
+2020-02-17,Iran,Wales,1,3,Friendly,City,Iran,False
+2020-02-17,France,Germany,1,2,Friendly,City,France,False
+2020-02-17,Japan,Qatar,2,1,Friendly,City,Japan,False
+2020-02-17,Mexico,Ghana,2,1,Friendly,City,Mexico,False
+2020-02-17,Spain,Peru,2,1,Friendly,City,Spain,False
+2020-02-24,France,Ghana,4,2,FIFA World Cup qualification,City,France,False
+2020-02-24,Iran,Brazil,4,0,FIFA World Cup qualification,City,Iran,False
+2020-02-24,Mexico,Germany,0,1,FIFA World Cup qualification,City,Mexico,False
+2020-02-24,Japan,Peru,3,1,FIFA World Cup qualification,City,Japan,False
+2020-02-24,Wales,Tunisia,2,1,FIFA World Cup qualification,City,Wales,False
+2020-02-24,Spain,Qatar,2,1,FIFA World Cup qualification,City,Spain,False
+2020-03-02,Japan,Tunisia,2,2,Friendly,City,Japan,False
+2020-03-02,Brazil,Qatar,2,0,Friendly,City,Brazil,False
+2020-03-02,Iran,France,2,1,Friendly,City,Iran,False
+2020-03-02,Ghana,Wales,0,1,Friendly,City,Ghana,False
+2020-03-02,Mexico,Spain,2,1,Friendly,City,Mexico,False
+2020-03-02,Peru,Germany,1,3,Friendly,City,Peru,False
+2020-03-09,Tunisia,Brazil,0,2,Friendly,City,Tunisia,True
+2020-03-09,France,Wales,2,0,Friendly,City,France,True
+2020-03-09,Qatar,Mexico,1,1,Friendly,City,Qatar,True
+2020-03-09,Iran,Ghana,0,1,Friendly,City,Iran,True
+2020-03-09,Peru,Spain,3,7,Friendly,City,Peru,True
+2020-03-09,Japan,Germany,3,3,Friendly,City,Japan,True
+2020-03-16,Germany,Qatar,2,0,Friendly,City,Germany,False
+2020-03-16,Brazil,Ghana,2,1,Friendly,City,Brazil,False
+2020-03-16,Tunisia,Iran,2,0,Friendly,City,Tunisia,False
+2020-03-16,Mexico,France,1,0,Friendly,City,Mexico,False
+2020-03-16,Japan,Peru,1,0,Friendly,City,Japan,False
+2020-03-16,Wales,Spain,1,1,Friendly,City,Wales,False
+2020-03-23,Qatar,France,0,1,FIFA World Cup,City,Qatar,False
+2020-03-23,Germany,Peru,4,0,FIFA World Cup,City,Germany,False
+2020-03-23,Ghana,Spain,0,2,FIFA World Cup,City,Ghana,False
+2020-03-23,Japan,Mexico,1,2,FIFA World Cup,City,Japan,False
+2020-03-23,Brazil,Wales,1,0,FIFA World Cup,City,Brazil,False
+2020-03-23,Tunisia,Iran,0,0,FIFA World Cup,City,Tunisia,False
+2020-03-30,Japan,Qatar,1,1,Friendly,City,Japan,False
+2020-03-30,Spain,Mexico,2,1,Friendly,City,Spain,False
+2020-03-30,Brazil,Ghana,2,3,Friendly,City,Brazil,False
+2020-03-30,France,Wales,0,2,Friendly,City,France,False
+2020-03-30,Germany,Iran,1,0,Friendly,City,Germany,False
+2020-03-30,Tunisia,Peru,2,2,Friendly,City,Tunisia,False
+2020-04-06,Iran,Tunisia,1,2,Friendly,City,Iran,False
+2020-04-06,Mexico,Spain,0,1,Friendly,City,Mexico,False
+2020-04-06,Brazil,Wales,0,1,Friendly,City,Brazil,False
+2020-04-06,Peru,Germany,4,1,Friendly,City,Peru,False
+2020-04-06,Qatar,Japan,0,0,Friendly,City,Qatar,False
+2020-04-06,France,Ghana,1,2,Friendly,City,France,False
+2020-04-13,Tunisia,Brazil,0,1,Friendly,City,Tunisia,True
+2020-04-13,Japan,Wales,2,2,Friendly,City,Japan,True
+2020-04-13,Iran,Spain,1,1,Friendly,City,Iran,True
+2020-04-13,Germany,France,0,1,Friendly,City,Germany,True
+2020-04-13,Mexico,Ghana,0,1,Friendly,City,Mexico,True
+2020-04-13,Qatar,Peru,2,6,Friendly,City,Qatar,True
+2020-04-20,Germany,Tunisia,2,2,FIFA World Cup qualification,City,Germany,False
+2020-04-20,France,Iran,3,0,FIFA World Cup qualification,City,France,False
+2020-04-20,Spain,Peru,2,2,FIFA World Cup qualification,City,Spain,False
+2020-04-20,Qatar,Wales,1,0,FIFA World Cup qualification,City,Qatar,False
+2020-04-20,Brazil,Ghana,4,0,FIFA World Cup qualification,City,Brazil,False
+2020-04-20,Japan,Mexico,2,0,FIFA World Cup qualification,City,Japan,False
+2020-04-27,Germany,France,3,0,Friendly,City,Germany,False
+2020-04-27,Iran,Qatar,1,1,Friendly,City,Iran,False
+2020-04-27,Ghana,Japan,2,2,Friendly,City,Ghana,False
+2020-04-27,Wales,Spain,0,0,Friendly,City,Wales,False
+2020-04-27,Brazil,Peru,0,0,Friendly,City,Brazil,False
+2020-04-27,Tunisia,Mexico,2,1,Friendly,City,Tunisia,False
+2020-05-04,Qatar,Germany,1,0,Friendly,City,Qatar,False
+2020-05-04,Mexico,Tunisia,2,1,Friendly,City,Mexico,False
+2020-05-04,Iran,Spain,0,1,Friendly,City,Iran,False
+2020-05-04,Brazil,France,4,0,Friendly,City,Brazil,False
+2020-05-04,Wales,Japan,2,3,Friendly,City,Wales,False
+2020-05-04,Peru,Ghana,0,2,Friendly,City,Peru,False
+2020-05-11,Brazil,Peru,2,1,Friendly,City,Brazil,False
+2020-05-11,Tunisia,Wales,0,1,Friendly,City,Tunisia,False
+2020-05-11,Germany,France,2,1,Friendly,City,Germany,False
+2020-05-11,Qatar,Spain,0,0,Friendly,City,Qatar,False
+2020-05-11,Iran,Japan,1,3,Friendly,City,Iran,False
+2020-05-11,Mexico,Ghana,1,2,Friendly,City,Mexico,False
+2020-05-18,Iran,Spain,0,2,FIFA World Cup,City,Iran,True
+2020-05-18,Tunisia,Mexico,1,1,FIFA World Cup,City,Tunisia,True
+2020-05-18,Wales,France,0,2,FIFA World Cup,City,Wales,True
+2020-05-18,Brazil,Germany,2,2,FIFA World Cup,City,Brazil,True
+2020-05-18,Ghana,Qatar,1,1,FIFA World Cup,City,Ghana,True
+2020-05-18,Japan,Peru,2,0,FIFA World Cup,City,Japan,True
+2020-05-25,Ghana,Mexico,0,1,Friendly,City,Ghana,False
+2020-05-25,Tunisia,Qatar,4,2,Friendly,City,Tunisia,False
+2020-05-25,Wales,Germany,1,2,Friendly,City,Wales,False
+2020-05-25,Peru,Japan,2,2,Friendly,City,Peru,False
+2020-05-25,Spain,Brazil,2,2,Friendly,City,Spain,False
+2020-05-25,Iran,France,2,2,Friendly,City,Iran,False
+2020-06-01,Iran,Wales,1,1,Friendly,City,Iran,False
+2020-06-01,Mexico,Japan,0,2,Friendly,City,Mexico,False
+2020-06-01,Peru,Tunisia,1,0,Friendly,City,Peru,False
+2020-06-01,Qatar,Brazil,1,1,Friendly,City,Qatar,False
+2020-06-01,France,Ghana,2,0,Friendly,City,France,False
+2020-06-01,Germany,Spain,2,1,Friendly,City,Germany,False
+2020-06-08,Mexico,Peru,3,2,Friendly,City,Mexico,False
+2020-06-08,Iran,Wales,1,1,Friendly,City,Iran,False
+2020-06-08,Qatar,Brazil,3,0,Friendly,City,Qatar,False
+2020-06-08,Spain,Ghana,0,3,Friendly,City,Spain,False
+2020-06-08,Germany,Japan,1,2,Friendly,City,Germany,False
+2020-06-08,France,Tunisia,1,2,Friendly,City,France,False
+2020-06-15,Japan,Mexico,2,1,FIFA World Cup qualification,City,Japan,False
+2020-06-15,Wales,Ghana,3,2,FIFA World Cup qualification,City,Wales,False
+2020-06-15,Qatar,France,1,1,FIFA World Cup qualification,City,Qatar,False
+2020-06-15,Germany,Tunisia,2,2,FIFA World Cup qualification,City,Germany,False
+2020-06-15,Peru,Brazil,0,2,FIFA World Cup qualification,City,Peru,False
+2020-06-15,Iran,Spain,1,1,FIFA World Cup qualification,City,Iran,False
+2020-06-22,Mexico,Wales,0,2,Friendly,City,Mexico,True
+2020-06-22,Brazil,Iran,0,1,Friendly,City,Brazil,True
+2020-06-22,Tunisia,France,1,0,Friendly,City,Tunisia,True
+2020-06-22,Spain,Ghana,1,2,Friendly,City,Spain,True
+2020-06-22,Germany,Japan,1,5,Friendly,City,Germany,True
+2020-06-22,Peru,Qatar,1,1,Friendly,City,Peru,True
+2020-06-29,France,Mexico,2,0,Friendly,City,France,False
+2020-06-29,Iran,Spain,2,3,Friendly,City,Iran,False
+2020-06-29,Wales,Japan,0,1,Friendly,City,Wales,False
+2020-06-29,Ghana,Germany,3,0,Friendly,City,Ghana,False
+2020-06-29,Tunisia,Qatar,3,1,Friendly,City,Tunisia,False
+2020-06-29,Peru,Brazil,1,0,Friendly,City,Peru,False
+2020-07-06,Japan,Spain,0,2,Friendly,City,Japan,False
+2020-07-06,Wales,Qatar,1,0,Friendly,City,Wales,False
+2020-07-06,Mexico,Tunisia,1,2,Friendly,City,Mexico,False
+2020-07-06,Brazil,Iran,2,0,Friendly,City,Brazil,False
+2020-07-06,Peru,Germany,1,3,Friendly,City,Peru,False
+2020-07-06,Ghana,France,2,2,Friendly,City,Ghana,False
+2020-07-13,France,Japan,2,2,FIFA World Cup,City,France,False
+2020-07-13,Brazil,Tunisia,3,1,FIFA World Cup,City,Brazil,False
+2020-07-13,Germany,Qatar,0,0,FIFA World Cup,City,Germany,False
+2020-07-13,Peru,Spain,1,0,FIFA World Cup,City,Peru,False
+2020-07-13,Iran,Wales,1,2,FIFA World Cup,City,Iran,False
+2020-07-13,Mexico,Ghana,1,1,FIFA World Cup,City,Mexico,False
+2020-07-20,Wales,Japan,2,3,Friendly,City,Wales,False
+2020-07-20,Germany,Iran,0,1,Friendly,City,Germany,False
+2020-07-20,France,Ghana,0,2,Friendly,City,France,False
+2020-07-20,Tunisia,Mexico,2,1,Friendly,City,Tunisia,False
+2020-07-20,Peru,Spain,0,1,Friendly,City,Peru,False
+2020-07-20,Brazil,Qatar,1,1,Friendly,City,Brazil,False
+2020-07-27,Iran,Japan,1,5,Friendly,City,Iran,True
+2020-07-27,Brazil,Germany,0,2,Friendly,City,Brazil,True
+2020-07-27,France,Tunisia,3,2,Friendly,City,France,True
+2020-07-27,Peru,Spain,2,1,Friendly,City,Peru,True
+2020-07-27,Ghana,Wales,1,1,Friendly,City,Ghana,True
+2020-07-27,Qatar,Mexico,0,3,Friendly,City,Qatar,True
+2020-08-03,Iran,Brazil,1,2,Friendly,City,Iran,False
+2020-08-03,Wales,Mexico,2,1,Friendly,City,Wales,False
+2020-08-03,Qatar,Spain,2,0,Friendly,City,Qatar,False
+2020-08-03,Peru,Ghana,3,2,Friendly,City,Peru,False
+2020-08-03,France,Tunisia,2,2,Friendly,City,France,False
+2020-08-03,Japan,Germany,2,0,Friendly,City,Japan,False
+2020-08-10,Iran,Wales,0,1,FIFA World Cup qualification,City,Iran,False
+2020-08-10,Mexico,Germany,2,1,FIFA World Cup qualification,City,Mexico,False
+2020-08-10,Japan,Peru,6,0,FIFA World Cup qualification,City,Japan,False
+2020-08-10,Tunisia,Qatar,1,0,FIFA World Cup qualification,City,Tunisia,False
+2020-08-10,Brazil,Spain,2,0,FIFA World Cup qualification,City,Brazil,False
+2020-08-10,France,Ghana,1,3,FIFA World Cup qualification,City,France,False
+2020-08-17,Qatar,Iran,3,2,Friendly,City,Qatar,False
+2020-08-17,Germany,Tunisia,2,2,Friendly,City,Germany,False
+2020-08-17,France,Japan,2,0,Friendly,City,France,False
+2020-08-17,Wales,Brazil,2,1,Friendly,City,Wales,False
+2020-08-17,Mexico,Ghana,1,3,Friendly,City,Mexico,False
+2020-08-17,Peru,Spain,2,0,Friendly,City,Peru,False
+2020-08-24,Mexico,Iran,3,1,Friendly,City,Mexico,False
+2020-08-24,Ghana,Peru,1,0,Friendly,City,Ghana,False
+2020-08-24,Qatar,France,0,3,Friendly,City,Qatar,False
+2020-08-24,Japan,Spain,1,1,Friendly,City,Japan,False
+2020-08-24,Germany,Wales,2,1,Friendly,City,Germany,False
+2020-08-24,Tunisia,Brazil,2,2,Friendly,City,Tunisia,False
+2020-08-31,Qatar,France,3,1,Friendly,City,Qatar,True
+2020-08-31,Japan,Spain,2,1,Friendly,City,Japan,True
+2020-08-31,Peru,Tunisia,1,2,Friendly,City,Peru,True
+2020-08-31,Mexico,Wales,2,1,Friendly,City,Mexico,True
+2020-08-31,Iran,Ghana,1,1,Friendly,City,Iran,True
+2020-08-31,Brazil,Germany,1,3,Friendly,City,Brazil,True
+2020-09-07,Peru,Spain,0,0,FIFA World Cup,City,Peru,False
+2020-09-07,Tunisia,Mexico,2,1,FIFA World Cup,City,Tunisia,False
+2020-09-07,Brazil,Japan,1,1,FIFA World Cup,City,Brazil,False
+2020-09-07,Iran,Qatar,2,2,FIFA World Cup,City,Iran,False
+2020-09-07,Germany,France,0,2,FIFA World Cup,City,Germany,False
+2020-09-07,Wales,Ghana,1,2,FIFA World Cup,City,Wales,False
+2020-09-14,Iran,Ghana,1,0,Friendly,City,Iran,False
+2020-09-14,Wales,Germany,1,2,Friendly,City,Wales,False
+2020-09-14,Qatar,Mexico,4,3,Friendly,City,Qatar,False
+2020-09-14,Tunisia,Brazil,2,0,Friendly,City,Tunisia,False
+2020-09-14,Japan,France,1,1,Friendly,City,Japan,False
+2020-09-14,Spain,Peru,2,0,Friendly,City,Spain,False
+2020-09-21,Brazil,Japan,3,2,Friendly,City,Brazil,False
+2020-09-21,Peru,Tunisia,2,1,Friendly,City,Peru,False
+2020-09-21,France,Iran,3,2,Friendly,City,France,False
+2020-09-21,Mexico,Wales,0,3,Friendly,City,Mexico,False
+2020-09-21,Qatar,Ghana,1,1,Friendly,City,Qatar,False
+2020-09-21,Spain,Germany,1,0,Friendly,City,Spain,False
+2020-09-28,Ghana,Tunisia,2,2,Friendly,City,Ghana,False
+2020-09-28,Qatar,Peru,3,1,Friendly,City,Qatar,False
+2020-09-28,Wales,Mexico,0,0,Friendly,City,Wales,False
+2020-09-28,France,Japan,3,0,Friendly,City,France,False
+2020-09-28,Spain,Germany,3,1,Friendly,City,Spain,False
+2020-09-28,Brazil,Iran,2,0,Friendly,City,Brazil,False
+2020-10-05,Wales,Brazil,2,0,FIFA World Cup qualification,City,Wales,True
+2020-10-05,Ghana,Japan,2,1,FIFA World Cup qualification,City,Ghana,True
+2020-10-05,Tunisia,Germany,3,1,FIFA World Cup qualification,City,Tunisia,True
+2020-10-05,Iran,France,2,1,FIFA World Cup qualification,City,Iran,True
+2020-10-05,Spain,Peru,0,2,FIFA World Cup qualification,City,Spain,True
+2020-10-05,Qatar,Mexico,0,0,FIFA World Cup qualification,City,Qatar,True
+2020-10-12,Iran,Mexico,1,1,Friendly,City,Iran,False
+2020-10-12,Germany,Qatar,2,3,Friendly,City,Germany,False
+2020-10-12,Tunisia,Brazil,3,0,Friendly,City,Tunisia,False
+2020-10-12,France,Spain,1,1,Friendly,City,France,False
+2020-10-12,Wales,Japan,2,0,Friendly,City,Wales,False
+2020-10-12,Peru,Ghana,0,2,Friendly,City,Peru,False
+2020-10-19,Brazil,France,3,2,Friendly,City,Brazil,False
+2020-10-19,Japan,Tunisia,3,3,Friendly,City,Japan,False
+2020-10-19,Mexico,Qatar,1,0,Friendly,City,Mexico,False
+2020-10-19,Spain,Germany,2,1,Friendly,City,Spain,False
+2020-10-19,Ghana,Peru,1,3,Friendly,City,Ghana,False
+2020-10-19,Wales,Iran,2,0,Friendly,City,Wales,False
+2020-10-26,Ghana,Peru,5,0,Friendly,City,Ghana,False
+2020-10-26,Spain,Mexico,0,0,Friendly,City,Spain,False
+2020-10-26,Iran,Qatar,3,0,Friendly,City,Iran,False
+2020-10-26,Wales,Tunisia,2,0,Friendly,City,Wales,False
+2020-10-26,France,Japan,0,0,Friendly,City,France,False
+2020-10-26,Brazil,Germany,3,3,Friendly,City,Brazil,False
+2020-11-02,Japan,Tunisia,3,0,FIFA World Cup,City,Japan,False
+2020-11-02,Spain,Germany,3,0,FIFA World Cup,City,Spain,False
+2020-11-02,Iran,Ghana,1,2,FIFA World Cup,City,Iran,False
+2020-11-02,Brazil,France,3,1,FIFA World Cup,City,Brazil,False
+2020-11-02,Wales,Mexico,4,0,FIFA World Cup,City,Wales,False
+2020-11-02,Qatar,Peru,1,0,FIFA World Cup,City,Qatar,False
+2020-11-09,Germany,Japan,0,3,Friendly,City,Germany,True
+2020-11-09,Qatar,Ghana,0,0,Friendly,City,Qatar,True
+2020-11-09,Peru,Spain,2,1,Friendly,City,Peru,True
+2020-11-09,Tunisia,Iran,2,1,Friendly,City,Tunisia,True
+2020-11-09,France,Brazil,2,3,Friendly,City,France,True
+2020-11-09,Mexico,Wales,0,0,Friendly,City,Mexico,True
+2020-11-16,Peru,Tunisia,4,0,Friendly,City,Peru,False
+2020-11-16,France,Brazil,3,0,Friendly,City,France,False
+2020-11-16,Japan,Wales,3,0,Friendly,City,Japan,False
+2020-11-16,Spain,Qatar,0,0,Friendly,City,Spain,False
+2020-11-16,Germany,Ghana,1,1,Friendly,City,Germany,False
+2020-11-16,Iran,Mexico,1,0,Friendly,City,Iran,False
+2020-11-23,Peru,Spain,0,0,Friendly,City,Peru,False
+2020-11-23,France,Germany,3,1,Friendly,City,France,False
+2020-11-23,Wales,Brazil,0,1,Friendly,City,Wales,False
+2020-11-23,Qatar,Japan,0,3,Friendly,City,Qatar,False
+2020-11-23,Tunisia,Mexico,1,1,Friendly,City,Tunisia,False
+2020-11-23,Iran,Ghana,2,0,Friendly,City,Iran,False
+2020-11-30,Spain,Peru,3,1,FIFA World Cup qualification,City,Spain,False
+2020-11-30,France,Germany,0,1,FIFA World Cup qualification,City,France,False
+2020-11-30,Iran,Mexico,1,0,FIFA World Cup qualification,City,Iran,False
+2020-11-30,Qatar,Tunisia,2,2,FIFA World Cup qualification,City,Qatar,False
+2020-11-30,Brazil,Japan,3,2,FIFA World Cup qualification,City,Brazil,False
+2020-11-30,Ghana,Wales,1,0,FIFA World Cup qualification,City,Ghana,False
+2020-12-07,Wales,Peru,3,1,Friendly,City,Wales,False
+2020-12-07,Brazil,France,2,1,Friendly,City,Brazil,False
+2020-12-07,Qatar,Tunisia,1,2,Friendly,City,Qatar,False
+2020-12-07,Japan,Germany,3,0,Friendly,City,Japan,False
+2020-12-07,Mexico,Spain,2,1,Friendly,City,Mexico,False
+2020-12-07,Iran,Ghana,1,2,Friendly,City,Iran,False
+2020-12-14,Ghana,Peru,3,0,Friendly,City,Ghana,True
+2020-12-14,Wales,Japan,2,3,Friendly,City,Wales,True
+2020-12-14,France,Iran,3,0,Friendly,City,France,True
+2020-12-14,Tunisia,Spain,0,1,Friendly,City,Tunisia,True
+2020-12-14,Germany,Brazil,1,4,Friendly,City,Germany,True
+2020-12-14,Mexico,Qatar,0,0,Friendly,City,Mexico,True
+2020-12-21,Tunisia,Wales,0,0,Friendly,City,Tunisia,False
+2020-12-21,Iran,Brazil,1,6,Friendly,City,Iran,False
+2020-12-21,Spain,Peru,1,2,Friendly,City,Spain,False
+2020-12-21,Ghana,Qatar,1,1,Friendly,City,Ghana,False
+2020-12-21,France,Mexico,2,1,Friendly,City,France,False
+2020-12-21,Germany,Japan,1,3,Friendly,City,Germany,False
+2020-12-28,France,Qatar,3,1,FIFA World Cup,City,France,False
+2020-12-28,Ghana,Spain,0,1,FIFA World Cup,City,Ghana,False
+2020-12-28,Wales,Mexico,1,1,FIFA World Cup,City,Wales,False
+2020-12-28,Germany,Peru,1,3,FIFA World Cup,City,Germany,False
+2020-12-28,Tunisia,Iran,2,3,FIFA World Cup,City,Tunisia,False
+2020-12-28,Japan,Brazil,3,3,FIFA World Cup,City,Japan,False
+2021-01-04,Iran,France,0,1,Friendly,City,Iran,False
+2021-01-04,Peru,Qatar,0,0,Friendly,City,Peru,False
+2021-01-04,Tunisia,Ghana,0,0,Friendly,City,Tunisia,False
+2021-01-04,Japan,Wales,1,0,Friendly,City,Japan,False
+2021-01-04,Spain,Mexico,0,1,Friendly,City,Spain,False
+2021-01-04,Germany,Brazil,6,2,Friendly,City,Germany,False
+2021-01-11,Germany,Japan,5,0,Friendly,City,Germany,False
+2021-01-11,Wales,Peru,3,3,Friendly,City,Wales,False
+2021-01-11,France,Mexico,4,0,Friendly,City,France,False
+2021-01-11,Iran,Tunisia,3,2,Friendly,City,Iran,False
+2021-01-11,Brazil,Ghana,3,1,Friendly,City,Brazil,False
+2021-01-11,Qatar,Spain,1,0,Friendly,City,Qatar,False
+2021-01-18,Wales,Iran,0,0,Friendly,City,Wales,True
+2021-01-18,Mexico,Japan,4,2,Friendly,City,Mexico,True
+2021-01-18,France,Ghana,2,1,Friendly,City,France,True
+2021-01-18,Qatar,Spain,1,1,Friendly,City,Qatar,True
+2021-01-18,Germany,Tunisia,0,2,Friendly,City,Germany,True
+2021-01-18,Peru,Brazil,0,2,Friendly,City,Peru,True
+2021-01-25,Tunisia,Brazil,2,1,FIFA World Cup qualification,City,Tunisia,False
+2021-01-25,Wales,Qatar,0,0,FIFA World Cup qualification,City,Wales,False
+2021-01-25,Germany,Spain,0,1,FIFA World Cup qualification,City,Germany,False
+2021-01-25,Japan,Ghana,4,1,FIFA World Cup qualification,City,Japan,False
+2021-01-25,Mexico,Iran,1,1,FIFA World Cup qualification,City,Mexico,False
+2021-01-25,Peru,France,2,3,FIFA World Cup qualification,City,Peru,False
+2021-02-01,Germany,Ghana,1,1,Friendly,City,Germany,False
+2021-02-01,France,Wales,2,0,Friendly,City,France,False
+2021-02-01,Japan,Mexico,2,0,Friendly,City,Japan,False
+2021-02-01,Brazil,Peru,4,2,Friendly,City,Brazil,False
+2021-02-01,Qatar,Spain,0,2,Friendly,City,Qatar,False
+2021-02-01,Iran,Tunisia,1,2,Friendly,City,Iran,False
+2021-02-08,Iran,Germany,1,4,Friendly,City,Iran,False
+2021-02-08,France,Qatar,1,0,Friendly,City,France,False
+2021-02-08,Brazil,Spain,1,1,Friendly,City,Brazil,False
+2021-02-08,Japan,Ghana,0,1,Friendly,City,Japan,False
+2021-02-08,Peru,Mexico,0,2,Friendly,City,Peru,False
+2021-02-08,Wales,Tunisia,2,1,Friendly,City,Wales,False
+2021-02-15,Tunisia,Spain,4,0,Friendly,City,Tunisia,False
+2021-02-15,France,Iran,0,0,Friendly,City,France,False
+2021-02-15,Qatar,Ghana,1,3,Friendly,City,Qatar,False
+2021-02-15,Japan,Mexico,1,0,Friendly,City,Japan,False
+2021-02-15,Brazil,Germany,3,0,Friendly,City,Brazil,False
+2021-02-15,Wales,Peru,1,1,Friendly,City,Wales,False
+2021-02-22,Iran,Germany,1,3,FIFA World Cup,City,Iran,True
+2021-02-22,Qatar,Tunisia,0,2,FIFA World Cup,City,Qatar,True
+2021-02-22,Japan,Mexico,3,1,FIFA World Cup,City,Japan,True
+2021-02-22,Peru,Brazil,3,0,FIFA World Cup,City,Peru,True
+2021-02-22,Spain,Wales,2,1,FIFA World Cup,City,Spain,True
+2021-02-22,Ghana,France,2,2,FIFA World Cup,City,Ghana,True
+2021-03-01,Wales,Japan,3,0,Friendly,City,Wales,False
+2021-03-01,Mexico,Spain,1,1,Friendly,City,Mexico,False
+2021-03-01,Qatar,Tunisia,1,3,Friendly,City,Qatar,False
+2021-03-01,Peru,France,1,1,Friendly,City,Peru,False
+2021-03-01,Iran,Brazil,2,0,Friendly,City,Iran,False
+2021-03-01,Ghana,Germany,1,0,Friendly,City,Ghana,False
+2021-03-08,Wales,Mexico,1,0,Friendly,City,Wales,False
+2021-03-08,Germany,Brazil,4,1,Friendly,City,Germany,False
+2021-03-08,France,Iran,4,0,Friendly,City,France,False
+2021-03-08,Japan,Qatar,2,1,Friendly,City,Japan,False
+2021-03-08,Spain,Tunisia,3,3,Friendly,City,Spain,False
+2021-03-08,Peru,Ghana,0,2,Friendly,City,Peru,False
+2021-03-15,Peru,Ghana,0,2,Friendly,City,Peru,False
+2021-03-15,Iran,Mexico,1,1,Friendly,City,Iran,False
+2021-03-15,Japan,Germany,3,5,Friendly,City,Japan,False
+2021-03-15,Spain,Qatar,3,1,Friendly,City,Spain,False
+2021-03-15,France,Tunisia,1,0,Friendly,City,France,False
+2021-03-15,Wales,Brazil,1,1,Friendly,City,Wales,False
+2021-03-22,Wales,Japan,1,0,FIFA World Cup qualification,City,Wales,False
+2021-03-22,Peru,Qatar,1,0,FIFA World Cup qualification,City,Peru,False
+2021-03-22,France,Spain,0,1,FIFA World Cup qualification,City,France,False
+2021-03-22,Ghana,Brazil,0,2,FIFA World Cup qualification,City,Ghana,False
+2021-03-22,Iran,Germany,0,0,FIFA World Cup qualification,City,Iran,False
+2021-03-22,Tunisia,Mexico,3,0,FIFA World Cup qualification,City,Tunisia,False
+2021-03-29,Iran,France,4,0,Friendly,City,Iran,True
+2021-03-29,Germany,Mexico,2,1,Friendly,City,Germany,True
+2021-03-29,Wales,Ghana,0,1,Friendly,City,Wales,True
+2021-03-29,Spain,Tunisia,0,2,Friendly,City,Spain,True
+2021-03-29,Japan,Qatar,1,4,Friendly,City,Japan,True
+2021-03-29,Peru,Brazil,1,0,Friendly,City,Peru,True
+2021-04-05,Germany,Brazil,4,0,Friendly,City,Germany,False
+2021-04-05,Tunisia,Peru,4,2,Friendly,City,Tunisia,False
+2021-04-05,France,Spain,1,1,Friendly,City,France,False
+2021-04-05,Wales,Ghana,1,0,Friendly,City,Wales,False
+2021-04-05,Qatar,Mexico,3,2,Friendly,City,Qatar,False
+2021-04-05,Iran,Japan,0,2,Friendly,City,Iran,False
+2021-04-12,Iran,Spain,2,1,Friendly,City,Iran,False
+2021-04-12,Germany,Peru,1,0,Friendly,City,Germany,False
+2021-04-12,Tunisia,Wales,1,1,Friendly,City,Tunisia,False
+2021-04-12,France,Mexico,1,1,Friendly,City,France,False
+2021-04-12,Ghana,Qatar,2,0,Friendly,City,Ghana,False
+2021-04-12,Japan,Brazil,0,3,Friendly,City,Japan,False
+2021-04-19,Iran,Tunisia,1,4,FIFA World Cup,City,Iran,False
+2021-04-19,Mexico,Peru,2,1,FIFA World Cup,City,Mexico,False
+2021-04-19,France,Spain,3,0,FIFA World Cup,City,France,False
+2021-04-19,Wales,Japan,1,1,FIFA World Cup,City,Wales,False
+2021-04-19,Brazil,Qatar,2,2,FIFA World Cup,City,Brazil,False
+2021-04-19,Germany,Ghana,5,0,FIFA World Cup,City,Germany,False
+2021-04-26,Peru,Germany,0,0,Friendly,City,Peru,False
+2021-04-26,Spain,Qatar,0,2,Friendly,City,Spain,False
+2021-04-26,Japan,Tunisia,1,2,Friendly,City,Japan,False
+2021-04-26,Brazil,Wales,2,1,Friendly,City,Brazil,False
+2021-04-26,France,Mexico,0,0,Friendly,City,France,False
+2021-04-26,Ghana,Iran,1,0,Friendly,City,Ghana,False
+2021-05-03,Tunisia,France,2,3,Friendly,City,Tunisia,True
+2021-05-03,Mexico,Ghana,1,1,Friendly,City,Mexico,True
+2021-05-03,Wales,Iran,2,1,Friendly,City,Wales,True
+2021-05-03,Germany,Peru,4,4,Friendly,City,Germany,True
+2021-05-03,Brazil,Qatar,1,2,Friendly,City,Brazil,True
+2021-05-03,Japan,Spain,3,0,Friendly,City,Japan,True
+2021-05-10,Germany,Tunisia,2,0,Friendly,City,Germany,False
+2021-05-10,Wales,Mexico,1,1,Friendly,City,Wales,False
+2021-05-10,Spain,France,4,1,Friendly,City,Spain,False
+2021-05-10,Brazil,Qatar,3,1,Friendly,City,Brazil,False
+2021-05-10,Peru,Ghana,3,1,Friendly,City,Peru,False
+2021-05-10,Japan,Iran,2,0,Friendly,City,Japan,False
+2021-05-17,Ghana,Wales,0,1,FIFA World Cup qualification,City,Ghana,False
+2021-05-17,Tunisia,Qatar,2,1,FIFA World Cup qualification,City,Tunisia,False
+2021-05-17,Germany,Japan,3,4,FIFA World Cup qualification,City,Germany,False
+2021-05-17,Peru,Brazil,1,0,FIFA World Cup qualification,City,Peru,False
+2021-05-17,France,Spain,1,0,FIFA World Cup qualification,City,France,False
+2021-05-17,Mexico,Iran,2,1,FIFA World Cup qualification,City,Mexico,False
+2021-05-24,Iran,Japan,2,1,Friendly,City,Iran,False
+2021-05-24,France,Qatar,2,1,Friendly,City,France,False
+2021-05-24,Tunisia,Peru,1,1,Friendly,City,Tunisia,False
+2021-05-24,Wales,Germany,1,3,Friendly,City,Wales,False
+2021-05-24,Spain,Mexico,3,1,Friendly,City,Spain,False
+2021-05-24,Ghana,Brazil,2,0,Friendly,City,Ghana,False
+2021-05-31,France,Qatar,1,2,Friendly,City,France,False
+2021-05-31,Wales,Germany,2,1,Friendly,City,Wales,False
+2021-05-31,Ghana,Peru,0,0,Friendly,City,Ghana,False
+2021-05-31,Spain,Iran,1,0,Friendly,City,Spain,False
+2021-05-31,Mexico,Japan,2,3,Friendly,City,Mexico,False
+2021-05-31,Tunisia,Brazil,1,2,Friendly,City,Tunisia,False
+2021-06-07,Ghana,Wales,2,1,Friendly,City,Ghana,True
+2021-06-07,Qatar,Germany,0,0,Friendly,City,Qatar,True
+2021-06-07,Spain,Japan,3,1,Friendly,City,Spain,True
+2021-06-07,Tunisia,Brazil,1,3,Friendly,City,Tunisia,True
+2021-06-07,Iran,France,0,2,Friendly,City,Iran,True
+2021-06-07,Peru,Mexico,2,1,Friendly,City,Peru,True
+2021-06-14,Peru,Tunisia,2,3,FIFA World Cup,City,Peru,False
+2021-06-14,Japan,Wales,3,2,FIFA World Cup,City,Japan,False
+2021-06-14,France,Spain,2,1,FIFA World Cup,City,France,False
+2021-06-14,Qatar,Mexico,2,0,FIFA World Cup,City,Qatar,False
+2021-06-14,Germany,Ghana,0,1,FIFA World Cup,City,Germany,False
+2021-06-14,Iran,Brazil,2,2,FIFA World Cup,City,Iran,False
+2021-06-21,Mexico,Brazil,0,2,Friendly,City,Mexico,False
+2021-06-21,Tunisia,Japan,4,0,Friendly,City,Tunisia,False
+2021-06-21,Ghana,Spain,0,0,Friendly,City,Ghana,False
+2021-06-21,Peru,Qatar,2,0,Friendly,City,Peru,False
+2021-06-21,Germany,Wales,0,0,Friendly,City,Germany,False
+2021-06-21,Iran,France,3,3,Friendly,City,Iran,False
+2021-06-28,Tunisia,Qatar,3,1,Friendly,City,Tunisia,False
+2021-06-28,Germany,Brazil,1,1,Friendly,City,Germany,False
+2021-06-28,Wales,Japan,3,1,Friendly,City,Wales,False
+2021-06-28,Mexico,Peru,0,0,Friendly,City,Mexico,False
+2021-06-28,Iran,Ghana,0,1,Friendly,City,Iran,False
+2021-06-28,France,Spain,2,2,Friendly,City,France,False
+2021-07-05,Spain,Tunisia,1,2,Friendly,City,Spain,False
+2021-07-05,Peru,Wales,3,1,Friendly,City,Peru,False
+2021-07-05,Iran,Japan,2,1,Friendly,City,Iran,False
+2021-07-05,Brazil,Germany,3,2,Friendly,City,Brazil,False
+2021-07-05,Mexico,Qatar,2,3,Friendly,City,Mexico,False
+2021-07-05,France,Ghana,0,1,Friendly,City,France,False
+2021-07-12,Iran,Peru,0,1,FIFA World Cup qualification,City,Iran,True
+2021-07-12,Wales,Brazil,2,0,FIFA World Cup qualification,City,Wales,True
+2021-07-12,Tunisia,Japan,0,1,FIFA World Cup qualification,City,Tunisia,True
+2021-07-12,Germany,Spain,2,0,FIFA World Cup qualification,City,Germany,True
+2021-07-12,France,Mexico,1,2,FIFA World Cup qualification,City,France,True
+2021-07-12,Qatar,Ghana,0,1,FIFA World Cup qualification,City,Qatar,True
+2021-07-19,Qatar,Iran,0,1,Friendly,City,Qatar,False
+2021-07-19,France,Peru,1,3,Friendly,City,France,False
+2021-07-19,Brazil,Ghana,3,4,Friendly,City,Brazil,False
+2021-07-19,Mexico,Tunisia,2,0,Friendly,City,Mexico,False
+2021-07-19,Wales,Spain,2,0,Friendly,City,Wales,False
+2021-07-19,Japan,Germany,0,0,Friendly,City,Japan,False
+2021-07-26,Wales,Germany,1,1,Friendly,City,Wales,False
+2021-07-26,Ghana,Japan,2,2,Friendly,City,Ghana,False
+2021-07-26,Spain,Brazil,1,2,Friendly,City,Spain,False
+2021-07-26,Qatar,Iran,1,0,Friendly,City,Qatar,False
+2021-07-26,Tunisia,Mexico,2,2,Friendly,City,Tunisia,False
+2021-07-26,France,Peru,2,1,Friendly,City,France,False
+2021-08-02,Germany,France,0,0,Friendly,City,Germany,False
+2021-08-02,Brazil,Spain,2,2,Friendly,City,Brazil,False
+2021-08-02,Peru,Japan,2,4,Friendly,City,Peru,False
+2021-08-02,Ghana,Iran,2,2,Friendly,City,Ghana,False
+2021-08-02,Qatar,Tunisia,1,1,Friendly,City,Qatar,False
+2021-08-02,Wales,Mexico,0,0,Friendly,City,Wales,False
+2021-08-09,Ghana,Spain,2,0,FIFA World Cup,City,Ghana,False
+2021-08-09,Tunisia,Germany,1,2,FIFA World Cup,City,Tunisia,False
+2021-08-09,France,Peru,2,0,FIFA World Cup,City,France,False
+2021-08-09,Japan,Iran,3,1,FIFA World Cup,City,Japan,False
+2021-08-09,Wales,Mexico,1,0,FIFA World Cup,City,Wales,False
+2021-08-09,Brazil,Qatar,0,0,FIFA World Cup,City,Brazil,False
+2021-08-16,Spain,Japan,0,2,Friendly,City,Spain,True
+2021-08-16,Mexico,Qatar,3,1,Friendly,City,Mexico,True
+2021-08-16,Wales,France,1,1,Friendly,City,Wales,True
+2021-08-16,Germany,Peru,2,0,Friendly,City,Germany,True
+2021-08-16,Iran,Ghana,0,1,Friendly,City,Iran,True
+2021-08-16,Brazil,Tunisia,2,2,Friendly,City,Brazil,True
+2021-08-23,Peru,Mexico,3,1,Friendly,City,Peru,False
+2021-08-23,Japan,Qatar,0,1,Friendly,City,Japan,False
+2021-08-23,France,Wales,1,0,Friendly,City,France,False
+2021-08-23,Ghana,Germany,0,1,Friendly,City,Ghana,False
+2021-08-23,Spain,Tunisia,4,4,Friendly,City,Spain,False
+2021-08-23,Brazil,Iran,1,2,Friendly,City,Brazil,False
+2021-08-30,Tunisia,Iran,3,1,Friendly,City,Tunisia,False
+2021-08-30,Mexico,Brazil,2,3,Friendly,City,Mexico,False
+2021-08-30,France,Qatar,1,1,Friendly,City,France,False
+2021-08-30,Spain,Wales,5,1,Friendly,City,Spain,False
+2021-08-30,Germany,Peru,3,0,Friendly,City,Germany,False
+2021-08-30,Ghana,Japan,0,2,Friendly,City,Ghana,False
+2021-09-06,Germany,Brazil,2,4,FIFA World Cup qualification,City,Germany,False
+2021-09-06,Tunisia,France,1,2,FIFA World Cup qualification,City,Tunisia,False
+2021-09-06,Ghana,Iran,2,0,FIFA World Cup qualification,City,Ghana,False
+2021-09-06,Peru,Wales,1,0,FIFA World Cup qualification,City,Peru,False
+2021-09-06,Japan,Spain,1,1,FIFA World Cup qualification,City,Japan,False
+2021-09-06,Mexico,Qatar,2,1,FIFA World Cup qualification,City,Mexico,False
+2021-09-13,Mexico,Wales,2,0,Friendly,City,Mexico,False
+2021-09-13,Germany,Brazil,6,4,Friendly,City,Germany,False
+2021-09-13,Spain,Peru,1,3,Friendly,City,Spain,False
+2021-09-13,Ghana,Qatar,1,0,Friendly,City,Ghana,False
+2021-09-13,Japan,France,5,2,Friendly,City,Japan,False
+2021-09-13,Iran,Tunisia,3,2,Friendly,City,Iran,False
+2021-09-20,Qatar,Brazil,0,0,Friendly,City,Qatar,True
+2021-09-20,Wales,Germany,0,0,Friendly,City,Wales,True
+2021-09-20,France,Ghana,2,0,Friendly,City,France,True
+2021-09-20,Peru,Spain,0,2,Friendly,City,Peru,True
+2021-09-20,Mexico,Japan,1,3,Friendly,City,Mexico,True
+2021-09-20,Iran,Tunisia,1,2,Friendly,City,Iran,True
+2021-09-27,Germany,Mexico,1,0,Friendly,City,Germany,False
+2021-09-27,Wales,Peru,1,1,Friendly,City,Wales,False
+2021-09-27,Brazil,Iran,1,1,Friendly,City,Brazil,False
+2021-09-27,Qatar,Ghana,0,1,Friendly,City,Qatar,False
+2021-09-27,France,Spain,2,0,Friendly,City,France,False
+2021-09-27,Japan,Tunisia,3,2,Friendly,City,Japan,False
+2021-10-04,Germany,Peru,2,1,FIFA World Cup,City,Germany,False
+2021-10-04,Japan,Wales,0,1,FIFA World Cup,City,Japan,False
+2021-10-04,Tunisia,Spain,1,2,FIFA World Cup,City,Tunisia,False
+2021-10-04,Qatar,Iran,2,3,FIFA World Cup,City,Qatar,False
+2021-10-04,Brazil,Ghana,0,1,FIFA World Cup,City,Brazil,False
+2021-10-04,Mexico,France,3,1,FIFA World Cup,City,Mexico,False
+2021-10-11,France,Qatar,1,1,Friendly,City,France,False
+2021-10-11,Germany,Ghana,0,2,Friendly,City,Germany,False
+2021-10-11,Japan,Wales,3,2,Friendly,City,Japan,False
+2021-10-11,Spain,Tunisia,0,3,Friendly,City,Spain,False
+2021-10-11,Iran,Mexico,1,0,Friendly,City,Iran,False
+2021-10-11,Peru,Brazil,1,0,Friendly,City,Peru,False
+2021-10-18,France,Germany,0,2,Friendly,City,France,False
+2021-10-18,Peru,Brazil,0,1,Friendly,City,Peru,False
+2021-10-18,Japan,Ghana,3,2,Friendly,City,Japan,False
+2021-10-18,Iran,Mexico,1,1,Friendly,City,Iran,False
+2021-10-18,Spain,Qatar,1,0,Friendly,City,Spain,False
+2021-10-18,Tunisia,Wales,0,1,Friendly,City,Tunisia,False
+2021-10-25,Mexico,Brazil,0,1,Friendly,City,Mexico,True
+2021-10-25,Iran,Tunisia,0,4,Friendly,City,Iran,True
+2021-10-25,France,Ghana,3,1,Friendly,City,France,True
+2021-10-25,Spain,Japan,0,0,Friendly,City,Spain,True
+2021-10-25,Germany,Qatar,2,3,Friendly,City,Germany,True
+2021-10-25,Wales,Peru,1,0,Friendly,City,Wales,True
+2021-11-01,Mexico,Wales,1,1,FIFA World Cup qualification,City,Mexico,False
+2021-11-01,Germany,France,1,1,FIFA World Cup qualification,City,Germany,False
+2021-11-01,Peru,Iran,4,0,FIFA World Cup qualification,City,Peru,False
+2021-11-01,Spain,Japan,1,0,FIFA World Cup qualification,City,Spain,False
+2021-11-01,Tunisia,Brazil,3,2,FIFA World Cup qualification,City,Tunisia,False
+2021-11-01,Ghana,Qatar,2,0,FIFA World Cup qualification,City,Ghana,False
+2021-11-08,Spain,Japan,1,2,Friendly,City,Spain,False
+2021-11-08,Germany,France,0,1,Friendly,City,Germany,False
+2021-11-08,Iran,Mexico,3,1,Friendly,City,Iran,False
+2021-11-08,Qatar,Brazil,1,1,Friendly,City,Qatar,False
+2021-11-08,Tunisia,Peru,3,1,Friendly,City,Tunisia,False
+2021-11-08,Ghana,Wales,0,0,Friendly,City,Ghana,False
+2021-11-15,Tunisia,Brazil,2,3,Friendly,City,Tunisia,False
+2021-11-15,Iran,Japan,1,2,Friendly,City,Iran,False
+2021-11-15,Ghana,Wales,3,2,Friendly,City,Ghana,False
+2021-11-15,Germany,Peru,4,1,Friendly,City,Germany,False
+2021-11-15,Mexico,Qatar,0,1,Friendly,City,Mexico,False
+2021-11-15,France,Spain,4,0,Friendly,City,France,False
+2021-11-22,Wales,Mexico,2,1,Friendly,City,Wales,False
+2021-11-22,Peru,Qatar,2,1,Friendly,City,Peru,False
+2021-11-22,Spain,Brazil,1,0,Friendly,City,Spain,False
+2021-11-22,Ghana,France,1,2,Friendly,City,Ghana,False
+2021-11-22,Japan,Tunisia,1,2,Friendly,City,Japan,False
+2021-11-22,Germany,Iran,0,0,Friendly,City,Germany,False
+2021-11-29,Germany,Ghana,3,2,FIFA World Cup,City,Germany,True
+2021-11-29,Japan,Mexico,2,2,FIFA World Cup,City,Japan,True
+2021-11-29,Spain,France,1,1,FIFA World Cup,City,Spain,True
+2021-11-29,Tunisia,Iran,1,1,FIFA World Cup,City,Tunisia,True
+2021-11-29,Peru,Brazil,5,0,FIFA World Cup,City,Peru,True
+2021-11-29,Qatar,Wales,1,0,FIFA World Cup,City,Qatar,True
+2021-12-06,Tunisia,Mexico,1,2,Friendly,City,Tunisia,False
+2021-12-06,Qatar,Peru,0,1,Friendly,City,Qatar,False
+2021-12-06,Ghana,Iran,2,0,Friendly,City,Ghana,False
+2021-12-06,Germany,Brazil,1,3,Friendly,City,Germany,False
+2021-12-06,Spain,Japan,2,3,Friendly,City,Spain,False
+2021-12-06,France,Wales,3,1,Friendly,City,France,False
+2021-12-13,France,Iran,0,2,Friendly,City,France,False
+2021-12-13,Brazil,Mexico,1,0,Friendly,City,Brazil,False
+2021-12-13,Germany,Peru,0,0,Friendly,City,Germany,False
+2021-12-13,Japan,Ghana,2,1,Friendly,City,Japan,False
+2021-12-13,Wales,Spain,2,2,Friendly,City,Wales,False
+2021-12-13,Qatar,Tunisia,3,0,Friendly,City,Qatar,False
+2021-12-20,Qatar,France,1,2,Friendly,City,Qatar,False
+2021-12-20,Mexico,Peru,3,1,Friendly,City,Mexico,False
+2021-12-20,Ghana,Wales,2,1,Friendly,City,Ghana,False
+2021-12-20,Japan,Tunisia,2,0,Friendly,City,Japan,False
+2021-12-20,Iran,Brazil,0,0,Friendly,City,Iran,False
+2021-12-20,Germany,Spain,0,4,Friendly,City,Germany,False
+2021-12-27,Iran,Germany,0,1,FIFA World Cup qualification,City,Iran,False
+2021-12-27,France,Ghana,4,1,FIFA World Cup qualification,City,France,False
+2021-12-27,Mexico,Wales,0,0,FIFA World Cup qualification,City,Mexico,False
+2021-12-27,Brazil,Qatar,2,0,FIFA World Cup qualification,City,Brazil,False
+2021-12-27,Japan,Peru,2,4,FIFA World Cup qualification,City,Japan,False
+2021-12-27,Spain,Tunisia,1,3,FIFA World Cup qualification,City,Spain,False
+2022-01-03,Japan,Spain,2,2,Friendly,City,Japan,True
+2022-01-03,Ghana,Wales,1,2,Friendly,City,Ghana,True
+2022-01-03,France,Qatar,3,2,Friendly,City,France,True
+2022-01-03,Mexico,Peru,0,3,Friendly,City,Mexico,True
+2022-01-03,Brazil,Iran,0,1,Friendly,City,Brazil,True
+2022-01-03,Germany,Tunisia,4,1,Friendly,City,Germany,True
+2022-01-10,Spain,Ghana,3,2,Friendly,City,Spain,False
+2022-01-10,Brazil,France,0,0,Friendly,City,Brazil,False
+2022-01-10,Peru,Wales,1,1,Friendly,City,Peru,False
+2022-01-10,Iran,Germany,2,1,Friendly,City,Iran,False
+2022-01-10,Japan,Mexico,1,0,Friendly,City,Japan,False
+2022-01-10,Tunisia,Qatar,0,0,Friendly,City,Tunisia,False
+2022-01-17,Iran,Wales,1,2,Friendly,City,Iran,False
+2022-01-17,Tunisia,Germany,1,0,Friendly,City,Tunisia,False
+2022-01-17,France,Brazil,2,0,Friendly,City,France,False
+2022-01-17,Mexico,Peru,1,2,Friendly,City,Mexico,False
+2022-01-17,Japan,Ghana,3,2,Friendly,City,Japan,False
+2022-01-17,Qatar,Spain,1,2,Friendly,City,Qatar,False
+2022-01-24,Wales,Tunisia,3,0,FIFA World Cup,City,Wales,False
+2022-01-24,Brazil,Ghana,0,1,FIFA World Cup,City,Brazil,False
+2022-01-24,Iran,Germany,1,1,FIFA World Cup,City,Iran,False
+2022-01-24,Qatar,France,0,1,FIFA World Cup,City,Qatar,False
+2022-01-24,Japan,Spain,3,1,FIFA World Cup,City,Japan,False
+2022-01-24,Peru,Mexico,0,1,FIFA World Cup,City,Peru,False
+2022-01-31,Brazil,Wales,1,2,Friendly,City,Brazil,False
+2022-01-31,Germany,Peru,0,1,Friendly,City,Germany,False
+2022-01-31,France,Qatar,0,1,Friendly,City,France,False
+2022-01-31,Mexico,Japan,0,1,Friendly,City,Mexico,False
+2022-01-31,Ghana,Spain,0,1,Friendly,City,Ghana,False
+2022-01-31,Tunisia,Iran,1,2,Friendly,City,Tunisia,False
+2022-02-07,Brazil,Germany,0,0,Friendly,City,Brazil,True
+2022-02-07,Iran,Wales,0,1,Friendly,City,Iran,True
+2022-02-07,Ghana,Tunisia,1,2,Friendly,City,Ghana,True
+2022-02-07,France,Qatar,3,2,Friendly,City,France,True
+2022-02-07,Japan,Mexico,1,0,Friendly,City,Japan,True
+2022-02-07,Spain,Peru,1,1,Friendly,City,Spain,True
+2022-02-14,Mexico,France,3,1,Friendly,City,Mexico,False
+2022-02-14,Tunisia,Wales,3,0,Friendly,City,Tunisia,False
+2022-02-14,Iran,Brazil,1,1,Friendly,City,Iran,False
+2022-02-14,Peru,Spain,2,0,Friendly,City,Peru,False
+2022-02-14,Germany,Japan,4,3,Friendly,City,Germany,False
+2022-02-14,Ghana,Qatar,3,0,Friendly,City,Ghana,False
+2022-02-21,Ghana,Japan,2,2,FIFA World Cup qualification,City,Ghana,False
+2022-02-21,Wales,Iran,1,1,FIFA World Cup qualification,City,Wales,False
+2022-02-21,Spain,Tunisia,3,0,FIFA World Cup qualification,City,Spain,False
+2022-02-21,Peru,Qatar,1,3,FIFA World Cup qualification,City,Peru,False
+2022-02-21,Mexico,France,2,1,FIFA World Cup qualification,City,Mexico,False
+2022-02-21,Brazil,Germany,0,1,FIFA World Cup qualification,City,Brazil,False
+2022-02-28,Spain,France,2,0,Friendly,City,Spain,False
+2022-02-28,Ghana,Qatar,0,2,Friendly,City,Ghana,False
+2022-02-28,Japan,Mexico,0,0,Friendly,City,Japan,False
+2022-02-28,Brazil,Wales,1,1,Friendly,City,Brazil,False
+2022-02-28,Peru,Iran,0,2,Friendly,City,Peru,False
+2022-02-28,Germany,Tunisia,1,1,Friendly,City,Germany,False
+2022-03-07,Spain,Ghana,3,1,Friendly,City,Spain,False
+2022-03-07,France,Japan,1,4,Friendly,City,France,False
+2022-03-07,Germany,Mexico,0,0,Friendly,City,Germany,False
+2022-03-07,Qatar,Wales,1,0,Friendly,City,Qatar,False
+2022-03-07,Brazil,Iran,6,2,Friendly,City,Brazil,False
+2022-03-07,Tunisia,Peru,1,0,Friendly,City,Tunisia,False
+2022-03-14,Peru,Germany,2,2,Friendly,City,Peru,True
+2022-03-14,Qatar,Japan,1,2,Friendly,City,Qatar,True
+2022-03-14,Tunisia,Spain,2,0,Friendly,City,Tunisia,True
+2022-03-14,Iran,Brazil,4,1,Friendly,City,Iran,True
+2022-03-14,France,Wales,5,0,Friendly,City,France,True
+2022-03-14,Mexico,Ghana,1,1,Friendly,City,Mexico,True
+2022-03-21,Wales,Brazil,2,2,FIFA World Cup,City,Wales,False
+2022-03-21,Qatar,Mexico,1,0,FIFA World Cup,City,Qatar,False
+2022-03-21,Japan,Peru,1,0,FIFA World Cup,City,Japan,False
+2022-03-21,Tunisia,Spain,2,2,FIFA World Cup,City,Tunisia,False
+2022-03-21,Germany,Iran,2,1,FIFA World Cup,City,Germany,False
+2022-03-21,France,Ghana,0,3,FIFA World Cup,City,France,False
+2022-03-28,Spain,Wales,3,2,Friendly,City,Spain,False
+2022-03-28,Tunisia,Japan,4,4,Friendly,City,Tunisia,False
+2022-03-28,Germany,Brazil,0,1,Friendly,City,Germany,False
+2022-03-28,Ghana,Peru,0,1,Friendly,City,Ghana,False
+2022-03-28,Mexico,Qatar,0,0,Friendly,City,Mexico,False
+2022-03-28,Iran,France,3,1,Friendly,City,Iran,False
+2022-04-04,Germany,Japan,2,4,Friendly,City,Germany,False
+2022-04-04,Iran,Qatar,3,1,Friendly,City,Iran,False
+2022-04-04,Spain,Peru,4,2,Friendly,City,Spain,False
+2022-04-04,Tunisia,Brazil,1,3,Friendly,City,Tunisia,False
+2022-04-04,Mexico,Ghana,1,0,Friendly,City,Mexico,False
+2022-04-04,France,Wales,2,1,Friendly,City,France,False
+2022-04-11,Germany,Brazil,3,3,Friendly,City,Germany,False
+2022-04-11,Tunisia,Iran,0,0,Friendly,City,Tunisia,False
+2022-04-11,Spain,Mexico,3,0,Friendly,City,Spain,False
+2022-04-11,Qatar,Wales,1,1,Friendly,City,Qatar,False
+2022-04-11,France,Peru,0,1,Friendly,City,France,False
+2022-04-11,Ghana,Japan,0,0,Friendly,City,Ghana,False
+2022-04-18,Qatar,Japan,0,1,FIFA World Cup qualification,City,Qatar,True
+2022-04-18,Spain,Peru,1,1,FIFA World Cup qualification,City,Spain,True
+2022-04-18,Iran,Ghana,2,0,FIFA World Cup qualification,City,Iran,True
+2022-04-18,Germany,Wales,0,0,FIFA World Cup qualification,City,Germany,True
+2022-04-18,Brazil,France,1,1,FIFA World Cup qualification,City,Brazil,True
+2022-04-18,Tunisia,Mexico,2,1,FIFA World Cup qualification,City,Tunisia,True
+2022-04-25,Qatar,Japan,1,1,Friendly,City,Qatar,False
+2022-04-25,Spain,Wales,3,0,Friendly,City,Spain,False
+2022-04-25,France,Tunisia,1,3,Friendly,City,France,False
+2022-04-25,Peru,Germany,1,2,Friendly,City,Peru,False
+2022-04-25,Ghana,Brazil,2,1,Friendly,City,Ghana,False
+2022-04-25,Mexico,Iran,2,0,Friendly,City,Mexico,False
+2022-05-02,Peru,Brazil,1,2,Friendly,City,Peru,False
+2022-05-02,Iran,Germany,1,0,Friendly,City,Iran,False
+2022-05-02,Spain,Qatar,1,1,Friendly,City,Spain,False
+2022-05-02,Ghana,Japan,0,3,Friendly,City,Ghana,False
+2022-05-02,Tunisia,France,5,1,Friendly,City,Tunisia,False
+2022-05-02,Wales,Mexico,1,3,Friendly,City,Wales,False
+2022-05-09,Brazil,Wales,1,1,Friendly,City,Brazil,False
+2022-05-09,Germany,Tunisia,2,2,Friendly,City,Germany,False
+2022-05-09,France,Iran,2,0,Friendly,City,France,False
+2022-05-09,Spain,Japan,1,3,Friendly,City,Spain,False
+2022-05-09,Qatar,Mexico,1,1,Friendly,City,Qatar,False
+2022-05-09,Ghana,Peru,2,2,Friendly,City,Ghana,False
+2022-05-16,Ghana,Brazil,3,4,FIFA World Cup,City,Ghana,False
+2022-05-16,Mexico,Iran,1,0,FIFA World Cup,City,Mexico,False
+2022-05-16,Spain,Qatar,5,2,FIFA World Cup,City,Spain,False
+2022-05-16,Wales,Japan,0,0,FIFA World Cup,City,Wales,False
+2022-05-16,Germany,France,2,0,FIFA World Cup,City,Germany,False
+2022-05-16,Tunisia,Peru,1,0,FIFA World Cup,City,Tunisia,False
+2022-05-23,Iran,France,1,1,Friendly,City,Iran,True
+2022-05-23,Peru,Germany,2,1,Friendly,City,Peru,True
+2022-05-23,Mexico,Ghana,2,1,Friendly,City,Mexico,True
+2022-05-23,Japan,Wales,3,0,Friendly,City,Japan,True
+2022-05-23,Spain,Tunisia,0,1,Friendly,City,Spain,True
+2022-05-23,Qatar,Brazil,1,6,Friendly,City,Qatar,True
+2022-05-30,Wales,Mexico,1,0,Friendly,City,Wales,False
+2022-05-30,Tunisia,Qatar,1,0,Friendly,City,Tunisia,False
+2022-05-30,Germany,Brazil,6,0,Friendly,City,Germany,False
+2022-05-30,Iran,Spain,2,1,Friendly,City,Iran,False
+2022-05-30,France,Peru,3,0,Friendly,City,France,False
+2022-05-30,Ghana,Japan,0,2,Friendly,City,Ghana,False
+2022-06-06,Qatar,Brazil,1,1,Friendly,City,Qatar,False
+2022-06-06,Tunisia,France,2,1,Friendly,City,Tunisia,False
+2022-06-06,Iran,Ghana,0,1,Friendly,City,Iran,False
+2022-06-06,Spain,Mexico,4,1,Friendly,City,Spain,False
+2022-06-06,Japan,Peru,2,0,Friendly,City,Japan,False
+2022-06-06,Wales,Germany,0,1,Friendly,City,Wales,False
+2022-06-13,Iran,Germany,0,3,FIFA World Cup qualification,City,Iran,False
+2022-06-13,Spain,Ghana,1,2,FIFA World Cup qualification,City,Spain,False
+2022-06-13,France,Peru,1,1,FIFA World Cup qualification,City,France,False
+2022-06-13,Japan,Tunisia,1,2,FIFA World Cup qualification,City,Japan,False
+2022-06-13,Wales,Brazil,0,2,FIFA World Cup qualification,City,Wales,False
+2022-06-13,Mexico,Qatar,0,1,FIFA World Cup qualification,City,Mexico,False
+2022-06-20,Brazil,Germany,0,0,Friendly,City,Brazil,False
+2022-06-20,Spain,Qatar,0,2,Friendly,City,Spain,False
+2022-06-20,Tunisia,Wales,3,0,Friendly,City,Tunisia,False
+2022-06-20,Peru,Iran,0,1,Friendly,City,Peru,False
+2022-06-20,France,Ghana,1,1,Friendly,City,France,False
+2022-06-20,Japan,Mexico,1,1,Friendly,City,Japan,False
+2022-06-27,Germany,Tunisia,1,2,Friendly,City,Germany,True
+2022-06-27,Iran,Brazil,1,1,Friendly,City,Iran,True
+2022-06-27,Spain,Japan,1,1,Friendly,City,Spain,True
+2022-06-27,France,Mexico,3,2,Friendly,City,France,True
+2022-06-27,Wales,Ghana,1,0,Friendly,City,Wales,True
+2022-06-27,Peru,Qatar,1,0,Friendly,City,Peru,True
+2022-07-04,Brazil,Mexico,5,2,Friendly,City,Brazil,False
+2022-07-04,Germany,Iran,4,2,Friendly,City,Germany,False
+2022-07-04,Spain,Wales,3,3,Friendly,City,Spain,False
+2022-07-04,Japan,Ghana,0,1,Friendly,City,Japan,False
+2022-07-04,Qatar,Tunisia,0,2,Friendly,City,Qatar,False
+2022-07-04,Peru,France,1,0,Friendly,City,Peru,False
+2022-07-11,Iran,Germany,0,2,FIFA World Cup,City,Iran,False
+2022-07-11,Ghana,Japan,1,1,FIFA World Cup,City,Ghana,False
+2022-07-11,Qatar,Spain,1,0,FIFA World Cup,City,Qatar,False
+2022-07-11,Mexico,Peru,0,2,FIFA World Cup,City,Mexico,False
+2022-07-11,Tunisia,France,0,3,FIFA World Cup,City,Tunisia,False
+2022-07-11,Brazil,Wales,1,0,FIFA World Cup,City,Brazil,False
+2022-07-18,Tunisia,Peru,2,6,Friendly,City,Tunisia,False
+2022-07-18,Brazil,France,3,1,Friendly,City,Brazil,False
+2022-07-18,Iran,Wales,1,0,Friendly,City,Iran,False
+2022-07-18,Japan,Mexico,2,0,Friendly,City,Japan,False
+2022-07-18,Spain,Qatar,2,1,Friendly,City,Spain,False
+2022-07-18,Germany,Ghana,2,0,Friendly,City,Germany,False
+2022-07-25,France,Wales,0,0,Friendly,City,France,False
+2022-07-25,Brazil,Iran,1,1,Friendly,City,Brazil,False
+2022-07-25,Tunisia,Germany,0,0,Friendly,City,Tunisia,False
+2022-07-25,Peru,Qatar,1,1,Friendly,City,Peru,False
+2022-07-25,Mexico,Ghana,0,1,Friendly,City,Mexico,False
+2022-07-25,Spain,Japan,2,0,Friendly,City,Spain,False
+2022-08-01,Brazil,Spain,2,3,Friendly,City,Brazil,True
+2022-08-01,Ghana,Germany,1,3,Friendly,City,Ghana,True
+2022-08-01,Peru,Qatar,1,1,Friendly,City,Peru,True
+2022-08-01,Wales,Mexico,1,0,Friendly,City,Wales,True
+2022-08-01,Tunisia,Iran,0,0,Friendly,City,Tunisia,True
+2022-08-01,Japan,France,4,3,Friendly,City,Japan,True
+2022-08-08,Germany,Wales,5,0,FIFA World Cup qualification,City,Germany,False
+2022-08-08,Peru,France,1,2,FIFA World Cup qualification,City,Peru,False
+2022-08-08,Mexico,Japan,2,0,FIFA World Cup qualification,City,Mexico,False
+2022-08-08,Qatar,Tunisia,1,1,FIFA World Cup qualification,City,Qatar,False
+2022-08-08,Iran,Ghana,0,4,FIFA World Cup qualification,City,Iran,False
+2022-08-08,Spain,Brazil,1,1,FIFA World Cup qualification,City,Spain,False
+2022-08-15,Iran,Wales,1,1,Friendly,City,Iran,False
+2022-08-15,Peru,Tunisia,2,1,Friendly,City,Peru,False
+2022-08-15,Japan,Brazil,4,1,Friendly,City,Japan,False
+2022-08-15,Ghana,Germany,1,0,Friendly,City,Ghana,False
+2022-08-15,Mexico,France,0,3,Friendly,City,Mexico,False
+2022-08-15,Qatar,Spain,1,2,Friendly,City,Qatar,False
+2022-08-22,Iran,Spain,0,2,Friendly,City,Iran,False
+2022-08-22,Japan,Germany,2,3,Friendly,City,Japan,False
+2022-08-22,Tunisia,Wales,1,0,Friendly,City,Tunisia,False
+2022-08-22,Ghana,Brazil,0,1,Friendly,City,Ghana,False
+2022-08-22,Peru,France,3,2,Friendly,City,Peru,False
+2022-08-22,Mexico,Qatar,0,0,Friendly,City,Mexico,False
+2022-08-29,Qatar,Brazil,2,2,Friendly,City,Qatar,False
+2022-08-29,Peru,Japan,2,2,Friendly,City,Peru,False
+2022-08-29,Mexico,Spain,1,2,Friendly,City,Mexico,False
+2022-08-29,Wales,Ghana,0,2,Friendly,City,Wales,False
+2022-08-29,Tunisia,Iran,3,2,Friendly,City,Tunisia,False
+2022-08-29,France,Germany,1,1,Friendly,City,France,False
+2022-09-05,Tunisia,France,1,1,FIFA World Cup,City,Tunisia,True
+2022-09-05,Qatar,Iran,3,0,FIFA World Cup,City,Qatar,True
+2022-09-05,Ghana,Germany,2,0,FIFA World Cup,City,Ghana,True
+2022-09-05,Spain,Wales,2,0,FIFA World Cup,City,Spain,True
+2022-09-05,Mexico,Japan,1,1,FIFA World Cup,City,Mexico,True
+2022-09-05,Brazil,Peru,2,2,FIFA World Cup,City,Brazil,True
+2022-09-12,Tunisia,France,3,0,Friendly,City,Tunisia,False
+2022-09-12,Spain,Brazil,1,0,Friendly,City,Spain,False
+2022-09-12,Wales,Peru,0,0,Friendly,City,Wales,False
+2022-09-12,Mexico,Japan,1,1,Friendly,City,Mexico,False
+2022-09-12,Ghana,Iran,2,0,Friendly,City,Ghana,False
+2022-09-12,Qatar,Germany,2,1,Friendly,City,Qatar,False
+2022-09-19,Spain,Mexico,2,1,Friendly,City,Spain,False
+2022-09-19,Qatar,Brazil,1,4,Friendly,City,Qatar,False
+2022-09-19,France,Ghana,5,1,Friendly,City,France,False
+2022-09-19,Iran,Germany,1,4,Friendly,City,Iran,False
+2022-09-19,Wales,Tunisia,1,2,Friendly,City,Wales,False
+2022-09-19,Peru,Japan,0,1,Friendly,City,Peru,False
+2022-09-26,France,Mexico,0,1,Friendly,City,France,False
+2022-09-26,Japan,Germany,3,0,Friendly,City,Japan,False
+2022-09-26,Peru,Tunisia,1,1,Friendly,City,Peru,False
+2022-09-26,Spain,Ghana,4,1,Friendly,City,Spain,False
+2022-09-26,Brazil,Qatar,2,1,Friendly,City,Brazil,False
+2022-09-26,Wales,Iran,0,0,Friendly,City,Wales,False
+2022-10-03,France,Ghana,2,0,FIFA World Cup qualification,City,France,False
+2022-10-03,Iran,Mexico,1,0,FIFA World Cup qualification,City,Iran,False
+2022-10-03,Spain,Japan,2,2,FIFA World Cup qualification,City,Spain,False
+2022-10-03,Qatar,Germany,1,1,FIFA World Cup qualification,City,Qatar,False
+2022-10-03,Tunisia,Brazil,0,1,FIFA World Cup qualification,City,Tunisia,False
+2022-10-03,Peru,Wales,2,0,FIFA World Cup qualification,City,Peru,False
+2022-10-10,Spain,Wales,2,0,Friendly,City,Spain,True
+2022-10-10,Ghana,Mexico,0,1,Friendly,City,Ghana,True
+2022-10-10,Peru,Tunisia,0,2,Friendly,City,Peru,True
+2022-10-10,Qatar,Brazil,1,2,Friendly,City,Qatar,True
+2022-10-10,Germany,Japan,1,5,Friendly,City,Germany,True
+2022-10-10,Iran,France,1,1,Friendly,City,Iran,True
+2022-10-17,France,Ghana,2,0,Friendly,City,France,False
+2022-10-17,Tunisia,Japan,0,1,Friendly,City,Tunisia,False
+2022-10-17,Iran,Wales,1,1,Friendly,City,Iran,False
+2022-10-17,Spain,Peru,2,1,Friendly,City,Spain,False
+2022-10-17,Qatar,Brazil,2,0,Friendly,City,Qatar,False
+2022-10-17,Germany,Mexico,2,0,Friendly,City,Germany,False
+2022-10-24,Qatar,France,0,0,Friendly,City,Qatar,False
+2022-10-24,Iran,Germany,0,0,Friendly,City,Iran,False
+2022-10-24,Tunisia,Mexico,5,1,Friendly,City,Tunisia,False
+2022-10-24,Ghana,Spain,3,0,Friendly,City,Ghana,False
+2022-10-24,Wales,Peru,0,0,Friendly,City,Wales,False
+2022-10-24,Brazil,Japan,3,1,Friendly,City,Brazil,False
+2022-10-31,Spain,France,2,1,FIFA World Cup,City,Spain,False
+2022-10-31,Qatar,Germany,1,3,FIFA World Cup,City,Qatar,False
+2022-10-31,Tunisia,Mexico,3,1,FIFA World Cup,City,Tunisia,False
+2022-10-31,Ghana,Peru,0,0,FIFA World Cup,City,Ghana,False
+2022-10-31,Iran,Japan,3,2,FIFA World Cup,City,Iran,False
+2022-10-31,Brazil,Wales,5,0,FIFA World Cup,City,Brazil,False
+2022-11-07,Peru,Germany,3,2,Friendly,City,Peru,False
+2022-11-07,Tunisia,Spain,4,2,Friendly,City,Tunisia,False
+2022-11-07,France,Japan,3,2,Friendly,City,France,False
+2022-11-07,Ghana,Qatar,0,2,Friendly,City,Ghana,False
+2022-11-07,Brazil,Wales,0,0,Friendly,City,Brazil,False
+2022-11-07,Iran,Mexico,2,2,Friendly,City,Iran,False
+2022-11-14,Spain,France,2,0,Friendly,City,Spain,True
+2022-11-14,Wales,Tunisia,0,0,Friendly,City,Wales,True
+2022-11-14,Ghana,Germany,1,1,Friendly,City,Ghana,True
+2022-11-14,Peru,Japan,1,2,Friendly,City,Peru,True
+2022-11-14,Brazil,Iran,2,0,Friendly,City,Brazil,True
+2022-11-14,Mexico,Qatar,0,0,Friendly,City,Mexico,True
+2022-11-21,Tunisia,Spain,4,3,Friendly,City,Tunisia,False
+2022-11-21,Qatar,Peru,3,1,Friendly,City,Qatar,False
+2022-11-21,Japan,Iran,1,0,Friendly,City,Japan,False
+2022-11-21,Mexico,Ghana,3,3,Friendly,City,Mexico,False
+2022-11-21,Wales,Germany,1,0,Friendly,City,Wales,False
+2022-11-21,Brazil,France,0,3,Friendly,City,Brazil,False
+2022-11-28,Tunisia,Mexico,1,0,FIFA World Cup qualification,City,Tunisia,False
+2022-11-28,Peru,Ghana,1,1,FIFA World Cup qualification,City,Peru,False
+2022-11-28,Japan,France,2,1,FIFA World Cup qualification,City,Japan,False
+2022-11-28,Brazil,Iran,3,1,FIFA World Cup qualification,City,Brazil,False
+2022-11-28,Spain,Germany,4,3,FIFA World Cup qualification,City,Spain,False
+2022-11-28,Wales,Qatar,1,0,FIFA World Cup qualification,City,Wales,False
+2022-12-05,Peru,Mexico,0,0,Friendly,City,Peru,False
+2022-12-05,Qatar,Spain,2,0,Friendly,City,Qatar,False
+2022-12-05,Germany,Brazil,1,0,Friendly,City,Germany,False
+2022-12-05,France,Japan,1,3,Friendly,City,France,False
+2022-12-05,Tunisia,Ghana,2,0,Friendly,City,Tunisia,False
+2022-12-05,Iran,Wales,2,2,Friendly,City,Iran,False
+2022-12-12,Germany,Peru,2,0,Friendly,City,Germany,False
+2022-12-12,France,Ghana,0,0,Friendly,City,France,False
+2022-12-12,Iran,Qatar,1,1,Friendly,City,Iran,False
+2022-12-12,Mexico,Brazil,0,3,Friendly,City,Mexico,False
+2022-12-12,Wales,Japan,0,1,Friendly,City,Wales,False
+2022-12-12,Spain,Tunisia,2,4,Friendly,City,Spain,False
+2022-12-19,Tunisia,Ghana,2,2,Friendly,City,Tunisia,True
+2022-12-19,Spain,Peru,1,1,Friendly,City,Spain,True
+2022-12-19,Mexico,France,0,4,Friendly,City,Mexico,True
+2022-12-19,Germany,Wales,3,1,Friendly,City,Germany,True
+2022-12-19,Japan,Iran,0,1,Friendly,City,Japan,True
+2022-12-19,Brazil,Qatar,0,1,Friendly,City,Brazil,True
+2022-12-26,Ghana,Germany,0,4,FIFA World Cup,City,Ghana,False
+2022-12-26,France,Brazil,0,1,FIFA World Cup,City,France,False
+2022-12-26,Japan,Mexico,1,2,FIFA World Cup,City,Japan,False
+2022-12-26,Spain,Qatar,2,1,FIFA World Cup,City,Spain,False
+2022-12-26,Iran,Tunisia,0,1,FIFA World Cup,City,Iran,False
+2022-12-26,Peru,Wales,0,0,FIFA World Cup,City,Peru,False
+2023-01-02,Iran,Mexico,0,0,Friendly,City,Iran,False
+2023-01-02,Wales,Peru,1,1,Friendly,City,Wales,False
+2023-01-02,Japan,Spain,3,1,Friendly,City,Japan,False
+2023-01-02,Qatar,Brazil,1,1,Friendly,City,Qatar,False
+2023-01-02,Tunisia,Germany,2,2,Friendly,City,Tunisia,False
+2023-01-02,France,Ghana,1,0,Friendly,City,France,False
+2023-01-09,Iran,Tunisia,0,0,Friendly,City,Iran,False
+2023-01-09,Ghana,Germany,1,2,Friendly,City,Ghana,False
+2023-01-09,Brazil,Spain,3,0,Friendly,City,Brazil,False
+2023-01-09,Japan,France,2,1,Friendly,City,Japan,False
+2023-01-09,Mexico,Wales,1,0,Friendly,City,Mexico,False
+2023-01-09,Qatar,Peru,2,1,Friendly,City,Qatar,False
+2023-01-16,Ghana,Brazil,0,1,Friendly,City,Ghana,False
+2023-01-16,Wales,Tunisia,1,2,Friendly,City,Wales,False
+2023-01-16,Japan,Iran,3,2,Friendly,City,Japan,False
+2023-01-16,Germany,Peru,2,0,Friendly,City,Germany,False
+2023-01-16,Spain,Qatar,2,3,Friendly,City,Spain,False
+2023-01-16,France,Mexico,0,1,Friendly,City,France,False
+2023-01-23,Qatar,Peru,0,0,FIFA World Cup qualification,City,Qatar,True
+2023-01-23,Mexico,Tunisia,1,2,FIFA World Cup qualification,City,Mexico,True
+2023-01-23,Brazil,Germany,1,4,FIFA World Cup qualification,City,Brazil,True
+2023-01-23,Wales,Ghana,0,2,FIFA World Cup qualification,City,Wales,True
+2023-01-23,Spain,Japan,3,2,FIFA World Cup qualification,City,Spain,True
+2023-01-23,France,Iran,2,1,FIFA World Cup qualification,City,France,True
+2023-01-30,Wales,France,2,2,Friendly,City,Wales,False
+2023-01-30,Brazil,Tunisia,0,2,Friendly,City,Brazil,False
+2023-01-30,Qatar,Peru,2,1,Friendly,City,Qatar,False
+2023-01-30,Ghana,Japan,0,1,Friendly,City,Ghana,False
+2023-01-30,Mexico,Spain,1,0,Friendly,City,Mexico,False
+2023-01-30,Germany,Iran,3,1,Friendly,City,Germany,False
+2023-02-06,Tunisia,Mexico,1,0,Friendly,City,Tunisia,False
+2023-02-06,Japan,France,1,1,Friendly,City,Japan,False
+2023-02-06,Ghana,Qatar,2,0,Friendly,City,Ghana,False
+2023-02-06,Germany,Wales,1,0,Friendly,City,Germany,False
+2023-02-06,Iran,Brazil,1,0,Friendly,City,Iran,False
+2023-02-06,Spain,Peru,1,1,Friendly,City,Spain,False
+2023-02-13,Spain,Mexico,4,1,Friendly,City,Spain,False
+2023-02-13,Peru,Wales,2,1,Friendly,City,Peru,False
+2023-02-13,Brazil,Germany,4,1,Friendly,City,Brazil,False
+2023-02-13,Tunisia,Japan,1,3,Friendly,City,Tunisia,False
+2023-02-13,Qatar,Iran,1,2,Friendly,City,Qatar,False
+2023-02-13,France,Ghana,3,0,Friendly,City,France,False
+2023-02-20,Mexico,Spain,4,3,FIFA World Cup,City,Mexico,False
+2023-02-20,Brazil,Iran,1,1,FIFA World Cup,City,Brazil,False
+2023-02-20,France,Germany,1,2,FIFA World Cup,City,France,False
+2023-02-20,Wales,Qatar,1,1,FIFA World Cup,City,Wales,False
+2023-02-20,Ghana,Tunisia,3,3,FIFA World Cup,City,Ghana,False
+2023-02-20,Peru,Japan,0,2,FIFA World Cup,City,Peru,False
+2023-02-27,Tunisia,Mexico,1,2,Friendly,City,Tunisia,True
+2023-02-27,France,Germany,0,1,Friendly,City,France,True
+2023-02-27,Ghana,Qatar,1,4,Friendly,City,Ghana,True
+2023-02-27,Spain,Brazil,0,3,Friendly,City,Spain,True
+2023-02-27,Japan,Iran,2,0,Friendly,City,Japan,True
+2023-02-27,Peru,Wales,4,0,Friendly,City,Peru,True
+2023-03-06,Peru,France,0,0,Friendly,City,Peru,False
+2023-03-06,Iran,Mexico,2,1,Friendly,City,Iran,False
+2023-03-06,Japan,Spain,4,2,Friendly,City,Japan,False
+2023-03-06,Tunisia,Brazil,2,4,Friendly,City,Tunisia,False
+2023-03-06,Ghana,Qatar,0,1,Friendly,City,Ghana,False
+2023-03-06,Wales,Germany,3,0,Friendly,City,Wales,False
+2023-03-13,Germany,Wales,2,2,Friendly,City,Germany,False
+2023-03-13,Japan,Brazil,3,0,Friendly,City,Japan,False
+2023-03-13,Tunisia,Ghana,5,1,Friendly,City,Tunisia,False
+2023-03-13,Peru,Iran,2,0,Friendly,City,Peru,False
+2023-03-13,Spain,Mexico,6,1,Friendly,City,Spain,False
+2023-03-13,Qatar,France,0,1,Friendly,City,Qatar,False
+2023-03-20,France,Tunisia,0,1,FIFA World Cup qualification,City,France,False
+2023-03-20,Japan,Spain,3,1,FIFA World Cup qualification,City,Japan,False
+2023-03-20,Wales,Iran,0,2,FIFA World Cup qualification,City,Wales,False
+2023-03-20,Ghana,Qatar,0,0,FIFA World Cup qualification,City,Ghana,False
+2023-03-20,Germany,Brazil,2,3,FIFA World Cup qualification,City,Germany,False
+2023-03-20,Mexico,Peru,1,0,FIFA World Cup qualification,City,Mexico,False
+2023-03-27,France,Peru,1,0,Friendly,City,France,False
+2023-03-27,Germany,Wales,5,1,Friendly,City,Germany,False
+2023-03-27,Mexico,Ghana,0,0,Friendly,City,Mexico,False
+2023-03-27,Tunisia,Brazil,3,0,Friendly,City,Tunisia,False
+2023-03-27,Iran,Qatar,2,0,Friendly,City,Iran,False
+2023-03-27,Japan,Spain,2,1,Friendly,City,Japan,False
+2023-04-03,Germany,Wales,1,0,Friendly,City,Germany,True
+2023-04-03,Brazil,Mexico,3,0,Friendly,City,Brazil,True
+2023-04-03,Japan,Ghana,1,0,Friendly,City,Japan,True
+2023-04-03,Iran,Spain,0,1,Friendly,City,Iran,True
+2023-04-03,Qatar,France,1,4,Friendly,City,Qatar,True
+2023-04-03,Peru,Tunisia,1,3,Friendly,City,Peru,True
+2023-04-10,Spain,Mexico,2,4,Friendly,City,Spain,False
+2023-04-10,Wales,France,1,0,Friendly,City,Wales,False
+2023-04-10,Ghana,Qatar,3,2,Friendly,City,Ghana,False
+2023-04-10,Brazil,Iran,2,1,Friendly,City,Brazil,False
+2023-04-10,Germany,Japan,1,1,Friendly,City,Germany,False
+2023-04-10,Peru,Tunisia,4,3,Friendly,City,Peru,False
+2023-04-17,Qatar,Japan,2,1,FIFA World Cup,City,Qatar,False
+2023-04-17,Mexico,Spain,3,1,FIFA World Cup,City,Mexico,False
+2023-04-17,Brazil,Tunisia,1,2,FIFA World Cup,City,Brazil,False
+2023-04-17,Iran,Wales,1,2,FIFA World Cup,City,Iran,False
+2023-04-17,Ghana,Peru,3,0,FIFA World Cup,City,Ghana,False
+2023-04-17,Germany,France,1,0,FIFA World Cup,City,Germany,False
+2023-04-24,Peru,Japan,1,1,Friendly,City,Peru,False
+2023-04-24,Mexico,Germany,0,1,Friendly,City,Mexico,False
+2023-04-24,France,Iran,0,0,Friendly,City,France,False
+2023-04-24,Spain,Wales,2,1,Friendly,City,Spain,False
+2023-04-24,Brazil,Qatar,1,1,Friendly,City,Brazil,False
+2023-04-24,Ghana,Tunisia,2,0,Friendly,City,Ghana,False
+2023-05-01,Wales,Peru,0,2,Friendly,City,Wales,False
+2023-05-01,Germany,Qatar,5,2,Friendly,City,Germany,False
+2023-05-01,Brazil,Japan,3,2,Friendly,City,Brazil,False
+2023-05-01,Tunisia,France,3,1,Friendly,City,Tunisia,False
+2023-05-01,Spain,Ghana,4,0,Friendly,City,Spain,False
+2023-05-01,Mexico,Iran,0,1,Friendly,City,Mexico,False
+2023-05-08,Spain,Iran,1,0,Friendly,City,Spain,True
+2023-05-08,Tunisia,Peru,1,1,Friendly,City,Tunisia,True
+2023-05-08,Brazil,Mexico,1,2,Friendly,City,Brazil,True
+2023-05-08,Germany,France,3,3,Friendly,City,Germany,True
+2023-05-08,Japan,Wales,2,1,Friendly,City,Japan,True
+2023-05-08,Ghana,Qatar,1,0,Friendly,City,Ghana,True
+2023-05-15,Germany,Brazil,1,0,FIFA World Cup qualification,City,Germany,False
+2023-05-15,Ghana,Japan,2,3,FIFA World Cup qualification,City,Ghana,False
+2023-05-15,Peru,Qatar,0,0,FIFA World Cup qualification,City,Peru,False
+2023-05-15,Spain,Mexico,3,0,FIFA World Cup qualification,City,Spain,False
+2023-05-15,Wales,Tunisia,0,3,FIFA World Cup qualification,City,Wales,False
+2023-05-15,Iran,France,1,0,FIFA World Cup qualification,City,Iran,False
+2023-05-22,Peru,Qatar,4,0,Friendly,City,Peru,False
+2023-05-22,Wales,France,1,2,Friendly,City,Wales,False
+2023-05-22,Spain,Japan,1,2,Friendly,City,Spain,False
+2023-05-22,Iran,Ghana,1,3,Friendly,City,Iran,False
+2023-05-22,Tunisia,Mexico,0,0,Friendly,City,Tunisia,False
+2023-05-22,Germany,Brazil,0,2,Friendly,City,Germany,False
+2023-05-29,Iran,Spain,2,1,Friendly,City,Iran,False
+2023-05-29,France,Wales,2,0,Friendly,City,France,False
+2023-05-29,Mexico,Ghana,0,1,Friendly,City,Mexico,False
+2023-05-29,Germany,Tunisia,2,1,Friendly,City,Germany,False
+2023-05-29,Brazil,Peru,3,2,Friendly,City,Brazil,False
+2023-05-29,Qatar,Japan,0,2,Friendly,City,Qatar,False
+2023-06-05,Germany,Peru,0,0,Friendly,City,Germany,False
+2023-06-05,Japan,Spain,2,0,Friendly,City,Japan,False
+2023-06-05,Tunisia,Wales,1,0,Friendly,City,Tunisia,False
+2023-06-05,Ghana,Iran,2,0,Friendly,City,Ghana,False
+2023-06-05,France,Qatar,2,2,Friendly,City,France,False
+2023-06-05,Brazil,Mexico,4,0,Friendly,City,Brazil,False
+2023-06-12,Peru,Mexico,1,1,FIFA World Cup,City,Peru,True
+2023-06-12,Japan,Tunisia,1,1,FIFA World Cup,City,Japan,True
+2023-06-12,Brazil,Ghana,4,4,FIFA World Cup,City,Brazil,True
+2023-06-12,Spain,Qatar,2,2,FIFA World Cup,City,Spain,True
+2023-06-12,France,Iran,1,1,FIFA World Cup,City,France,True
+2023-06-12,Germany,Wales,3,0,FIFA World Cup,City,Germany,True
+2023-06-19,Peru,Ghana,0,1,Friendly,City,Peru,False
+2023-06-19,Iran,Wales,0,0,Friendly,City,Iran,False
+2023-06-19,Mexico,Germany,1,0,Friendly,City,Mexico,False
+2023-06-19,Japan,Tunisia,1,1,Friendly,City,Japan,False
+2023-06-19,France,Spain,3,1,Friendly,City,France,False
+2023-06-19,Qatar,Brazil,2,1,Friendly,City,Qatar,False
+2023-06-26,Iran,Spain,1,2,Friendly,City,Iran,False
+2023-06-26,Qatar,Japan,1,2,Friendly,City,Qatar,False
+2023-06-26,France,Mexico,0,0,Friendly,City,France,False
+2023-06-26,Germany,Wales,1,0,Friendly,City,Germany,False
+2023-06-26,Ghana,Brazil,2,0,Friendly,City,Ghana,False
+2023-06-26,Peru,Tunisia,1,3,Friendly,City,Peru,False
+2023-07-03,France,Wales,0,0,Friendly,City,France,False
+2023-07-03,Mexico,Japan,2,4,Friendly,City,Mexico,False
+2023-07-03,Tunisia,Germany,2,0,Friendly,City,Tunisia,False
+2023-07-03,Peru,Spain,0,2,Friendly,City,Peru,False
+2023-07-03,Iran,Ghana,1,1,Friendly,City,Iran,False
+2023-07-03,Brazil,Qatar,2,0,Friendly,City,Brazil,False
+2023-07-10,Wales,Ghana,1,2,FIFA World Cup qualification,City,Wales,False
+2023-07-10,Mexico,Peru,4,2,FIFA World Cup qualification,City,Mexico,False
+2023-07-10,Germany,Tunisia,3,3,FIFA World Cup qualification,City,Germany,False
+2023-07-10,Japan,Qatar,3,1,FIFA World Cup qualification,City,Japan,False
+2023-07-10,Brazil,Spain,0,2,FIFA World Cup qualification,City,Brazil,False
+2023-07-10,Iran,France,0,1,FIFA World Cup qualification,City,Iran,False
+2023-07-17,Peru,Ghana,0,2,Friendly,City,Peru,True
+2023-07-17,France,Qatar,0,4,Friendly,City,France,True
+2023-07-17,Iran,Spain,1,4,Friendly,City,Iran,True
+2023-07-17,Germany,Mexico,0,0,Friendly,City,Germany,True
+2023-07-17,Tunisia,Japan,1,7,Friendly,City,Tunisia,True
+2023-07-17,Brazil,Wales,2,1,Friendly,City,Brazil,True
+2023-07-24,Ghana,France,2,2,Friendly,City,Ghana,False
+2023-07-24,Mexico,Spain,1,1,Friendly,City,Mexico,False
+2023-07-24,Germany,Iran,4,0,Friendly,City,Germany,False
+2023-07-24,Japan,Tunisia,1,1,Friendly,City,Japan,False
+2023-07-24,Wales,Qatar,0,0,Friendly,City,Wales,False
+2023-07-24,Brazil,Peru,1,0,Friendly,City,Brazil,False
+2023-07-31,Tunisia,Japan,0,1,Friendly,City,Tunisia,False
+2023-07-31,Brazil,France,0,0,Friendly,City,Brazil,False
+2023-07-31,Peru,Ghana,2,2,Friendly,City,Peru,False
+2023-07-31,Spain,Qatar,2,0,Friendly,City,Spain,False
+2023-07-31,Iran,Wales,1,0,Friendly,City,Iran,False
+2023-07-31,Germany,Mexico,0,0,Friendly,City,Germany,False
+2023-08-07,France,Peru,1,0,FIFA World Cup,City,France,False
+2023-08-07,Mexico,Wales,0,0,FIFA World Cup,City,Mexico,False
+2023-08-07,Japan,Iran,2,2,FIFA World Cup,City,Japan,False
+2023-08-07,Ghana,Spain,1,3,FIFA World Cup,City,Ghana,False
+2023-08-07,Tunisia,Qatar,2,4,FIFA World Cup,City,Tunisia,False
+2023-08-07,Germany,Brazil,4,1,FIFA World Cup,City,Germany,False
+2023-08-14,France,Japan,1,1,Friendly,City,France,False
+2023-08-14,Mexico,Germany,1,3,Friendly,City,Mexico,False
+2023-08-14,Qatar,Wales,1,1,Friendly,City,Qatar,False
+2023-08-14,Brazil,Tunisia,0,1,Friendly,City,Brazil,False
+2023-08-14,Peru,Ghana,1,2,Friendly,City,Peru,False
+2023-08-14,Spain,Iran,4,1,Friendly,City,Spain,False
+2023-08-21,France,Germany,2,0,Friendly,City,France,True
+2023-08-21,Tunisia,Mexico,1,1,Friendly,City,Tunisia,True
+2023-08-21,Iran,Wales,1,0,Friendly,City,Iran,True
+2023-08-21,Peru,Brazil,1,1,Friendly,City,Peru,True
+2023-08-21,Qatar,Spain,1,2,Friendly,City,Qatar,True
+2023-08-21,Japan,Ghana,3,1,Friendly,City,Japan,True
+2023-08-28,Tunisia,Iran,2,0,Friendly,City,Tunisia,False
+2023-08-28,Wales,Brazil,0,1,Friendly,City,Wales,False
+2023-08-28,Qatar,Germany,1,2,Friendly,City,Qatar,False
+2023-08-28,Ghana,France,1,0,Friendly,City,Ghana,False
+2023-08-28,Spain,Peru,0,1,Friendly,City,Spain,False
+2023-08-28,Mexico,Japan,0,3,Friendly,City,Mexico,False
+2023-09-04,Tunisia,Brazil,6,3,FIFA World Cup qualification,City,Tunisia,False
+2023-09-04,Qatar,Germany,1,3,FIFA World Cup qualification,City,Qatar,False
+2023-09-04,Japan,Spain,2,2,FIFA World Cup qualification,City,Japan,False
+2023-09-04,Wales,France,0,5,FIFA World Cup qualification,City,Wales,False
+2023-09-04,Peru,Iran,1,1,FIFA World Cup qualification,City,Peru,False
+2023-09-04,Mexico,Ghana,3,1,FIFA World Cup qualification,City,Mexico,False
+2023-09-11,Spain,Mexico,1,1,Friendly,City,Spain,False
+2023-09-11,Qatar,Japan,3,2,Friendly,City,Qatar,False
+2023-09-11,Iran,France,2,2,Friendly,City,Iran,False
+2023-09-11,Wales,Brazil,0,0,Friendly,City,Wales,False
+2023-09-11,Tunisia,Peru,2,0,Friendly,City,Tunisia,False
+2023-09-11,Ghana,Germany,1,2,Friendly,City,Ghana,False
+2023-09-18,Germany,Japan,3,0,Friendly,City,Germany,False
+2023-09-18,Iran,Peru,4,6,Friendly,City,Iran,False
+2023-09-18,Mexico,France,1,1,Friendly,City,Mexico,False
+2023-09-18,Wales,Ghana,2,1,Friendly,City,Wales,False
+2023-09-18,Qatar,Brazil,2,4,Friendly,City,Qatar,False
+2023-09-18,Tunisia,Spain,2,1,Friendly,City,Tunisia,False
+2023-09-25,Ghana,France,1,2,Friendly,City,Ghana,True
+2023-09-25,Germany,Peru,0,2,Friendly,City,Germany,True
+2023-09-25,Mexico,Tunisia,2,2,Friendly,City,Mexico,True
+2023-09-25,Wales,Spain,0,2,Friendly,City,Wales,True
+2023-09-25,Japan,Brazil,2,1,Friendly,City,Japan,True
+2023-09-25,Qatar,Iran,0,0,Friendly,City,Qatar,True
+2023-10-02,Wales,Tunisia,2,3,FIFA World Cup,City,Wales,False
+2023-10-02,France,Japan,1,0,FIFA World Cup,City,France,False
+2023-10-02,Germany,Peru,1,1,FIFA World Cup,City,Germany,False
+2023-10-02,Spain,Iran,0,1,FIFA World Cup,City,Spain,False
+2023-10-02,Qatar,Mexico,1,0,FIFA World Cup,City,Qatar,False
+2023-10-02,Brazil,Ghana,0,3,FIFA World Cup,City,Brazil,False
+2023-10-09,Ghana,Qatar,3,2,Friendly,City,Ghana,False
+2023-10-09,Brazil,Japan,2,3,Friendly,City,Brazil,False
+2023-10-09,Iran,Wales,0,0,Friendly,City,Iran,False
+2023-10-09,Tunisia,Spain,1,0,Friendly,City,Tunisia,False
+2023-10-09,Germany,Mexico,2,1,Friendly,City,Germany,False
+2023-10-09,France,Peru,0,1,Friendly,City,France,False
+2023-10-16,Tunisia,Mexico,3,0,Friendly,City,Tunisia,False
+2023-10-16,Qatar,Ghana,1,1,Friendly,City,Qatar,False
+2023-10-16,Brazil,Japan,0,1,Friendly,City,Brazil,False
+2023-10-16,Peru,Germany,1,0,Friendly,City,Peru,False
+2023-10-16,Wales,Iran,0,1,Friendly,City,Wales,False
+2023-10-16,Spain,France,1,1,Friendly,City,Spain,False
+2023-10-23,Spain,Mexico,1,1,Friendly,City,Spain,False
+2023-10-23,Germany,Tunisia,1,2,Friendly,City,Germany,False
+2023-10-23,Japan,Ghana,4,2,Friendly,City,Japan,False
+2023-10-23,Iran,Peru,1,1,Friendly,City,Iran,False
+2023-10-23,France,Brazil,2,0,Friendly,City,France,False
+2023-10-23,Wales,Qatar,4,3,Friendly,City,Wales,False
+2023-10-30,Peru,Ghana,1,3,FIFA World Cup qualification,City,Peru,True
+2023-10-30,Brazil,Qatar,3,3,FIFA World Cup qualification,City,Brazil,True
+2023-10-30,Japan,Mexico,2,2,FIFA World Cup qualification,City,Japan,True
+2023-10-30,Spain,Iran,2,2,FIFA World Cup qualification,City,Spain,True
+2023-10-30,Wales,Germany,1,1,FIFA World Cup qualification,City,Wales,True
+2023-10-30,Tunisia,France,2,2,FIFA World Cup qualification,City,Tunisia,True
+2023-11-06,Mexico,Spain,0,3,Friendly,City,Mexico,False
+2023-11-06,Peru,Iran,2,0,Friendly,City,Peru,False
+2023-11-06,Germany,France,1,0,Friendly,City,Germany,False
+2023-11-06,Japan,Qatar,1,0,Friendly,City,Japan,False
+2023-11-06,Tunisia,Wales,2,0,Friendly,City,Tunisia,False
+2023-11-06,Brazil,Ghana,1,0,Friendly,City,Brazil,False
+2023-11-13,Mexico,Japan,0,1,Friendly,City,Mexico,False
+2023-11-13,Wales,Tunisia,0,2,Friendly,City,Wales,False
+2023-11-13,Spain,Iran,5,0,Friendly,City,Spain,False
+2023-11-13,Germany,Qatar,4,0,Friendly,City,Germany,False
+2023-11-13,Brazil,France,2,1,Friendly,City,Brazil,False
+2023-11-13,Peru,Ghana,0,1,Friendly,City,Peru,False
+2023-11-20,Spain,France,1,1,Friendly,City,Spain,False
+2023-11-20,Iran,Brazil,1,1,Friendly,City,Iran,False
+2023-11-20,Germany,Ghana,2,1,Friendly,City,Germany,False
+2023-11-20,Qatar,Peru,2,0,Friendly,City,Qatar,False
+2023-11-20,Wales,Tunisia,1,0,Friendly,City,Wales,False
+2023-11-20,Mexico,Japan,0,2,Friendly,City,Mexico,False
+2023-11-27,Qatar,Spain,0,2,FIFA World Cup,City,Qatar,False
+2023-11-27,Ghana,France,1,0,FIFA World Cup,City,Ghana,False
+2023-11-27,Mexico,Wales,0,0,FIFA World Cup,City,Mexico,False
+2023-11-27,Brazil,Germany,1,1,FIFA World Cup,City,Brazil,False
+2023-11-27,Iran,Japan,2,1,FIFA World Cup,City,Iran,False
+2023-11-27,Tunisia,Peru,1,2,FIFA World Cup,City,Tunisia,False
+2023-12-04,Qatar,Ghana,2,2,Friendly,City,Qatar,True
+2023-12-04,Mexico,Germany,2,4,Friendly,City,Mexico,True
+2023-12-04,France,Peru,0,0,Friendly,City,France,True
+2023-12-04,Japan,Iran,0,1,Friendly,City,Japan,True
+2023-12-04,Spain,Tunisia,3,2,Friendly,City,Spain,True
+2023-12-04,Brazil,Wales,2,0,Friendly,City,Brazil,True
+2023-12-11,Spain,Peru,3,2,Friendly,City,Spain,False
+2023-12-11,Tunisia,Brazil,0,3,Friendly,City,Tunisia,False
+2023-12-11,Mexico,Iran,1,1,Friendly,City,Mexico,False
+2023-12-11,Germany,Wales,1,0,Friendly,City,Germany,False
+2023-12-11,Qatar,Japan,2,0,Friendly,City,Qatar,False
+2023-12-11,Ghana,France,3,2,Friendly,City,Ghana,False
+2023-12-18,Spain,Peru,0,1,Friendly,City,Spain,False
+2023-12-18,Mexico,Germany,0,2,Friendly,City,Mexico,False
+2023-12-18,Wales,Tunisia,1,1,Friendly,City,Wales,False
+2023-12-18,Iran,France,2,2,Friendly,City,Iran,False
+2023-12-18,Japan,Ghana,2,1,Friendly,City,Japan,False
+2023-12-18,Brazil,Qatar,5,0,Friendly,City,Brazil,False
+2023-12-25,Qatar,Spain,3,5,FIFA World Cup qualification,City,Qatar,False
+2023-12-25,Ghana,France,1,0,FIFA World Cup qualification,City,Ghana,False
+2023-12-25,Tunisia,Wales,3,1,FIFA World Cup qualification,City,Tunisia,False
+2023-12-25,Japan,Mexico,2,0,FIFA World Cup qualification,City,Japan,False
+2023-12-25,Germany,Peru,1,0,FIFA World Cup qualification,City,Germany,False
+2023-12-25,Iran,Brazil,1,3,FIFA World Cup qualification,City,Iran,False
+2024-01-01,Iran,Peru,1,1,Friendly,City,Iran,False
+2024-01-01,Brazil,Tunisia,2,1,Friendly,City,Brazil,False
+2024-01-01,Spain,Qatar,0,0,Friendly,City,Spain,False
+2024-01-01,Japan,Germany,1,2,Friendly,City,Japan,False
+2024-01-01,Wales,France,0,1,Friendly,City,Wales,False
+2024-01-01,Ghana,Mexico,1,0,Friendly,City,Ghana,False
+2024-01-08,Wales,Mexico,0,2,Friendly,City,Wales,True
+2024-01-08,Peru,Tunisia,0,1,Friendly,City,Peru,True
+2024-01-08,Germany,Iran,1,0,Friendly,City,Germany,True
+2024-01-08,Ghana,France,0,1,Friendly,City,Ghana,True
+2024-01-08,Japan,Spain,1,3,Friendly,City,Japan,True
+2024-01-08,Qatar,Brazil,3,4,Friendly,City,Qatar,True
+2024-01-15,Japan,Tunisia,1,3,Friendly,City,Japan,False
+2024-01-15,Brazil,Ghana,0,0,Friendly,City,Brazil,False
+2024-01-15,Wales,Qatar,0,1,Friendly,City,Wales,False
+2024-01-15,Spain,Peru,2,2,Friendly,City,Spain,False
+2024-01-15,Iran,Germany,2,1,Friendly,City,Iran,False
+2024-01-15,Mexico,France,1,0,Friendly,City,Mexico,False
+2024-01-22,Wales,Peru,0,0,FIFA World Cup,City,Wales,False
+2024-01-22,Japan,Qatar,7,1,FIFA World Cup,City,Japan,False
+2024-01-22,Tunisia,Germany,1,1,FIFA World Cup,City,Tunisia,False
+2024-01-22,Iran,Spain,1,1,FIFA World Cup,City,Iran,False
+2024-01-22,Mexico,France,3,0,FIFA World Cup,City,Mexico,False
+2024-01-22,Ghana,Brazil,1,1,FIFA World Cup,City,Ghana,False
+2024-01-29,Brazil,Japan,0,1,Friendly,City,Brazil,False
+2024-01-29,France,Mexico,2,1,Friendly,City,France,False
+2024-01-29,Peru,Ghana,1,2,Friendly,City,Peru,False
+2024-01-29,Tunisia,Qatar,3,1,Friendly,City,Tunisia,False
+2024-01-29,Iran,Germany,2,0,Friendly,City,Iran,False
+2024-01-29,Wales,Spain,1,1,Friendly,City,Wales,False
+2024-02-05,Wales,Tunisia,0,2,Friendly,City,Wales,False
+2024-02-05,Iran,Mexico,0,1,Friendly,City,Iran,False
+2024-02-05,Qatar,Ghana,3,1,Friendly,City,Qatar,False
+2024-02-05,Germany,France,1,1,Friendly,City,Germany,False
+2024-02-05,Spain,Peru,2,1,Friendly,City,Spain,False
+2024-02-05,Japan,Brazil,3,2,Friendly,City,Japan,False
+2024-02-12,Spain,Wales,0,0,Friendly,City,Spain,True
+2024-02-12,Japan,Mexico,2,2,Friendly,City,Japan,True
+2024-02-12,Germany,Tunisia,3,1,Friendly,City,Germany,True
+2024-02-12,Iran,Ghana,0,0,Friendly,City,Iran,True
+2024-02-12,Peru,Qatar,0,3,Friendly,City,Peru,True
+2024-02-12,France,Brazil,4,1,Friendly,City,France,True
+2024-02-19,Brazil,Japan,2,1,FIFA World Cup qualification,City,Brazil,False
+2024-02-19,Peru,Tunisia,2,2,FIFA World Cup qualification,City,Peru,False
+2024-02-19,France,Spain,1,2,FIFA World Cup qualification,City,France,False
+2024-02-19,Germany,Wales,1,3,FIFA World Cup qualification,City,Germany,False
+2024-02-19,Mexico,Qatar,2,0,FIFA World Cup qualification,City,Mexico,False
+2024-02-19,Iran,Ghana,1,1,FIFA World Cup qualification,City,Iran,False
+2024-02-26,Wales,Brazil,0,0,Friendly,City,Wales,False
+2024-02-26,France,Japan,4,0,Friendly,City,France,False
+2024-02-26,Germany,Ghana,1,1,Friendly,City,Germany,False
+2024-02-26,Iran,Qatar,1,1,Friendly,City,Iran,False
+2024-02-26,Peru,Spain,2,2,Friendly,City,Peru,False
+2024-02-26,Tunisia,Mexico,3,4,Friendly,City,Tunisia,False
+2024-03-04,Japan,Peru,1,2,Friendly,City,Japan,False
+2024-03-04,Mexico,France,1,2,Friendly,City,Mexico,False
+2024-03-04,Ghana,Tunisia,1,1,Friendly,City,Ghana,False
+2024-03-04,Germany,Qatar,3,1,Friendly,City,Germany,False
+2024-03-04,Iran,Spain,1,1,Friendly,City,Iran,False
+2024-03-04,Wales,Brazil,2,2,Friendly,City,Wales,False
+2024-03-11,Qatar,Wales,0,0,Friendly,City,Qatar,False
+2024-03-11,Ghana,Japan,2,1,Friendly,City,Ghana,False
+2024-03-11,Germany,Brazil,1,1,Friendly,City,Germany,False
+2024-03-11,France,Spain,2,3,Friendly,City,France,False
+2024-03-11,Iran,Tunisia,1,1,Friendly,City,Iran,False
+2024-03-11,Peru,Mexico,2,1,Friendly,City,Peru,False
+2024-03-18,Iran,Tunisia,0,2,FIFA World Cup,City,Iran,True
+2024-03-18,Spain,Japan,4,0,FIFA World Cup,City,Spain,True
+2024-03-18,Mexico,Peru,1,1,FIFA World Cup,City,Mexico,True
+2024-03-18,France,Brazil,2,2,FIFA World Cup,City,France,True
+2024-03-18,Qatar,Ghana,3,1,FIFA World Cup,City,Qatar,True
+2024-03-18,Germany,Wales,2,0,FIFA World Cup,City,Germany,True
+2024-03-25,Germany,Tunisia,1,1,Friendly,City,Germany,False
+2024-03-25,Qatar,Brazil,0,1,Friendly,City,Qatar,False
+2024-03-25,Ghana,France,1,1,Friendly,City,Ghana,False
+2024-03-25,Mexico,Japan,3,0,Friendly,City,Mexico,False
+2024-03-25,Peru,Wales,0,0,Friendly,City,Peru,False
+2024-03-25,Iran,Spain,1,1,Friendly,City,Iran,False
+2024-04-01,Qatar,Tunisia,4,0,Friendly,City,Qatar,False
+2024-04-01,Brazil,Spain,0,1,Friendly,City,Brazil,False
+2024-04-01,Ghana,Japan,2,1,Friendly,City,Ghana,False
+2024-04-01,France,Peru,1,1,Friendly,City,France,False
+2024-04-01,Germany,Wales,1,0,Friendly,City,Germany,False
+2024-04-01,Mexico,Iran,1,0,Friendly,City,Mexico,False
+2024-04-08,Wales,Mexico,0,1,Friendly,City,Wales,False
+2024-04-08,Japan,Ghana,3,0,Friendly,City,Japan,False
+2024-04-08,Germany,Brazil,2,1,Friendly,City,Germany,False
+2024-04-08,Peru,Tunisia,1,2,Friendly,City,Peru,False
+2024-04-08,Spain,France,0,0,Friendly,City,Spain,False
+2024-04-08,Qatar,Iran,0,1,Friendly,City,Qatar,False
+2024-04-15,Spain,Wales,4,1,FIFA World Cup qualification,City,Spain,False
+2024-04-15,Peru,Brazil,2,3,FIFA World Cup qualification,City,Peru,False
+2024-04-15,Tunisia,Iran,2,0,FIFA World Cup qualification,City,Tunisia,False
+2024-04-15,Qatar,Mexico,0,2,FIFA World Cup qualification,City,Qatar,False
+2024-04-15,Japan,Ghana,2,2,FIFA World Cup qualification,City,Japan,False
+2024-04-15,France,Germany,1,0,FIFA World Cup qualification,City,France,False
+2024-04-22,Ghana,France,6,0,Friendly,City,Ghana,True
+2024-04-22,Wales,Tunisia,2,0,Friendly,City,Wales,True
+2024-04-22,Brazil,Peru,3,0,Friendly,City,Brazil,True
+2024-04-22,Iran,Mexico,0,0,Friendly,City,Iran,True
+2024-04-22,Spain,Germany,2,1,Friendly,City,Spain,True
+2024-04-22,Qatar,Japan,1,0,Friendly,City,Qatar,True
+2024-04-29,Tunisia,Mexico,3,1,Friendly,City,Tunisia,False
+2024-04-29,Peru,Iran,0,1,Friendly,City,Peru,False
+2024-04-29,Germany,Wales,0,0,Friendly,City,Germany,False
+2024-04-29,Ghana,Qatar,3,1,Friendly,City,Ghana,False
+2024-04-29,Japan,Spain,0,1,Friendly,City,Japan,False
+2024-04-29,France,Brazil,0,2,Friendly,City,France,False
+2024-05-06,France,Germany,0,0,Friendly,City,France,False
+2024-05-06,Spain,Peru,5,1,Friendly,City,Spain,False
+2024-05-06,Brazil,Ghana,4,0,Friendly,City,Brazil,False
+2024-05-06,Japan,Tunisia,1,4,Friendly,City,Japan,False
+2024-05-06,Iran,Qatar,2,0,Friendly,City,Iran,False
+2024-05-06,Wales,Mexico,1,1,Friendly,City,Wales,False
+2024-05-13,Germany,Qatar,5,0,FIFA World Cup,City,Germany,False
+2024-05-13,Peru,Wales,0,2,FIFA World Cup,City,Peru,False
+2024-05-13,Japan,Brazil,1,3,FIFA World Cup,City,Japan,False
+2024-05-13,Spain,Mexico,1,1,FIFA World Cup,City,Spain,False
+2024-05-13,Ghana,Tunisia,0,0,FIFA World Cup,City,Ghana,False
+2024-05-13,Iran,France,2,1,FIFA World Cup,City,Iran,False
+2024-05-20,Brazil,France,0,0,Friendly,City,Brazil,False
+2024-05-20,Ghana,Iran,0,1,Friendly,City,Ghana,False
+2024-05-20,Tunisia,Peru,1,1,Friendly,City,Tunisia,False
+2024-05-20,Japan,Germany,3,2,Friendly,City,Japan,False
+2024-05-20,Qatar,Mexico,2,3,Friendly,City,Qatar,False
+2024-05-20,Spain,Wales,2,1,Friendly,City,Spain,False
+2024-05-27,Ghana,Wales,2,2,Friendly,City,Ghana,True
+2024-05-27,Germany,Japan,2,2,Friendly,City,Germany,True
+2024-05-27,Iran,Brazil,1,2,Friendly,City,Iran,True
+2024-05-27,Mexico,Tunisia,0,1,Friendly,City,Mexico,True
+2024-05-27,Spain,France,0,4,Friendly,City,Spain,True
+2024-05-27,Qatar,Peru,3,1,Friendly,City,Qatar,True
+2024-06-03,France,Wales,1,0,Friendly,City,France,False
+2024-06-03,Mexico,Iran,0,3,Friendly,City,Mexico,False
+2024-06-03,Peru,Qatar,3,1,Friendly,City,Peru,False
+2024-06-03,Brazil,Tunisia,1,0,Friendly,City,Brazil,False
+2024-06-03,Germany,Spain,0,2,Friendly,City,Germany,False
+2024-06-03,Japan,Ghana,3,3,Friendly,City,Japan,False
+2024-06-10,Brazil,France,2,1,FIFA World Cup qualification,City,Brazil,False
+2024-06-10,Mexico,Wales,2,0,FIFA World Cup qualification,City,Mexico,False
+2024-06-10,Japan,Peru,2,5,FIFA World Cup qualification,City,Japan,False
+2024-06-10,Germany,Ghana,4,0,FIFA World Cup qualification,City,Germany,False
+2024-06-10,Iran,Tunisia,0,2,FIFA World Cup qualification,City,Iran,False
+2024-06-10,Qatar,Spain,1,0,FIFA World Cup qualification,City,Qatar,False
+2024-06-17,Iran,France,0,1,Friendly,City,Iran,False
+2024-06-17,Japan,Ghana,4,0,Friendly,City,Japan,False
+2024-06-17,Mexico,Germany,1,2,Friendly,City,Mexico,False
+2024-06-17,Tunisia,Brazil,0,2,Friendly,City,Tunisia,False
+2024-06-17,Peru,Wales,1,0,Friendly,City,Peru,False
+2024-06-17,Spain,Qatar,0,2,Friendly,City,Spain,False
+2024-06-24,Brazil,Tunisia,1,1,Friendly,City,Brazil,False
+2024-06-24,France,Spain,2,0,Friendly,City,France,False
+2024-06-24,Wales,Peru,1,3,Friendly,City,Wales,False
+2024-06-24,Qatar,Iran,5,3,Friendly,City,Qatar,False
+2024-06-24,Mexico,Japan,1,4,Friendly,City,Mexico,False
+2024-06-24,Ghana,Germany,2,0,Friendly,City,Ghana,False
+2024-07-01,Tunisia,Ghana,1,0,Friendly,City,Tunisia,True
+2024-07-01,Qatar,Germany,0,1,Friendly,City,Qatar,True
+2024-07-01,Spain,Brazil,4,0,Friendly,City,Spain,True
+2024-07-01,Iran,Wales,3,1,Friendly,City,Iran,True
+2024-07-01,France,Mexico,0,1,Friendly,City,France,True
+2024-07-01,Peru,Japan,0,1,Friendly,City,Peru,True
+2024-07-08,Brazil,Mexico,2,1,FIFA World Cup,City,Brazil,False
+2024-07-08,Japan,Ghana,1,0,FIFA World Cup,City,Japan,False
+2024-07-08,France,Peru,2,0,FIFA World Cup,City,France,False
+2024-07-08,Germany,Spain,2,1,FIFA World Cup,City,Germany,False
+2024-07-08,Qatar,Iran,0,0,FIFA World Cup,City,Qatar,False
+2024-07-08,Wales,Tunisia,3,1,FIFA World Cup,City,Wales,False
+2024-07-15,Tunisia,Qatar,6,2,Friendly,City,Tunisia,False
+2024-07-15,Brazil,Japan,0,5,Friendly,City,Brazil,False
+2024-07-15,Ghana,France,1,4,Friendly,City,Ghana,False
+2024-07-15,Spain,Germany,2,2,Friendly,City,Spain,False
+2024-07-15,Iran,Mexico,1,0,Friendly,City,Iran,False
+2024-07-15,Peru,Wales,0,0,Friendly,City,Peru,False
+2024-07-22,Mexico,Peru,0,0,Friendly,City,Mexico,False
+2024-07-22,Japan,Ghana,3,1,Friendly,City,Japan,False
+2024-07-22,Wales,France,1,1,Friendly,City,Wales,False
+2024-07-22,Spain,Iran,1,1,Friendly,City,Spain,False
+2024-07-22,Tunisia,Qatar,0,2,Friendly,City,Tunisia,False
+2024-07-22,Brazil,Germany,3,1,Friendly,City,Brazil,False
+2024-07-29,Wales,Brazil,1,3,Friendly,City,Wales,False
+2024-07-29,Iran,Germany,3,1,Friendly,City,Iran,False
+2024-07-29,Qatar,Tunisia,0,2,Friendly,City,Qatar,False
+2024-07-29,Japan,Mexico,3,3,Friendly,City,Japan,False
+2024-07-29,France,Ghana,1,1,Friendly,City,France,False
+2024-07-29,Spain,Peru,1,1,Friendly,City,Spain,False
+2024-08-05,Mexico,Peru,0,3,FIFA World Cup qualification,City,Mexico,True
+2024-08-05,Spain,Brazil,1,2,FIFA World Cup qualification,City,Spain,True
+2024-08-05,Tunisia,Wales,2,0,FIFA World Cup qualification,City,Tunisia,True
+2024-08-05,Ghana,Germany,1,2,FIFA World Cup qualification,City,Ghana,True
+2024-08-05,France,Iran,1,3,FIFA World Cup qualification,City,France,True
+2024-08-05,Qatar,Japan,3,2,FIFA World Cup qualification,City,Qatar,True
+2024-08-12,Peru,Germany,3,1,Friendly,City,Peru,False
+2024-08-12,Brazil,Iran,3,1,Friendly,City,Brazil,False
+2024-08-12,Qatar,Mexico,0,0,Friendly,City,Qatar,False
+2024-08-12,France,Japan,3,2,Friendly,City,France,False
+2024-08-12,Tunisia,Wales,4,0,Friendly,City,Tunisia,False
+2024-08-12,Spain,Ghana,0,4,Friendly,City,Spain,False
+2024-08-19,Qatar,Mexico,5,0,Friendly,City,Qatar,False
+2024-08-19,Peru,France,1,0,Friendly,City,Peru,False
+2024-08-19,Wales,Brazil,0,1,Friendly,City,Wales,False
+2024-08-19,Ghana,Iran,1,1,Friendly,City,Ghana,False
+2024-08-19,Tunisia,Germany,1,4,Friendly,City,Tunisia,False
+2024-08-19,Spain,Japan,0,4,Friendly,City,Spain,False
+2024-08-26,Wales,Tunisia,3,1,Friendly,City,Wales,False
+2024-08-26,Japan,France,3,1,Friendly,City,Japan,False
+2024-08-26,Mexico,Germany,1,0,Friendly,City,Mexico,False
+2024-08-26,Ghana,Peru,1,2,Friendly,City,Ghana,False
+2024-08-26,Qatar,Brazil,2,5,Friendly,City,Qatar,False
+2024-08-26,Iran,Spain,2,0,Friendly,City,Iran,False
+2024-09-02,Germany,Tunisia,1,3,FIFA World Cup,City,Germany,False
+2024-09-02,Spain,France,1,1,FIFA World Cup,City,Spain,False
+2024-09-02,Peru,Brazil,0,1,FIFA World Cup,City,Peru,False
+2024-09-02,Wales,Mexico,1,2,FIFA World Cup,City,Wales,False
+2024-09-02,Japan,Qatar,2,0,FIFA World Cup,City,Japan,False
+2024-09-02,Iran,Ghana,0,1,FIFA World Cup,City,Iran,False
+2024-09-09,Japan,Brazil,1,2,Friendly,City,Japan,True
+2024-09-09,Tunisia,Ghana,0,0,Friendly,City,Tunisia,True
+2024-09-09,Germany,Iran,1,1,Friendly,City,Germany,True
+2024-09-09,France,Wales,2,0,Friendly,City,France,True
+2024-09-09,Peru,Mexico,4,0,Friendly,City,Peru,True
+2024-09-09,Qatar,Spain,2,0,Friendly,City,Qatar,True
+2024-09-16,Mexico,Ghana,0,0,Friendly,City,Mexico,False
+2024-09-16,Spain,Germany,3,1,Friendly,City,Spain,False
+2024-09-16,Wales,Brazil,1,6,Friendly,City,Wales,False
+2024-09-16,Qatar,Iran,3,1,Friendly,City,Qatar,False
+2024-09-16,Japan,Peru,3,0,Friendly,City,Japan,False
+2024-09-16,France,Tunisia,1,2,Friendly,City,France,False
+2024-09-23,Qatar,Brazil,2,3,Friendly,City,Qatar,False
+2024-09-23,Wales,Tunisia,1,3,Friendly,City,Wales,False
+2024-09-23,Spain,Germany,3,1,Friendly,City,Spain,False
+2024-09-23,France,Mexico,3,0,Friendly,City,France,False
+2024-09-23,Ghana,Iran,0,1,Friendly,City,Ghana,False
+2024-09-23,Japan,Peru,2,1,Friendly,City,Japan,False
+2024-09-30,Tunisia,Qatar,3,0,FIFA World Cup qualification,City,Tunisia,False
+2024-09-30,Wales,Spain,1,1,FIFA World Cup qualification,City,Wales,False
+2024-09-30,Ghana,France,1,0,FIFA World Cup qualification,City,Ghana,False
+2024-09-30,Peru,Iran,1,0,FIFA World Cup qualification,City,Peru,False
+2024-09-30,Mexico,Japan,2,2,FIFA World Cup qualification,City,Mexico,False
+2024-09-30,Brazil,Germany,2,2,FIFA World Cup qualification,City,Brazil,False
+2024-10-07,Qatar,Tunisia,0,0,Friendly,City,Qatar,False
+2024-10-07,Mexico,Wales,0,1,Friendly,City,Mexico,False
+2024-10-07,Brazil,Germany,2,2,Friendly,City,Brazil,False
+2024-10-07,Peru,France,1,0,Friendly,City,Peru,False
+2024-10-07,Ghana,Spain,3,0,Friendly,City,Ghana,False
+2024-10-07,Japan,Iran,2,0,Friendly,City,Japan,False
+2024-10-14,Iran,Germany,2,2,Friendly,City,Iran,True
+2024-10-14,Peru,Qatar,6,1,Friendly,City,Peru,True
+2024-10-14,France,Tunisia,3,0,Friendly,City,France,True
+2024-10-14,Brazil,Mexico,2,0,Friendly,City,Brazil,True
+2024-10-14,Wales,Spain,0,0,Friendly,City,Wales,True
+2024-10-14,Ghana,Japan,1,2,Friendly,City,Ghana,True
+2024-10-21,Tunisia,Wales,2,2,Friendly,City,Tunisia,False
+2024-10-21,Peru,Spain,2,0,Friendly,City,Peru,False
+2024-10-21,Qatar,Japan,1,2,Friendly,City,Qatar,False
+2024-10-21,Iran,Germany,1,3,Friendly,City,Iran,False
+2024-10-21,France,Ghana,2,2,Friendly,City,France,False
+2024-10-21,Mexico,Brazil,2,4,Friendly,City,Mexico,False
+2024-10-28,Peru,France,3,3,FIFA World Cup,City,Peru,False
+2024-10-28,Brazil,Germany,4,2,FIFA World Cup,City,Brazil,False
+2024-10-28,Qatar,Mexico,2,1,FIFA World Cup,City,Qatar,False
+2024-10-28,Tunisia,Iran,1,1,FIFA World Cup,City,Tunisia,False
+2024-10-28,Japan,Spain,3,3,FIFA World Cup,City,Japan,False
+2024-10-28,Wales,Ghana,1,1,FIFA World Cup,City,Wales,False
+2024-11-04,France,Brazil,1,1,Friendly,City,France,False
+2024-11-04,Wales,Ghana,1,2,Friendly,City,Wales,False
+2024-11-04,Spain,Iran,1,1,Friendly,City,Spain,False
+2024-11-04,Mexico,Germany,0,1,Friendly,City,Mexico,False
+2024-11-04,Qatar,Peru,0,0,Friendly,City,Qatar,False
+2024-11-04,Japan,Tunisia,3,0,Friendly,City,Japan,False
+2024-11-11,France,Iran,2,2,Friendly,City,France,False
+2024-11-11,Germany,Mexico,2,3,Friendly,City,Germany,False
+2024-11-11,Wales,Tunisia,1,0,Friendly,City,Wales,False
+2024-11-11,Ghana,Peru,1,1,Friendly,City,Ghana,False
+2024-11-11,Spain,Japan,3,2,Friendly,City,Spain,False
+2024-11-11,Qatar,Brazil,1,0,Friendly,City,Qatar,False
+2024-11-18,Mexico,Tunisia,0,1,Friendly,City,Mexico,True
+2024-11-18,Spain,Brazil,3,2,Friendly,City,Spain,True
+2024-11-18,Wales,Germany,0,2,Friendly,City,Wales,True
+2024-11-18,Japan,Ghana,2,1,Friendly,City,Japan,True
+2024-11-18,Peru,France,0,1,Friendly,City,Peru,True
+2024-11-18,Iran,Qatar,1,0,Friendly,City,Iran,True
+2024-11-25,Mexico,Spain,0,1,FIFA World Cup qualification,City,Mexico,False
+2024-11-25,Tunisia,Ghana,2,0,FIFA World Cup qualification,City,Tunisia,False
+2024-11-25,Wales,France,1,0,FIFA World Cup qualification,City,Wales,False
+2024-11-25,Iran,Brazil,0,1,FIFA World Cup qualification,City,Iran,False
+2024-11-25,Peru,Qatar,0,2,FIFA World Cup qualification,City,Peru,False
+2024-11-25,Japan,Germany,3,4,FIFA World Cup qualification,City,Japan,False
+2024-12-02,Brazil,Tunisia,3,3,Friendly,City,Brazil,False
+2024-12-02,Ghana,Germany,1,2,Friendly,City,Ghana,False
+2024-12-02,Iran,Peru,0,3,Friendly,City,Iran,False
+2024-12-02,Spain,Mexico,0,0,Friendly,City,Spain,False
+2024-12-02,Qatar,Wales,3,1,Friendly,City,Qatar,False
+2024-12-02,France,Japan,0,2,Friendly,City,France,False
+2024-12-09,Mexico,Ghana,1,2,Friendly,City,Mexico,False
+2024-12-09,Tunisia,Brazil,0,3,Friendly,City,Tunisia,False
+2024-12-09,Iran,Qatar,0,1,Friendly,City,Iran,False
+2024-12-09,Japan,France,4,0,Friendly,City,Japan,False
+2024-12-09,Germany,Peru,0,2,Friendly,City,Germany,False
+2024-12-09,Spain,Wales,1,2,Friendly,City,Spain,False
+2024-12-16,Mexico,Qatar,0,0,Friendly,City,Mexico,False
+2024-12-16,Germany,Wales,1,1,Friendly,City,Germany,False
+2024-12-16,Iran,Brazil,0,1,Friendly,City,Iran,False
+2024-12-16,Peru,Japan,4,2,Friendly,City,Peru,False
+2024-12-16,Tunisia,France,0,1,Friendly,City,Tunisia,False
+2024-12-16,Ghana,Spain,3,1,Friendly,City,Ghana,False
+2024-12-23,Peru,Iran,0,1,FIFA World Cup,City,Peru,True
+2024-12-23,Wales,Brazil,1,2,FIFA World Cup,City,Wales,True
+2024-12-23,Ghana,Spain,4,2,FIFA World Cup,City,Ghana,True
+2024-12-23,Japan,Tunisia,2,3,FIFA World Cup,City,Japan,True
+2024-12-23,France,Qatar,0,0,FIFA World Cup,City,France,True
+2024-12-23,Germany,Mexico,1,1,FIFA World Cup,City,Germany,True
+2024-12-30,Germany,Wales,2,0,Friendly,City,Germany,False
+2024-12-30,Japan,Qatar,2,1,Friendly,City,Japan,False
+2024-12-30,Ghana,Tunisia,1,2,Friendly,City,Ghana,False
+2024-12-30,Brazil,France,3,1,Friendly,City,Brazil,False
+2024-12-30,Iran,Spain,2,3,Friendly,City,Iran,False
+2024-12-30,Mexico,Peru,2,0,Friendly,City,Mexico,False
+2025-01-06,Brazil,Wales,2,1,Friendly,City,Brazil,False
+2025-01-06,Tunisia,Iran,1,0,Friendly,City,Tunisia,False
+2025-01-06,Germany,Mexico,3,0,Friendly,City,Germany,False
+2025-01-06,France,Peru,0,0,Friendly,City,France,False
+2025-01-06,Japan,Ghana,3,1,Friendly,City,Japan,False
+2025-01-06,Spain,Qatar,1,1,Friendly,City,Spain,False
+2025-01-13,Wales,Ghana,2,0,Friendly,City,Wales,False
+2025-01-13,Qatar,Peru,1,2,Friendly,City,Qatar,False
+2025-01-13,Brazil,Germany,1,2,Friendly,City,Brazil,False
+2025-01-13,Tunisia,Spain,3,1,Friendly,City,Tunisia,False
+2025-01-13,France,Japan,0,0,Friendly,City,France,False
+2025-01-13,Mexico,Iran,0,0,Friendly,City,Mexico,False
+2025-01-20,Peru,Ghana,2,0,FIFA World Cup qualification,City,Peru,False
+2025-01-20,Brazil,Spain,0,0,FIFA World Cup qualification,City,Brazil,False
+2025-01-20,Tunisia,Mexico,6,1,FIFA World Cup qualification,City,Tunisia,False
+2025-01-20,France,Germany,1,1,FIFA World Cup qualification,City,France,False
+2025-01-20,Iran,Wales,2,0,FIFA World Cup qualification,City,Iran,False
+2025-01-20,Japan,Qatar,2,1,FIFA World Cup qualification,City,Japan,False
+2025-01-27,Wales,Ghana,0,3,Friendly,City,Wales,True
+2025-01-27,France,Mexico,4,0,Friendly,City,France,True
+2025-01-27,Peru,Germany,0,0,Friendly,City,Peru,True
+2025-01-27,Tunisia,Japan,1,3,Friendly,City,Tunisia,True
+2025-01-27,Spain,Brazil,1,2,Friendly,City,Spain,True
+2025-01-27,Qatar,Iran,0,4,Friendly,City,Qatar,True
+2025-02-03,France,Brazil,0,0,Friendly,City,France,False
+2025-02-03,Mexico,Wales,3,1,Friendly,City,Mexico,False
+2025-02-03,Qatar,Japan,0,0,Friendly,City,Qatar,False
+2025-02-03,Peru,Tunisia,0,1,Friendly,City,Peru,False
+2025-02-03,Iran,Ghana,2,0,Friendly,City,Iran,False
+2025-02-03,Spain,Germany,2,0,Friendly,City,Spain,False
+2025-02-10,Wales,Iran,0,2,Friendly,City,Wales,False
+2025-02-10,Qatar,Peru,2,1,Friendly,City,Qatar,False
+2025-02-10,Ghana,France,1,1,Friendly,City,Ghana,False
+2025-02-10,Tunisia,Japan,0,2,Friendly,City,Tunisia,False
+2025-02-10,Spain,Brazil,1,3,Friendly,City,Spain,False
+2025-02-10,Germany,Mexico,4,2,Friendly,City,Germany,False
+2025-02-17,Qatar,Mexico,3,3,FIFA World Cup,City,Qatar,False
+2025-02-17,Spain,France,2,1,FIFA World Cup,City,Spain,False
+2025-02-17,Tunisia,Brazil,3,4,FIFA World Cup,City,Tunisia,False
+2025-02-17,Germany,Peru,2,2,FIFA World Cup,City,Germany,False
+2025-02-17,Japan,Wales,1,0,FIFA World Cup,City,Japan,False
+2025-02-17,Iran,Ghana,1,1,FIFA World Cup,City,Iran,False
+2025-02-24,Ghana,Wales,0,0,Friendly,City,Ghana,False
+2025-02-24,Qatar,Mexico,1,0,Friendly,City,Qatar,False
+2025-02-24,France,Germany,1,0,Friendly,City,France,False
+2025-02-24,Tunisia,Iran,2,0,Friendly,City,Tunisia,False
+2025-02-24,Spain,Japan,2,5,Friendly,City,Spain,False
+2025-02-24,Brazil,Peru,0,2,Friendly,City,Brazil,False
+2025-03-03,Germany,Qatar,1,1,Friendly,City,Germany,True
+2025-03-03,Iran,France,1,1,Friendly,City,Iran,True
+2025-03-03,Mexico,Brazil,3,2,Friendly,City,Mexico,True
+2025-03-03,Peru,Ghana,1,1,Friendly,City,Peru,True
+2025-03-03,Tunisia,Wales,0,1,Friendly,City,Tunisia,True
+2025-03-03,Japan,Spain,0,1,Friendly,City,Japan,True
+2025-03-10,Brazil,Iran,0,1,Friendly,City,Brazil,False
+2025-03-10,Qatar,Spain,0,3,Friendly,City,Qatar,False
+2025-03-10,Mexico,Peru,2,1,Friendly,City,Mexico,False
+2025-03-10,Wales,Germany,0,0,Friendly,City,Wales,False
+2025-03-10,Ghana,France,1,0,Friendly,City,Ghana,False
+2025-03-10,Japan,Tunisia,0,1,Friendly,City,Japan,False
+2025-03-17,Spain,Tunisia,2,2,FIFA World Cup qualification,City,Spain,False
+2025-03-17,Peru,Mexico,4,2,FIFA World Cup qualification,City,Peru,False
+2025-03-17,Germany,Wales,0,0,FIFA World Cup qualification,City,Germany,False
+2025-03-17,Qatar,Brazil,0,2,FIFA World Cup qualification,City,Qatar,False
+2025-03-17,Japan,France,2,0,FIFA World Cup qualification,City,Japan,False
+2025-03-17,Ghana,Iran,1,1,FIFA World Cup qualification,City,Ghana,False
+2025-03-24,Japan,Peru,0,1,Friendly,City,Japan,False
+2025-03-24,Qatar,Spain,1,2,Friendly,City,Qatar,False
+2025-03-24,Tunisia,Brazil,3,2,Friendly,City,Tunisia,False
+2025-03-24,Wales,Germany,1,2,Friendly,City,Wales,False
+2025-03-24,France,Mexico,0,0,Friendly,City,France,False
+2025-03-24,Iran,Ghana,2,1,Friendly,City,Iran,False
+2025-03-31,Ghana,Spain,0,1,Friendly,City,Ghana,False
+2025-03-31,Japan,France,2,0,Friendly,City,Japan,False
+2025-03-31,Brazil,Peru,2,1,Friendly,City,Brazil,False
+2025-03-31,Tunisia,Qatar,2,2,Friendly,City,Tunisia,False
+2025-03-31,Germany,Wales,2,0,Friendly,City,Germany,False
+2025-03-31,Mexico,Iran,3,1,Friendly,City,Mexico,False
+2025-04-07,Peru,Qatar,0,0,Friendly,City,Peru,True
+2025-04-07,Germany,Wales,2,0,Friendly,City,Germany,True
+2025-04-07,Japan,Brazil,1,1,Friendly,City,Japan,True
+2025-04-07,Mexico,Iran,0,2,Friendly,City,Mexico,True
+2025-04-07,Tunisia,Spain,0,0,Friendly,City,Tunisia,True
+2025-04-07,France,Ghana,2,2,Friendly,City,France,True
+2025-04-14,Wales,Ghana,1,2,FIFA World Cup,City,Wales,False
+2025-04-14,Germany,Mexico,0,1,FIFA World Cup,City,Germany,False
+2025-04-14,Peru,France,0,2,FIFA World Cup,City,Peru,False
+2025-04-14,Qatar,Tunisia,3,0,FIFA World Cup,City,Qatar,False
+2025-04-14,Spain,Iran,1,1,FIFA World Cup,City,Spain,False
+2025-04-14,Brazil,Japan,3,4,FIFA World Cup,City,Brazil,False
+2025-04-21,Wales,Peru,1,2,Friendly,City,Wales,False
+2025-04-21,France,Tunisia,2,0,Friendly,City,France,False
+2025-04-21,Japan,Germany,1,3,Friendly,City,Japan,False
+2025-04-21,Ghana,Spain,1,2,Friendly,City,Ghana,False
+2025-04-21,Iran,Qatar,1,1,Friendly,City,Iran,False
+2025-04-21,Brazil,Mexico,2,1,Friendly,City,Brazil,False
+2025-04-28,Wales,Peru,2,0,Friendly,City,Wales,False
+2025-04-28,Tunisia,Brazil,1,1,Friendly,City,Tunisia,False
+2025-04-28,Mexico,Spain,1,2,Friendly,City,Mexico,False
+2025-04-28,France,Germany,1,0,Friendly,City,France,False
+2025-04-28,Iran,Ghana,1,2,Friendly,City,Iran,False
+2025-04-28,Qatar,Japan,1,0,Friendly,City,Qatar,False
+2025-05-05,Iran,Germany,1,1,Friendly,City,Iran,False
+2025-05-05,Qatar,Japan,2,0,Friendly,City,Qatar,False
+2025-05-05,Peru,Mexico,0,1,Friendly,City,Peru,False
+2025-05-05,France,Ghana,3,0,Friendly,City,France,False
+2025-05-05,Brazil,Wales,0,0,Friendly,City,Brazil,False
+2025-05-05,Tunisia,Spain,4,2,Friendly,City,Tunisia,False
+2025-05-12,Qatar,France,1,1,FIFA World Cup qualification,City,Qatar,True
+2025-05-12,Wales,Brazil,0,3,FIFA World Cup qualification,City,Wales,True
+2025-05-12,Mexico,Iran,2,1,FIFA World Cup qualification,City,Mexico,True
+2025-05-12,Tunisia,Spain,0,2,FIFA World Cup qualification,City,Tunisia,True
+2025-05-12,Peru,Japan,1,2,FIFA World Cup qualification,City,Peru,True
+2025-05-12,Ghana,Germany,1,1,FIFA World Cup qualification,City,Ghana,True
+2025-05-19,Japan,Peru,3,1,Friendly,City,Japan,False
+2025-05-19,Mexico,Qatar,0,2,Friendly,City,Mexico,False
+2025-05-19,Brazil,Iran,1,1,Friendly,City,Brazil,False
+2025-05-19,Spain,Tunisia,4,3,Friendly,City,Spain,False
+2025-05-19,Wales,Germany,0,0,Friendly,City,Wales,False
+2025-05-19,Ghana,France,0,0,Friendly,City,Ghana,False
+2025-05-26,Germany,Ghana,0,0,Friendly,City,Germany,False
+2025-05-26,Spain,Qatar,1,0,Friendly,City,Spain,False
+2025-05-26,Tunisia,France,1,2,Friendly,City,Tunisia,False
+2025-05-26,Iran,Brazil,0,1,Friendly,City,Iran,False
+2025-05-26,Wales,Peru,2,1,Friendly,City,Wales,False
+2025-05-26,Mexico,Japan,0,6,Friendly,City,Mexico,False
+2025-06-02,Germany,Qatar,0,1,Friendly,City,Germany,False
+2025-06-02,Tunisia,Wales,1,0,Friendly,City,Tunisia,False
+2025-06-02,Peru,Ghana,2,0,Friendly,City,Peru,False
+2025-06-02,Iran,Japan,1,2,Friendly,City,Iran,False
+2025-06-02,Brazil,France,1,1,Friendly,City,Brazil,False
+2025-06-02,Mexico,Spain,0,1,Friendly,City,Mexico,False
+2025-06-09,Iran,Tunisia,1,1,FIFA World Cup,City,Iran,False
+2025-06-09,Wales,Germany,0,0,FIFA World Cup,City,Wales,False
+2025-06-09,Brazil,Mexico,3,0,FIFA World Cup,City,Brazil,False
+2025-06-09,France,Qatar,0,1,FIFA World Cup,City,France,False
+2025-06-09,Peru,Spain,3,0,FIFA World Cup,City,Peru,False
+2025-06-09,Ghana,Japan,1,1,FIFA World Cup,City,Ghana,False
+2025-06-16,Spain,Japan,1,2,Friendly,City,Spain,True
+2025-06-16,Peru,Mexico,2,1,Friendly,City,Peru,True
+2025-06-16,Wales,Tunisia,0,4,Friendly,City,Wales,True
+2025-06-16,Iran,Ghana,0,3,Friendly,City,Iran,True
+2025-06-16,Germany,Brazil,0,0,Friendly,City,Germany,True
+2025-06-16,France,Qatar,2,0,Friendly,City,France,True
+2025-06-23,Qatar,Iran,1,0,Friendly,City,Qatar,False
+2025-06-23,Ghana,Brazil,0,0,Friendly,City,Ghana,False
+2025-06-23,Peru,Germany,1,2,Friendly,City,Peru,False
+2025-06-23,Japan,Mexico,4,0,Friendly,City,Japan,False
+2025-06-23,Spain,Tunisia,2,4,Friendly,City,Spain,False
+2025-06-23,France,Wales,2,0,Friendly,City,France,False
+2025-06-30,Wales,Japan,4,3,Friendly,City,Wales,False
+2025-06-30,Mexico,Qatar,3,0,Friendly,City,Mexico,False
+2025-06-30,Iran,France,0,1,Friendly,City,Iran,False
+2025-06-30,Spain,Germany,0,5,Friendly,City,Spain,False
+2025-06-30,Ghana,Brazil,3,1,Friendly,City,Ghana,False
+2025-06-30,Peru,Tunisia,0,0,Friendly,City,Peru,False
+2025-07-07,Spain,Japan,0,2,FIFA World Cup qualification,City,Spain,False
+2025-07-07,Iran,France,1,0,FIFA World Cup qualification,City,Iran,False
+2025-07-07,Qatar,Wales,3,0,FIFA World Cup qualification,City,Qatar,False
+2025-07-07,Tunisia,Brazil,0,1,FIFA World Cup qualification,City,Tunisia,False
+2025-07-07,Ghana,Peru,3,0,FIFA World Cup qualification,City,Ghana,False
+2025-07-07,Germany,Mexico,2,0,FIFA World Cup qualification,City,Germany,False
+2025-07-14,Germany,Brazil,1,1,Friendly,City,Germany,False
+2025-07-14,Ghana,Japan,4,1,Friendly,City,Ghana,False
+2025-07-14,Qatar,Peru,2,0,Friendly,City,Qatar,False
+2025-07-14,Iran,France,1,2,Friendly,City,Iran,False
+2025-07-14,Spain,Mexico,3,1,Friendly,City,Spain,False
+2025-07-14,Wales,Tunisia,1,0,Friendly,City,Wales,False
+2025-07-21,Wales,Brazil,1,1,Friendly,City,Wales,True
+2025-07-21,Iran,France,2,1,Friendly,City,Iran,True
+2025-07-21,Spain,Japan,2,3,Friendly,City,Spain,True
+2025-07-21,Tunisia,Mexico,1,1,Friendly,City,Tunisia,True
+2025-07-21,Germany,Qatar,2,2,Friendly,City,Germany,True
+2025-07-21,Peru,Ghana,1,0,Friendly,City,Peru,True
+2025-07-28,Ghana,Brazil,2,3,Friendly,City,Ghana,False
+2025-07-28,Germany,Japan,2,1,Friendly,City,Germany,False
+2025-07-28,Wales,Qatar,1,1,Friendly,City,Wales,False
+2025-07-28,Iran,France,3,2,Friendly,City,Iran,False
+2025-07-28,Mexico,Peru,1,0,Friendly,City,Mexico,False
+2025-07-28,Tunisia,Spain,1,3,Friendly,City,Tunisia,False
+2025-08-04,Germany,Iran,0,0,FIFA World Cup,City,Germany,False
+2025-08-04,France,Wales,1,0,FIFA World Cup,City,France,False
+2025-08-04,Ghana,Peru,1,1,FIFA World Cup,City,Ghana,False
+2025-08-04,Mexico,Tunisia,1,1,FIFA World Cup,City,Mexico,False
+2025-08-04,Qatar,Brazil,2,2,FIFA World Cup,City,Qatar,False
+2025-08-04,Japan,Spain,1,0,FIFA World Cup,City,Japan,False
+2025-08-11,Ghana,Qatar,0,2,Friendly,City,Ghana,False
+2025-08-11,Germany,Wales,2,0,Friendly,City,Germany,False
+2025-08-11,Spain,Tunisia,1,0,Friendly,City,Spain,False
+2025-08-11,Iran,Japan,4,2,Friendly,City,Iran,False
+2025-08-11,Mexico,Brazil,2,1,Friendly,City,Mexico,False
+2025-08-11,France,Peru,1,1,Friendly,City,France,False
+2025-08-18,Mexico,Wales,0,2,Friendly,City,Mexico,False
+2025-08-18,Qatar,Spain,2,0,Friendly,City,Qatar,False
+2025-08-18,Brazil,Tunisia,5,4,Friendly,City,Brazil,False
+2025-08-18,Ghana,France,0,1,Friendly,City,Ghana,False
+2025-08-18,Iran,Japan,0,0,Friendly,City,Iran,False
+2025-08-18,Germany,Peru,2,0,Friendly,City,Germany,False
+2025-08-25,Mexico,Germany,1,0,Friendly,City,Mexico,True
+2025-08-25,Tunisia,Brazil,1,1,Friendly,City,Tunisia,True
+2025-08-25,Qatar,Japan,2,1,Friendly,City,Qatar,True
+2025-08-25,Wales,Peru,0,0,Friendly,City,Wales,True
+2025-08-25,France,Spain,1,1,Friendly,City,France,True
+2025-08-25,Iran,Ghana,1,0,Friendly,City,Iran,True
+2025-09-01,Germany,Peru,3,0,FIFA World Cup qualification,City,Germany,False
+2025-09-01,Brazil,France,4,2,FIFA World Cup qualification,City,Brazil,False
+2025-09-01,Spain,Mexico,1,1,FIFA World Cup qualification,City,Spain,False
+2025-09-01,Qatar,Wales,0,1,FIFA World Cup qualification,City,Qatar,False
+2025-09-01,Tunisia,Ghana,0,2,FIFA World Cup qualification,City,Tunisia,False
+2025-09-01,Japan,Iran,3,1,FIFA World Cup qualification,City,Japan,False
+2025-09-08,Wales,Tunisia,1,2,Friendly,City,Wales,False
+2025-09-08,France,Spain,2,2,Friendly,City,France,False
+2025-09-08,Japan,Ghana,2,0,Friendly,City,Japan,False
+2025-09-08,Peru,Mexico,1,3,Friendly,City,Peru,False
+2025-09-08,Germany,Iran,1,0,Friendly,City,Germany,False
+2025-09-08,Brazil,Qatar,2,0,Friendly,City,Brazil,False
+2025-09-15,Tunisia,Mexico,2,1,Friendly,City,Tunisia,False
+2025-09-15,Qatar,Iran,0,0,Friendly,City,Qatar,False
+2025-09-15,Spain,France,1,1,Friendly,City,Spain,False
+2025-09-15,Brazil,Wales,1,0,Friendly,City,Brazil,False
+2025-09-15,Ghana,Japan,1,1,Friendly,City,Ghana,False
+2025-09-15,Peru,Germany,3,0,Friendly,City,Peru,False
+2025-09-22,Mexico,Wales,0,0,Friendly,City,Mexico,False
+2025-09-22,Peru,Ghana,1,0,Friendly,City,Peru,False
+2025-09-22,Germany,Tunisia,1,0,Friendly,City,Germany,False
+2025-09-22,Qatar,France,2,0,Friendly,City,Qatar,False
+2025-09-22,Japan,Iran,1,0,Friendly,City,Japan,False
+2025-09-22,Spain,Brazil,0,2,Friendly,City,Spain,False

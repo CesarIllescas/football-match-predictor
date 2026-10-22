@@ -1,0 +1,39 @@
+# Secrets
+.env
+*.env
+!.env.example
+kaggle.json
+
+# Local project brief
+PROJECT_PROMPT.md
+
+# Data (keep folder structure + READMEs only)
+data/raw/**
+data/processed/**
+!data/raw/README.md
+!data/raw/kaggle_international_results/
+!data/raw/kaggle_international_results/README.md
+!data/processed/README.md
+
+# Model artifacts
+models/
+mlruns/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
